@@ -1,0 +1,6 @@
+X001
+Dwa oporniki 1 kom połączone są w szereg i dołączone do napięcia 200 V. Jaki jest spadek napięcia na każdym z tych oporników ?
+50 V
+100 V
+200 V
+

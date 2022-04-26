@@ -1,0 +1,5 @@
+316. Poprawne literowanie wg alfabetu ITU litery B i F:
+a) Bil, Fox
+b) Bravo, Foxtrot
+c) Box, Florida
+

@@ -1,0 +1,6 @@
+X001
+Skrót EME oznacza łączności na UKF:
+z wykorzystaniem odbicia sygnału od Księżyca
+wykorzystaniem do łączności siły elektromotorycznej SEM
+za pomocą elektromagnetycznej emisji EME na UKF
+

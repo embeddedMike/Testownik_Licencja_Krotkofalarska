@@ -1,0 +1,5 @@
+239. Czy radiostację i urządzenia pomocnicze można podłączać do gniazd zasilanych z dwóch różnych faz ?
+a) można, nie ma żadnych przeciwwskazań
+b) kategorycznie nie można, grozi to zniszczeniem sprzętu i porażeniem operatora
+c) można, jeżeli jednocześnie nie używa się wszystkich urządzeń
+

@@ -1,0 +1,5 @@
+114. Spadek napięcia na oporniku wynosi 100 V, przy prądzie 10 mA. Opornik jakiej mocy zastosujemy w tym miejscu ?
+a) 0,125 W
+b) 1 W
+c) 0,5 W
+

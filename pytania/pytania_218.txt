@@ -1,0 +1,5 @@
+302. Okręg wywoławczy SP1 to obszar:
+a) województwa zachodniopomorskiego
+b) województwa pomorskiego
+c) województwa mazowieckiego
+

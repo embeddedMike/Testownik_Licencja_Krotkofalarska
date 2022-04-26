@@ -1,0 +1,6 @@
+X001
+Zasilacz nadajnika dostarcza do stopnia końcowego nadajnika napięcie 500 V i prąd 200 mA. Jaka jest sprawność energetyczna stopnia końcowego w % jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W ?
+50 %
+40 %
+60 %
+

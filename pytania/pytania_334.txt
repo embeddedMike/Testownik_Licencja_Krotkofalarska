@@ -1,0 +1,5 @@
+418. Jaki dokument określa klasy świadectw operatora radiowego w służbie amatorskiej i wymagania egzaminacyjne na poszczególne klasy świadectw ?
+a) rozporządzenie ministra właściwego do spraw łączności
+b) ustawa Prawo telekomunikacyjne
+c) Krajowa Tablica Przeznaczeń Częstotliwości
+

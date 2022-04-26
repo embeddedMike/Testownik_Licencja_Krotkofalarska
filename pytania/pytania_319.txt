@@ -1,0 +1,5 @@
+403. Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie służba drugiej ważności - oznacza, że:
+a) służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie
+b) służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie; służba taka nie może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji służb pierwszej ważności; którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie; służba taka może jednak żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości mogą być przydzielone w późniejszym terminie.
+c) służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości mogą być przydzielone w późniejszym terminie
+

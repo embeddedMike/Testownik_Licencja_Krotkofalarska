@@ -1,0 +1,5 @@
+405. Do czego upoważnia świadectwo operatora klasy A w służbie radiokomunikacyjnej amatorskiej ?
+a) do uzyskania pozwolenia amatorskiego kategorii 1
+b) do uzyskania pozwolenia amatorskiego kategorii 3
+c) wyłącznie do pracy na radiostacji klubowej
+

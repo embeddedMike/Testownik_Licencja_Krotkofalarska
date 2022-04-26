@@ -1,0 +1,6 @@
+X001
+Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 10 m to:
+28500 kHz - 29800 kHz
+28000 kHz - 29500 kHz
+28000 kHz - 29700 kHz
+

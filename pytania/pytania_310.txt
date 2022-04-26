@@ -1,0 +1,5 @@
+394. Kto określa maksymalną moc wyjściową radiostacji amatorskiej podawaną w pozwoleniu ?
+a) Międzynarodowy Związek Telekomunikacyjny (ITU)
+b) Europejskie Biuro Radiokomunikacji (ERO)
+c) krajowa administracja łączności
+

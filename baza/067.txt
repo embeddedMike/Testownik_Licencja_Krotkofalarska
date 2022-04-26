@@ -1,0 +1,6 @@
+X001
+Jakie napięcie występuje na oporze 50 om przy dostarczeniu do niego mocy 200 W ?
+100 V
+200 V
+50 V
+

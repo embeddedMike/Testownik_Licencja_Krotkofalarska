@@ -1,0 +1,5 @@
+287. Co oznacza skrót slangu radioamatorskiego RX ?
+a) antena pionowa
+b) odbiornik
+c) klucz elektroniczny
+

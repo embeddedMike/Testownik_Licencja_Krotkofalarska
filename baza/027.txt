@@ -1,0 +1,6 @@
+X001
+Diody prostownicze zasilające są stosowane do:
+prostowania prądów wysokiej częstotliwości
+do prostowania prądu w zasilaczach
+do stabilizacji napięć
+

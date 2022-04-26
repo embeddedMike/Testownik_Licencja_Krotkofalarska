@@ -1,0 +1,5 @@
+117. Prąd zmienny płynący przez kondensator C:
+a) wyprzedza napięcie na kondensatorze o 90 stopni
+b) jest w fazie z napięciem
+c) opóźnia się o 90 stopni wobec napięcia
+

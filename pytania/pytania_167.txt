@@ -1,0 +1,5 @@
+251. Przygotowując się do wykonania prac pod napięciem, oprócz przygotowania odpowiednich przyrządów należy:
+a) sprawdzić czy zastosowano prawidłowe bezpieczniki w mierzonych obwodach
+b) przygotować schemat elektryczny urządzenia i zapoznać się z nim
+c) jak w punkcie A i B oraz zapewnić sobie obecność i ewentualną pomoc drugiej osoby
+

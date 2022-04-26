@@ -1,0 +1,5 @@
+409. Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 1 uzyskanego po raz pierwszy ?
+a) 50 watów
+b) 500 watów
+c) 250 watów
+

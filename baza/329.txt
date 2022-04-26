@@ -1,0 +1,6 @@
+X001
+W jakich zakresach krótkofalowych może pracować operator posiadający pozwolenie kategorii 1 ?
+3500 - 3800 kHz oraz 7000 - 7100 kHz
+7000 - 7100 kHz oraz 28000 - 29700 kHz
+we wszystkich zakresach częstotliwości przeznaczonych dla służby radiokomunikacyjnej amatorskiej na terytorium RP
+

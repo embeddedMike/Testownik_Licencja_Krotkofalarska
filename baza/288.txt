@@ -1,0 +1,6 @@
+X001
+Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 2 m to:
+144 MHz - 146 MHz
+144 MHz - 148 MHz
+143 MHz - 146 MHz
+

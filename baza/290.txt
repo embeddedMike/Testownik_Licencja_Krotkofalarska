@@ -1,0 +1,6 @@
+X001
+Czy dopuszcza się w band planie IARU możliwość pracy emisją jednowstęgową (SSB) w zakresie częstotliwości 10100 kHz ? 10150 kHz (pasmo 30 m) ?
+nie ma żadnych ograniczeń co do stosowanych emisji
+jest całkowity zakaz używania emisji jednowstęgowej w tym zakresie
+dopuszcza się użycie SSB w sytuacjach bezpośredniego zagrożenia dla bezpieczeństwa życia i mienia i wyłącznie przez stacje uczestniczące w akcji ratunkowej
+

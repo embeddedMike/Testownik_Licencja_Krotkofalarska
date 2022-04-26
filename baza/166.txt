@@ -1,0 +1,6 @@
+X001
+Mierząc miernikiem napięcie o niemożliwej do oszacowania wartości należy:
+ustawić miernik na najwyższy zakres pomiarowy i stopniowo zmniejszać zakres
+ustawić miernik na najniższy zakres pomiarowy i stopniowo zwiększać zakres
+rozpocząć pomiary od środkowego zakresu miernika
+

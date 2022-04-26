@@ -1,0 +1,6 @@
+X001
+Dwie indukcyjności nie sprzężone mają 30 uH i 60 uH. Ile wynosi indukcyjność zastępcza przy połączeniu szeregowym tych indukcyjności ?
+90 uH
+20 uH
+45 uH
+

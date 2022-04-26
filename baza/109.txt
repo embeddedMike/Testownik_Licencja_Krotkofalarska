@@ -1,0 +1,6 @@
+X001
+Aby czytelnie odebrać sygnał SSB, to przy odbiorze dolnej wstęgi (LSB) sygnał odtwarzający falę nośną powinien być:
+poniżej wstęgi LSB
+powyżej wstęgi LSB
+w środku LSB
+

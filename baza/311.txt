@@ -1,0 +1,6 @@
+X001
+Jaka organizacja reprezentuje służbę amatorską na forum międzynarodowym ?
+Międzynarodowy Związek Telekomunikacyjny (ITU)
+Międzynarodowy Związek Radioamatorów (IARU)
+Europejskie Biuro Radiokomunikacji (ERO)
+

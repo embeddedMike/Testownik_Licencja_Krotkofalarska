@@ -1,0 +1,5 @@
+8. Akumulator ma pojemność 20 Ah. Jak długo będzie świecić z niego żarówka pobierająca 4 A ?
+a) 5 godzin
+b) 4 godziny
+c) 80 godzin
+

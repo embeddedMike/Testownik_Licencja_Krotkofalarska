@@ -1,0 +1,6 @@
+X001
+Jak zbudowany jest znak wywoławczy w pozwoleniu dodatkowym ?
+nie ma określonej budowy, składa się liter i cyfr
+składa się z prefiksu, cyfry i kombinacji maksymalnie siedmiu liter i cyfr
+składa się z prefiksu i pięciu liter
+

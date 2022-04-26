@@ -1,0 +1,6 @@
+X001
+Jak zwalczamy zakłócenia rozprowadzane siecią energetyczną ?
+przez stosowanie grubych przewodów
+przez stosowanie filtrów sieciowych i ekranowanie urządzeń, odpowiednią konstrukcję
+przez zasilanie bateryjne urządzeń
+

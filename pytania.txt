@@ -1,0 +1,1687 @@
+1. Czy opór elektryczny przewodu zależy od materiału z którego jest wykonany ?
+a) zależy
+b) nie zależy
+c) zależy od izolacji przewodu
+
+2. Izolatorami nazywamy materiały które:
+a) nie przewodzą prądu elektrycznego
+b) przewodzą słabo
+c) przewodzą prąd przy wysokim napięciu
+
+3. Który przewód o tej samej długości i przekroju będzie miał największą oporność ?
+a) wykonany z aluminium
+b) wykonany z żelaza
+c) wykonany z miedzi
+
+4. Który z materiałów ma własności półprzewodnikowe ?
+a) złoto
+b) german
+c) platyna
+
+5. Żarówka 12 V pobiera z baterii 0,1 A. Jaką oporność ma żarówka ?
+a) oporność 120 om
+b) oporność 12 om
+c) oporność 1,2 kom
+
+6. Żarówka ma moc 24 W i pobiera z akumulatora 2 A. Jakie jest napięcie akumulatora ?
+a) napięcie wynosi 24 V
+b) napięcie wynosi 12 V
+c) napięcie wynosi 48 V
+
+7. Źródła chemiczne prądu dają prąd:
+a) stały
+b) zmienny
+c) pulsujący
+8. Akumulator ma pojemność 20 Ah. Jak długo będzie świecić z niego żarówka pobierająca 4 A ?
+a) 5 godzin
+b) 4 godziny
+c) 80 godzin
+
+9. Ile bateryjek 4,5 V potrzebujemy połączyć w szereg, by uzyskać baterię anodową o napięciu 90 V ?
+a) 15 szt.
+b) 10 szt.
+c) 20 szt.
+
+10. Ładunki elektryczne w przestrzeni przyciągają się, jeżeli:
+a) są jednoimienne
+b) są różnoimienne
+c) są nieskończenie daleko
+
+11. Materiały ferromagnetyczne to materiały, które przewodzą pole magnetyczne:
+a) lepiej niż powietrze
+b) tak jak powietrze
+c) gorzej niż powietrze
+
+12. Jaki kierunek przyjmuje pole magnetyczne wokół przewodnika z prądem ?
+a) jest prostopadłe do przewodu
+b) jest do niego równoległe
+c) jest ukośne do przewodu
+
+13. Jeżeli składowa elektryczna fali jest prostopadła do ziemi to fala ma polaryzację ?
+a) poziomą
+b) pionową
+c) kołową
+
+14. Czy prędkość fali elektromagnetycznej zależy od ośrodka, w którym się rozchodzi ?
+a) tak
+b) nie zależy
+c) jest zawsze jednakowa
+
+15. Długość fali wynosi 1500 metrów. Jaka jest częstotliwość tej fali ?
+a) 2 MHz
+b) 200 kHz
+c) 233 kHz
+
+16. Jaki zakres częstotliwości dźwięków wystarcza dla zrozumiałego nadawania mowy ?
+a) od 300 Hz do 3,2 kHz
+b) od 100 Hz do 5 kHz
+c) od 20 Hz do 15 kHz
+
+17. Nadajnik UKF ma kwarc kanałowy 12 MHz. Ile razy musi być powielony by uzyskać 144 MHz ?
+a) 16 razy
+b) 12 razy
+c) 18 razy
+
+18. Modulacja telegraficzna CW polega na:
+a) przerywaniu fali nośnej
+b) zmianie jej częstotliwości
+c) zmianie jej amplitudy
+
+19. Kanał radiowy nadajnika telegraficznego CW jest:
+a) bardzo szeroki
+b) bardzo wąski
+c) średni
+
+20. Przy modulacji częstotliwości FM szerokość kanału radiowego dla nadajników amatorskich UKF wynosi:
+a) 12,5 kHz
+b) 50 kHz
+c) 200 kHz
+
+21. Jaka jest szerokość kanału radiowego przy emisji SSB ?
+a) 9 kHz
+b) 3,5 kHz
+c) 1,5 kHz
+
+22. Amatorska telewizja z powolnym analizowaniem SSTV może być stosowana do łączności prowadzonych:
+a) na duże odległości na falach krótkich
+b) tylko na UKF
+c) tylko w internecie
+
+23. Która z podanych mocy PEP odpowiada napiciu maksymalnemu U max = 100 V, zmierzonemu oscyloskopem na wyjściu nadajnika, na obciążeniu 50 om ?
+a) 200 W
+b) 100 W
+c) 50 W
+
+24. Opornik warstwowy metalizowany jest wykonany jako:
+a) metalowa warstwa oporowa na wałku ceramicznym
+b) warstwa drutu oporowego nawiniętego na wałku ceramicznym
+c) warstwa oporowa węglowa na wałku ceramicznym
+
+25. Do cewki powietrznej 100 uH wkładamy rdzeń ferrytowy o względnej przenikalności u = 10. Ile wyniesie indukcyjność cewki ?
+a) wzrośnie do 1000 uH
+b) nie zmieni się
+c) zmaleje do 10 uH
+
+26. Są dwie cewki powietrzne. Przy tej samej średnicy i ilości zwojów, L1 jest nawinięta drutem dwa razy grubszym niż L2. Która z nich ma większą dobroć Q ?
+a) cewka L2
+b) cewka L1
+c) obie mają taką samą dobroć, bo mają tą samą średnicę
+
+27. Przekładnia transformatora wynosi 20 do 1. Strona pierwotna włączona jest na napicie sieci 240 V. Jakie napicie będzie po stronie wtórnej ?
+a) 24 V
+b) 12 V
+c) 20 V
+
+28. Diody prostownicze zasilające są stosowane do:
+a) prostowania prądów wysokiej częstotliwości
+b) do prostowania prądu w zasilaczach
+c) do stabilizacji napięć
+
+29. Diody Zenera to diody do:
+a) stabilizacji napięć
+b) świecące
+c) na bardzo wysokie częstotliwości
+
+30. Warikap to dioda:
+a) dioda mikrofalowa
+b) dioda pojemnościowa
+c) dioda stabilizacyjna
+
+31. Z jakich pierwiastków wykonywane są tranzystory i obwody scalone ?
+a) z absolutnie czystego krzemu i germanu
+b) z czystego krzemu i germanu z domieszkami boru i arsenu
+c) z krzemu i tlenków krzemu
+
+32. Do jakiego typu układów scalonych należy scalony wzmacniacz akustyczny ?
+a) do układów scalonych cyfrowych
+b) do układów scalonych analogowych
+c) do scalonych pamięci
+
+33. Kalkulator zawiera jeden układ scalony, wyświetlacz i klawiaturę. Do jakiej grupy zaliczymy układ scalony ?
+a) małej skali integracji
+b) średniej skali integracji
+c) wielkiej skali integracji
+
+34. Lampa elektronowa pentoda posiada:
+a) pięć elektrod
+b) cztery elektrody
+c) trzy elektrody
+
+35. Cztery oporniki o wartościach 5 om zostały połączone szeregowo. Ile wynosi oporność zastępcza tych oporów ?
+a) 10 om
+b) 20 om
+c) 40 om
+
+36. Ile oporników o wartości 200 om należy połączyć równolegle by uzyska sztuczne obciążenie antenowe 50 om ?
+a) 5 szt.
+b) 2 szt.
+c) 4 szt.
+
+58. Jaka jest horyzontalna charakterystyka promieniowania dipola półfalowego zawieszonego poziomo ?
+a) dookólna
+b) ósemkowa
+c) kierunkowa w linii zawieszenia
+
+59. Jaka jest horyzontalna charakterystyka promieniowania pionowej anteny ćwierćfalowej ?
+a) dookólna
+b) kierunkowa
+c) w kształcie koniczyny
+
+64. Dlaczego kable koncentryczne nadawcze wykonywane są z opornością falową 50 om ?
+a) bo jest ona zbliżona do oporności dipola półfalowego
+b) bo najłatwiej takie wykonać
+c) bo wymagają do wykonania najmniejszej ilości materiału
+
+65. W jakim przypadku powstaje w linii przesyłowej w.cz. fala stojąca ?
+a) kiedy kabel nie jest ułożony prosto
+b) kiedy obok kabla koncentrycznego przechodzi inny kabel
+c) kiedy oporność obciążenia nie jest zgodna z opornością falową kabla
+
+66. Jak nazywa się przyrząd do mierzenia fali stojącej w kablu koncentrycznym ?
+a) rezystomierz
+b) reflektometr
+c) refraktometr
+
+67. Reflektometr wskazuje, że fala padająca jest równa fali odbitej. WFS równy jest nieskończoności. Co może być przyczyną takiego stanu ?
+a) zwarcie lub przerwa w kablu
+b) niewielka zmiana oporności falowej anteny
+c) zamoczenie izolacji w kablu
+
+68. Połączenie niesymetrycznego kabla koncentrycznego 50 om do symetrycznej anteny o oporności falowej 50 om wymaga zastosowania:
+a) transformatora impedancji 1 do 4
+b) symetryzatora 1 do 1
+c) baluna o przekładni 1 do 2
+
+69. Czy stan jonosfery ma wpływ na rozchodzenie się fal krótkich ?
+a) słaby
+b) tylko okresowo, w dzień
+c) ma bardzo duży wpływ
+
+70. Co jaki okres czasu następują bardzo dobre warunki propagacyjne i z czym to jest związane ?
+a) nieregularnie
+b) co kilka lat w związku z ociepleniem
+c) regularnie co 11 lat przy maksymalnej aktywności słonecznej
+
+71. Co to jest zasięg horyzontalny na UKF ?
+a) zasięg wyznaczony linią horyzontu przy prostoliniowym rozchodzeniu się fal
+b) zasięg obliczony z mocy promieniowanej e.i.r.p.
+c) zasięg teoretyczny nadajnika
+
+72. Dalekie rozchodzenie się fal UKF podczas inwersji temperaturowej w troposferze polega na:
+a) na wielokrotnym odbijaniu się fal od ciepłej ziemi
+b) na odbijaniu fal radiowych od ciepłego powietrza
+c) prowadzeniu fal przez dukty powstałe z warstw ciepłego i zimnego powietrza
+
+73. Skrót EME oznacza łączności na UKF:
+a) z wykorzystaniem odbicia sygnału od Księżyca
+b) wykorzystaniem do łączności siły elektromotorycznej SEM
+c) za pomocą elektromagnetycznej emisji EME na UKF
+
+74. Jak nazywa się przyrząd do pomiaru napięcia ?
+a) omomierz
+b) woltomierz
+c) amperomierz
+
+75. Jakim przyrządem możemy zmierzyć wartość opornika ?
+a) omomierzem
+b) woltomierzem
+c) amperomierzem
+
+76. Co to jest przyrząd uniwersalny wielozakresowy ?
+a) przyrząd do pomiaru tylko jednego napięcia
+b) przyrząd do pomiarów, napięć, prądów, oporności, w wielu zakresach
+c) przyrząd do pomiaru wielu napięć
+
+77. Jak zmierzyć moc prądu stałego ?
+a) zmierzyć prąd i napięcie w obwodzie i obliczyć
+b) zmierzyć oporność obwodu i obliczyć
+c) zmierzyć prąd i obliczyć
+
+78. Jak w warunkach amatorskich zmierzyć moc wyjściową nadajnika ?
+a) poprzez pomiar napięcia skutecznego na oporze sztucznej anteny 50 om i obliczenie
+b) poprzez pomiar prądu i napięcia stałego doprowadzonego do stopnia mocy (PA)
+c) poprzez uzyskanie raportu od korespondenta
+
+79. Jakim przyrządem mierzymy dopasowanie obciążenia do kabla koncentrycznego ?
+a) żarówką włączoną w szereg na maksimum świecenia
+b) sprawdzeniem czy kabel się nie grzeje
+c) za pomocą reflektometru przelotowego
+
+80. Jak zwalczamy zakłócenia rozprowadzane siecią energetyczną ?
+a) przez stosowanie grubych przewodów
+b) przez stosowanie filtrów sieciowych i ekranowanie urządzeń, odpowiednią konstrukcję
+c) przez zasilanie bateryjne urządzeń
+
+81. Co to jest kompatybilność elektromagnetyczna (EMC) ?
+a) zamienność urządzeń
+b) wymogi co do podobnej obsługi urządzeń elektrycznych
+c) taka konstrukcja sprzętu, by urządzenia nie wpływały na siebie i mogły pracować bez powodowania wzajemnych zakłóceń
+
+82. Jeżeli nadajnik amatorski powoduje zakłócenia, to jakie elementy sprawdzamy w pierwszej kolejności ?
+a) zawieszenie anteny
+b) odbiornik
+c) liniowość stopnia mocy (PA) i filtr wyjściowy
+
+83. Dlaczego w zabudowie miejskiej stosujemy do anten kable koncentryczne ?
+a) bo są ogólnie dostępne
+b) bo są trwałe
+c) bo przy dopasowaniu nie promieniują energii i mogą przechodzić obok innych anten i urządzeń
+
+84. Jeżeli nadajnik promieniuje energię w.cz. poprzez sieć zasilającą to stosujemy:
+a) filtr w.cz. na wyjściu antenowym nadajnika
+b) uziemiamy obudowę
+c) uziemiamy obudowę i włączamy filtr sieciowy w zasilanie
+
+85. Jaka instytucja zajmuje się lokalizowaniem zakłóceń radiowych i radioelektrycznych oraz badaniem sprzętu radionadawczego ?
+a) Urząd Komunikacji Elektronicznej
+b) Ministerstwo Ochrony Środowiska
+c) Sztaby antykryzysowe
+
+86. Prąd elektryczny w przewodzie metalowym płynie dzięki obecności w nim:
+a) swobodnych jonów
+b) wolnych elektronów
+c) wolnych atomów
+
+87. Jak zmienia się opór przewodu miedzianego podczas wzrostu temperatury ?
+a) opór maleje
+b) opór rośnie
+c) nie zmienia się
+
+88. Jaki ładunek ma elektron ?
+a) dodatni
+b) nie posiada ładunku
+c) ujemny
+
+89. W obwodach elektrycznych przyjmujemy, że kierunek przepływu prądu odbywa się od:
+a) od wyższego potencjału (+) do niższego (-)
+b) w prawo zgodnie z wskazówkami zegara
+c) przeciwnie do wskazówek zegara
+
+90. W obwodzie prądu stałego przez opornik 1000 om płynie prąd 2 mA. Jaki jest spadek napięcia na oporze ?
+a) spadek wynosi 500 V
+b) spadek wynosi 2000 V
+c) spadek wynosi 2 V
+
+91. Akumulator ma napięcie 6.5 V. Do akumulatora chcemy podłączyć żarówkę 3,5 V 0,3 A. Jaki opornik należy włączyć w szereg by ograniczyć prąd ?
+a) opornik 3.5 om
+b) opornik 100 om
+c) opornik 10 om
+
+92. Opornik ma 200 om. Płynie przez niego prąd 300 mA. Jaka jest moc tracona w oporze ?
+a) 18 W
+b) 1800 W
+c) 1,8 W
+
+93. Jakie napięcie występuje na oporze 50 om przy dostarczeniu do niego mocy 200 W ?
+a) 100 V
+b) 200 V
+c) 50 V
+
+94. Mamy opornik 100 om dołączony do napięcia 3 V. Z jakiej grupy mocy wybierzemy opornik ?
+a) grupa 1 W
+b) grupa 0,125 W
+c) grupa 0,5 W
+
+95. Jaka jest częstotliwość prądu zmiennego, którego okres wynosi 0,02 sek. ?
+a) 100 Hz
+b) 50 Hz
+c) 60 Hz
+
+96. Wartość amplitudy napięcia sinusoidalnego wynosi 200 V. Jaka jest wartość skuteczna napięcia ?
+a) 200 V
+b) 400 V
+c) 141,8 V
+
+97. Napięcie międzyszczytowe sinusoidalnego napięcia zmiennego wynosi 678 V. Ile wynosi wartość skuteczna tego napięcia ?
+a) 340 V
+b) 240 V
+c) 680 V
+
+98. Siła elektromotoryczna ogniwa wynosi 1,5 V. Oporność wewnętrzna ogniwa wynosi 0,1 oma. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa ?
+a) 1.5 V
+b) 1 V
+c) 1,4 V
+
+99. Pole elektryczne nazywamy jednorodnym jeżeli:
+a) linie sił pola są prostopadłe
+b) linie układają się w koła
+c) linie sił są równoległe
+
+100. Pole elektryczne może być ekranowane za pomocą:
+a) ekranów z blach metalowych
+b) ekranów z izolatorów
+c) ekranów z luster
+
+101. Do jakich materiałów magnetycznych należą magnesy stałe ?
+a) materiałów paramagnetycznych
+b) materiałów magnetycznie twardych
+c) magnetycznie miękkich
+
+102. Dlaczego rdzenie transformatorów wykonywane są z blaszek a nie z litego materiału ?
+a) ze względu na lepsze chłodzenie
+b) ze względu na łatwiejsze wykonanie
+c) ze względu na mniejsze straty przy prądach wirowych
+
+103. Ekranowanie pól magnetycznych wykonujemy z materiałów:
+a) izolacyjnych
+b) z materiałów o wysokiej przenikalności magnetycznej
+c) z materiałów o małym oporze właściwym
+
+104. Fala elektromagnetyczna ma dwie składowe. Zaznacz która kombinacja jest poprawna:
+a) składowa elektryczna i składowa prędkości
+b) składowa elektryczna i magnetyczna
+c) składowa magnetyczna i składowa prędkości
+
+105. Częstotliwość pracy nadajnika amatorskiego wynosi 3,5714 MHz. Jaka jest dokładna długość fali tego nadajnika ?
+a) 80 m
+b) 84 m
+c) 81,08 m
+
+106. Czy czysty sygnał sinusoidalny 1000 Hz, zawiera harmoniczne 2000 Hz i 3000 Hz ?
+a) zawiera tylko 2000 Hz
+b) zawiera obie harmoniczne
+c) nie zawiera w ogóle harmonicznych
+
+107. Czy można prowadzić powielanie częstotliwości w stopniu mocy nadajnika ?
+a) tak
+b) nie
+c) jest to bez znaczenia
+
+108. Przy modulacji amplitudy AM szerokość kanału radiowego zależy od:
+a) najniższych częstotliwości modulujących
+b) amplitudy modulującego sygnału
+c) najwyższych częstotliwości modulujących
+
+109. Modulacja cyfrowa FSK oznacza przesyłanie sygnału telegrafii maszynowej RTTY za pomocą:
+a) modulacji amplitudy
+b) modulacji fazy
+c) modulacji z przesuwem częstotliwości
+
+110. Moc wyjściową nadajnika FM podano w dBW i wynosi ona 13 dBW. Ile to jest w watach? (dla ułatwienia podajemy, że 10 dBW odpowiada 10 W
+a) 5 W
+b) 130 W
+c) 20 W
+
+111. Napięcie na wejściu odbiornika na oporności 50 om wynosi 10 uV. Napięcie to wzrosło do 100 uV. O ile wzrosło napięcie wyrażone w dB ?
+a) o 10 dB
+b) o 20 dB
+c) o 40 dB
+
+112. Zasilacz nadajnika dostarcza do stopnia końcowego nadajnika napięcie 500 V i prąd 200 mA. Jaka jest sprawność energetyczna stopnia końcowego w % jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W ?
+a) 50 %
+b) 40 %
+c) 60 %
+
+113. Tolerancja wykonania opornika 1 kom wynosi 5 %. W jakich granicach zawiera się jego oporność ?
+a) od 0,9 do 1,1 kom
+b) od 0,98 do 1,02 kom
+c) od 950 om do 1050 om
+
+114. Spadek napięcia na oporniku wynosi 100 V, przy prądzie 10 mA. Opornik jakiej mocy zastosujemy w tym miejscu ?
+a) 0,125 W
+b) 1 W
+c) 0,5 W
+
+115. Kondensator mikowy ma pojemność 6800 pF, i napięcie pracy 500V. Czy można go zastosować w miejsce kondensatora 6,8 nF o napięciu pracy 250 V ?
+a) tak można
+b) nie można
+c) można, ale potrzebne są dwa takie kondensatory
+
+116. W obwodzie prądu zmiennego przy tej samej częstotliwości zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyła się zawada Xc ?
+a) 2 razy
+b) 100 razy
+c) 10 razy
+
+117. Prąd zmienny płynący przez kondensator C:
+a) wyprzedza napięcie na kondensatorze o 90 stopni
+b) jest w fazie z napięciem
+c) opóźnia się o 90 stopni wobec napięcia
+
+118. Tranzystor krzemowy ma wzmocnienie prądowe B = 100. Napięcie zasilania wynosi 5 V. Przez kolektor tego tranzystora płynie prąd 100 mA. Jaki jest prąd bazy tego tranzystora ?
+a) 1 mA
+b) 5 mA
+c) 20 mA
+
+119. Przy jakich napięciach anodowych pracują amatorskie lampowe wzmacniacze mocy ?
+a) do 200 V
+b) do 50 V
+c) od 1,5 kV do 3 kV
+
+120. W jakiej klasie wzmacniacza pracuje lampowy stopień mocy nadajnika telegraficznego ?
+a) w klasie A
+b) w klasie C
+c) w klasie AB
+
+121. Mamy dwa kondensatory o pojemności jeden 4,7 nF a drugi 300 pF. Jak należy je połączyć by uzyskać pojemność 5000 pF ?
+a) szeregowo
+b) równolegle
+c) nie da się z nich złożyć 5000 pF
+
+122. W układzie były trzy kondensatory po 30 uF połączone szeregowo . Każdy z nich ma napięcie pracy 100V. Czy możemy je zastąpić jednym kondensatorem 10 uF i o jakim napięciu pracy ?
+a) nie możemy
+b) możemy stosując kondensator na napięcie 100 V
+c) możemy, stosując kondensator na napięcie 300V
+
+123. Dwie indukcyjności nie sprzężone mają 30 uH i 60 uH. Ile wynosi indukcyjność zastępcza przy połączeniu szeregowym tych indukcyjności ?
+a) 90 uH
+b) 20 uH
+c) 45 uH
+
+124. Dwa oporniki 1 kom połączone są w szereg i dołączone do napięcia 200 V. Jaki jest spadek napięcia na każdym z tych oporników ?
+a) 50 V
+b) 100 V
+c) 200 V
+
+125. Obwód rezonansowy równoległy LC, w punkcie rezonansu przedstawia oporność:
+a) rzeczywistą omową
+b) reaktancję pojemnościową
+c) reaktancję indukcyjną
+
+126. Mamy obwód rezonansowy o częstotliwości 3,5 MHz. W jego skład wchodzi pojemność C = 400 pF. Jaką pojemność należy dołączyć zamiast C, by przestroić obwód na 7 MHz ?
+a) 200 pF
+b) 100 pF
+c) 57 pF
+
+127. Pasmo obwodu rezonansowego zależy od dobroci Q obwodu. Jeżeli Q = 100 to ile wynosi pasmo przy częstotliwości obwodu 14 MHz ?
+a) 280 kHz
+b) 14 kHz
+c) 140 kHz
+
+128. Jakie pasmo musi posiadać filtr pasmowy dla poprawnego odbioru stacji radiofonicznej AM ?
+a) 9 kHz
+b) 20 kHz
+c) 3.5 kHz
+
+130. Transformator zasilacza ma napięcie Usk = 300 V. Czy w prostowniku jednopołówkowym można użyć diody wytrzymującej wstecznie 400 V ?
+a) tak
+b) nie
+c) tak, ale z opornikiem w szereg
+
+131. Napięcie na wyjściu zasilacza nieobciążonego z filtrem pojemnościowym, wynosi 25 V. Jakie jest napięcie Usk transformatora zasilającego diody ?
+a) 25 V
+b) 17,7 V
+c) 20 V
+
+132. Wzmacniacz posiada wzmocnienie napięciowe 10 razy. Wyraź to wzmocnienie w decybelach (dB)
+a) 10 dB
+b) 20 dB
+c) 40 dB
+
+133. Wzmacniacz wysokiej częstotliwości obciążony obwodem rezonansowym jest:
+a) wzmacniaczem selektywnym
+b) wzmacniaczem szerokopasmowym
+c) wzmacniaczem akustycznym
+
+134. Czy w wzmacniaczu mocy pracującym idealnie liniowo, powstają harmoniczne ?
+a) tak
+b) nie
+c) tak ale małe
+
+136. Dlaczego do detekcji sygnałów telegrafii CW używamy produkt detektora i pomocniczego generatora BFO ?
+a) bo sygnał CW jest przerywany
+b) musimy wytworzyć słyszalne dudnienia z niemodulowanym sygnałem CW
+c) bo sygnał CW jest słaby
+
+137. Aby czytelnie odebrać sygnał SSB, to przy odbiorze dolnej wstęgi (LSB) sygnał odtwarzający falę nośną powinien być:
+a) poniżej wstęgi LSB
+b) powyżej wstęgi LSB
+c) w środku LSB
+
+138. Czy dyskryminator sygnału FM powinien reagować na modulację amplitudy sygnału FM ?
+a) nie
+b) tak
+c) nie ma to znaczenia
+
+139. Warunkiem wzbudzenia się generatora z obwodem rezonansowym jest:
+a) zastosowanie obwodu rezonansu szeregowego
+b) spełnienie warunku amplitudy i fazy
+c) zastosowanie ujemnego sprzężenia zwrotnego
+
+141. Oscylator kwarcowy ma wysoką stabilność częstotliwości. Zawdzięcza ją:
+a) zasilaniu z stabilizowanego zasilacza
+b) zastosowaniu specjalnego tranzystora
+c) zastosowaniu rezonatora kwarcowego
+
+142. Kwarce owertonowe to rezonatory kwarcowe pracujące na:
+a) częstotliwościach harmonicznych
+b) na częstotliwościach podstawowych
+c) na częstotliwościach pasożytniczych
+
+174. Miarą selektywności odbiornika jest szerokość pasma odbieranego przez odbiornik. Przy jakim poziomie od poziomu maksymalnego mierzymy selektywność ?
+a) przy -10dB
+b) przy -6dB
+c) przy -12dB
+
+175. Przy jakim stosunku sygnału do szumu mierzymy czułość odbiornika ?
+a) przy 6 dB
+b) przy 10 dB
+c) przy 20 dB
+
+200. Jak zmienia się oporność dipola półfalowego przy niskim zawieszeniu nad ziemią ?
+a) nie zmienia się
+b) rośnie
+c) maleje
+
+201. W antenie dipolowej W3DZZ na pasma 80, 40, 20 metrów zastosowano trapy. Na jaką częstotliwość muszą być nastrojone ?
+a) 10 MHz
+b) 7,05 MHz
+c) 14,1 MHz
+
+202. Zysk anteny kierunkowej wyrażony jest w dBi. Względem jakiego źródła jest określony ?
+a) dipola pomiarowego
+b) źródła izotropowego
+c) innej anteny kierunkowej
+
+203. Jaka jest różnica pomiędzy efektywną mocą promieniowaną e.r.p. a efektywną mocą promieniowaną izotropowo e.i.r.p ?
+a) e.i.r.p. jest większe o 2,16 dB od e.r.p.
+b) e.i.r.p. jest mniejsze o 2,16 dB od e.r.p.
+c) nie ma różnicy
+
+204. Antena kierunkowa na UKF w miejscu odbioru daje napięcie 4 razy większe jak dipol półfalowy. Jaki ma zysk dBd ?
+a) 6 dBd
+b) 4 dBd
+c) 12 dBd
+
+205. Kabel koncentryczny wprowadza straty sygnału. Kabel przy częstotliwości 150 MHz ma straty 12 dB na 100 m. Długość kabla między anteną a odbiornikiem wynosi 50 m. Ile razy napięcie na wejściu odbiornika będzie mniejsze niż w antenie?
+a) 4 razy
+b) 6 razy
+c) 2 razy
+
+206. Jakie długości fal zaliczamy do zakresu fal krótkich ?
+a) od 100 m do 10 m
+b) od 80 m do 13 m
+c) od 160 m do 10 m
+
+207. Do jakiej wysokości sięgają najwyższe warstwy jonosfery w lecie w dzień ?
+a) do 200 km
+b) 450 km
+c) 100 km
+
+208. O czym mówi podawana w prognozach propagacji częstotliwość MUF ?
+a) o zakłóceniach odbioru
+b) o maksymalnej częstotliwości do łączności na danej trasie
+c) o zaniku łączności w danym kierunku
+
+209. Co to jest strefa martwa na falach krótkich ?
+a) strefa bez odbioru leżąca pomiędzy końcem fali przyziemnej a powrotem fali przestrzennej
+b) strefa bez odbioru z powodu dużych zakłóceń w mieście
+c) strefa w której brak odbioru z powodu interferencji fal przychodzących z różnych kierunków
+
+210. Jakim przyrządem możemy sprawdzić kształt napięcia zmiennego w.cz. i wykryć zniekształcenia sygnału ?
+a) oscyloskopem
+b) miernikiem napięcia
+c) słuchając odbiornikiem
+
+211. Jakie dodatkowe zabezpieczenie, oprócz umieszczenia jej na bezpiecznej wysokości, są zalecane dla anteny na terenowym QTH ?
+a) nie są potrzebne żadne dodatkowe zabezpieczenia
+b) wykonanie anteny z drutu miedzianego w igielicie
+c) zakaz przebywania pod anten podczas nadawania
+
+212. Czy można wykorzystać sieć wodociągową jako uziemienie ?
+a) tak
+b) jedynie po zbocznikowaniu wodomierza i upewnieniu się, że jest ona uziemiona oraz po uzyskaniu zgody jednostki eksploatującej tę sieć
+c) nie, jest to zabronione
+
+213. Resuscytację krążeniowo-oddechową u osoby dorosłej, bez widocznych obrażeń ciała, wykonujemy w stosunku:
+a) 30 uciśnięć klatki piersiowej na dwa wdechy
+b) 20 uciśnięć klatki piersiowej na cztery wdechy
+c) 15 uciśnięć klatki piersiowej na sześć wdechów
+
+214. Podczas pracy z monitorem komputerowym minimalne zalecane przerwy wynoszą:
+a) co dwie godziny po 20 minut
+b) co godzinę pięć minut
+c) co trzy godziny po dziesięć minut
+
+215. Jakie oznaczenie na rękojeści narzędzia ma istotne znaczenie przy pracach elektrycznych ?
+a) rodzaj zastosowanej izolacji
+b) nazwa producenta
+c) dopuszczalne napięcie pracy
+
+216. Dlaczego stosuje się ograniczenia w przebywaniu (zamieszkaniu) w bezpośrednim sąsiedztwie dużych obiektów nadawczych radiowych i telewizyjnych ?
+a) ze względu na wyładowania atmosferyczne
+b) ze względu na duże natężenie pola elektromagnetycznego mogące mieć negatywny wpływ na zdrowie
+c) ze względu na możliwość przewrócenia się masztu
+
+217. Czy wolno wykonywać prace antenowe przy włączonym nadajniku ?
+a) wolno, bez żadnych ograniczeń
+b) wolno, ale tylko przy małych mocach nadajnika
+c) kategorycznie nie wolno
+
+218. Na polu antenowym mamy kilka anten na różne pasma. Czy można regulować nieczynne anteny, jeżeli obok pracuje na podobnej antenie nadajnik KF ?
+a) nie wolno
+b) można
+c) można, ale tylko gdy nadajnik ten pracuje z małą mocą
+
+219. Spełnienie jakich warunków konstrukcyjnych ogranicza przedostawanie się energii w.cz. niepożądanymi drogami ?
+a) dobre uziemienie i szczelność ekranowania
+b) filtrowany zasilacz
+c) odpowiedni przekrój kabla sieciowego
+
+220. Czy źle wykonany uziom może być przyczyną szkodliwego promieniowania w.cz. ?
+a) nie
+b) tak
+c) nie zawsze
+
+221. Jakie niebezpieczeństwo grozi, gdy trzymamy w rękach naładowany kondensator elektrolityczny ?
+a) porażenie prądem elektrycznym
+b) nie ma żadnego niebezpieczeństwa
+c) implozja kondensatora
+
+222. Czy zwarcie drutem biegunów źródła prądu (bateria, akumulator) może być niebezpieczne ?
+a) nie ma żadnego zagrożenia
+b) tak, może spowodować pożar
+c) tak, może spowodować stopienie się drutu i poparzenie roztopionym metalem
+
+223. Czy kondensator elektrolityczny musi mieć napięcie pracy równe lub większe niż napięcie występujące w układzie w jakim pracuje ?
+a) napięcie pracy kondensatora nie ma znaczenia
+b) napięcie pracy kondensatora ma znaczenia tylko w niektórych typach układów
+c) koniecznie, gdyż może ulec zniszczeniu
+
+224. Czy brak filtru przeciw zakłóceniowego na obwodzie zasilania sieciowego może być przyczyną zakłóceń w pracy urządzenia ?
+a) tak, ale tylko przy dużej mocy
+b) zawsze, bez względu na moc
+c) to nie ma znaczenia, rolę filtru pełni transformator zasilacza
+
+225. Czy promieniowanie elektromagnetyczne w.cz. może mieć wpływ na zdrowie człowieka ?
+a) nie
+b) tak
+c) nie, jeśli używamy specjalnego ubrania ochronnego
+
+226. Czy sztuczne obciążenie w postaci opornika bezindukcyjnego powinno być ekranowane ?
+a) nie ma takiej potrzeby
+b) tak, zawsze powinno być ekranowane i uziemione w tym samym punkcie co radiostacja
+c) tylko w przypadku gdy wzmacniacz mocy nie jest właściwie dostrojony
+
+227. Czy można uruchomić urządzenie po przeniesieniu z zimnego pomieszczenia do ciepłego ?
+a) istnieje bezwzględny zakaz
+b) można, ale po odczekaniu pewnego czasu
+c) można natychmiast, bez żadnego ryzyka
+
+228. Czy plastikowa obudowa urządzenia nadawczego stanowi odpowiednie zabezpieczenie przed oddziaływaniem energii w.cz. ?
+a) jest to wystarczające zabezpieczenie przed energią w.cz.
+b) urządzenia te używa się głównie na terenowym QTH więc takie zabezpieczenie nie jest potrzebne
+c) nie stanowi żadnego zabezpieczenia przed energią w.cz.
+
+229. Czy dopuszczalne jest użycie sieci CO (np. kaloryfera) do uziemienia radiostacji ?
+a) tak
+b) tylko po upewnieniu się, że jest ona właściwie uziemiona oraz po uzyskaniu zgody jednostki eksploatującej tę sieć
+c) nie
+
+230. Jaki zapas mocy powinien mieć zasilacz urządzeń AM i FM przewidziany do ciągłej bezawaryjnej pracy ?
+a) 20% więcej
+b) 50% więcej
+c) 10 % więcej powyżej mocy maksymalnej
+
+231. Czy można wykorzystać jako uziemienie rurę instalacji gazowej ?
+a) bezwzględnie nie wolno
+b) wolno bez żadnych ograniczeń
+c) wolno jedynie w sytuacji, gdy nie dysponuje się innym uziemieniem
+
+232. Jakie działania należy podjąć, aby udzielić pomocy porażonemu prądem elektrycznym ?
+a) odłączyć porażonego od prądu, podjąć działania w celu wyeliminowania skutków ewentualnych poparzeń
+b) zadbać o własne bezpieczeństwo, odłączyć porażonego od prądy, sprawdzić funkcje życiowe, wezwać lekarza, w razie konieczności przeprowadzać resuscytację krążeniowo-oddechową
+c) zadbać o własne bezpieczeństwo, wezwać znajomych w celu prowadzenia wspólnej akcji ratowniczej
+
+233. Pomieszczenie, w którym znajduje się indywidualna stacja amatorska, powinno być wyposażone w następujące środki ochrony p-poż:
+a) środki gaśnicze wymagane dla obiektów użytku publicznego
+b) koc gaśniczy i gaśnicę do gaszenia urządzeń elektrycznych
+c) gaśnicę do gaszenia urządzeń pod napięciem
+
+234. Przewody zasilające prądu stałego oznaczone są kolorami:
+a) żółty i czarny
+b) niebieski i czarny
+c) czerwony i czarny
+
+235. Uszkodzonych tranzystorów nie powinno się otwierać, gdyż:
+a) można się pokaleczyć
+b) zawierają szkodliwe substancje, mogące spowodować ciężkie zatrucie
+c) zawierają tajemnice produkcji, których i tak nie jesteśmy w stanie wykorzystać
+
+236. Narzędzia do prac elektrycznych powinny:
+a) charakteryzować się estetyką wykonania
+b) posiadać homologację Ministerstwa Łączności
+c) posiadać izolowane uchwyty z nadrukowaną informacją o dopuszczalnym napięciu pracy np. 500 V
+
+237. Na terenowym QTH uziemienie można wykonać:
+a) wbijając uziom do ziemi jako osobne uziemienie dla swojej stacji
+b) podłączając się do uziomu roboczego na słupie kratowym
+c) podłączając się do uziomu w energetycznej szafie rozdzielczej
+
+238. Uruchomienie nieznanego urządzenia rozpoczyna się od:
+a) włożenia wtyczki do kontaktu i przełączenia przełącznika
+b) podłączenia anteny i uziemienia
+c) sprawdzenia, czy ustawione jest właściwe napięcie sieci oraz zainstalowany jest właściwy bezpiecznik
+
+239. Czy radiostację i urządzenia pomocnicze można podłączać do gniazd zasilanych z dwóch różnych faz ?
+a) można, nie ma żadnych przeciwwskazań
+b) kategorycznie nie można, grozi to zniszczeniem sprzętu i porażeniem operatora
+c) można, jeżeli jednocześnie nie używa się wszystkich urządzeń
+
+240. Po zakończeniu pracy radiostacji należy:
+a) wyłączyć zasilanie
+b) wyłączyć zasilanie i uziemić anteny
+c) wyłączyć zasilanie, uziemić anteny i odłączyć uziemienie od radia
+
+241. Podczas wieszania anteny na wysokościach należy:
+a) jedynie zapewnić sobie pomoc innej osoby
+b) zapewnić sobie pomoc innej osoby oraz stosować sprzęt ochronny
+c) zapewnić sobie pomoc innej osoby, stosować sprzęt ochronny, starać się maksymalnie zabezpieczyć osoby na dole przez ogrodzenie miejsc zagrożonych linką i zawieszenie tablic: Na górze pracują, oraz zapewnić łączność za pomocą radiotelefonów przenośnych, aby prace wykonać na komendę pomagającej nam osoby kiedy nie ma zagrożenia dla innych ludzi
+
+242. Środki ochrony osobistej przy pracy na wysokości to:
+a) rękawice i okulary ochronne
+b) drabina rozstawna
+c) szelki bezpieczeństwa z podwójną linką plus lina asekuracyjna, kask i rękawice
+
+243. Jaka powinna być rezystancja uziemienia radiostacji ?
+a) 50 Omów
+b) zależnie od kabla antenowego: 50 lub 75 Omów
+c) pomiędzy 10 a 1 Om, im mniejsza tym lepsza
+
+244. W momencie stwierdzenia pożaru urządzenia należy:
+a) zadzwonić po straż pożarną
+b) wezwać kolegów i wspólnie przystąpić do gaszenia
+c) odłączyć urządzenie od zasilania i przystąpić do gaszenia, w razie potrzeby wezwać straż pożarną
+
+245. Zwody (połączenia) uziemiające od radiostacji należy poprowadzić następująco:
+a) zasilacz do ziemi, skrzynka antenowa do radia i do zasilacza
+b) skrzynka antenowa jako pierwsza do uziemienia, następnie radiostacja osobnym zwodem do skrzynki i zasilacz osobnym zwodem do tejże skrzynki
+c) sposób prowadzenia połączeń uziemiających nie ma znaczenia
+
+246. Transformator ochronny stosujemy, gdy:
+a) zachodzi obawa, że użycie narzędzi elektrycznych zasilanych napięciem 230 V może spowodować porażenie prądem, np. pracując na zewnątrz pomieszczeń
+b) wykonujemy prace w wilgotnym pomieszczeniu
+c) jak w punkcie A i B i w innych sytuacjach, jeżeli zachodzi niebezpieczeństwo porażenia prądem np. przy pracach naprawczych
+
+247. W przypadku poparzenia elektrolitem należy:
+a) sprawdzić czy nie oblane zostało ubranie i buty, jeśli tak to należy zdjąć takie ubranie lub buty
+b) spłukać wodą oparzone miejsce - kontakt z lekarzem nie jest konieczny
+c) zdjąć odzież z oparzonego miejsca, płukać wodą oparzone miejsce, zabezpieczyć sterylnym opatrunkiem i udać się do lekarza
+
+248. W przypadku zaprószenia oka ciałem obcym należy:
+a) odczekać aż ciało obce samo wypadnie
+b) usunąć ciało obce samodzielnie za pomocą pęsety
+c) spróbować usunąć obce ciało, przemywając oko wodą, a jeżeli się to nie uda skorzystać z pomocy lekarza
+
+249. Podstawowe wyposażenie ochronne do prac z elektrolitem to:
+a) ubranie ochronne, okulary, rękawice ochronne
+b) maska na twarz, nakrycie głowy, obuwie ochronne
+c) nie ma potrzeby stosować żadnego wyposażenia ochronnego
+
+250. Mierząc miernikiem napięcie o niemożliwej do oszacowania wartości należy:
+a) ustawić miernik na najwyższy zakres pomiarowy i stopniowo zmniejszać zakres
+b) ustawić miernik na najniższy zakres pomiarowy i stopniowo zwiększać zakres
+c) rozpocząć pomiary od środkowego zakresu miernika
+
+251. Przygotowując się do wykonania prac pod napięciem, oprócz przygotowania odpowiednich przyrządów należy:
+a) sprawdzić czy zastosowano prawidłowe bezpieczniki w mierzonych obwodach
+b) przygotować schemat elektryczny urządzenia i zapoznać się z nim
+c) jak w punkcie A i B oraz zapewnić sobie obecność i ewentualną pomoc drugiej osoby
+
+252. Podczas pracy nadajnika KF na jednej z anten, w celu zabezpieczenia się przed przypadkowym porażeniem od innych anten należy:
+a) ułożyć przewody zasilające pod stołem luźno, lecz tak, aby się nie stykały
+b) uziemić wszystkie nieużywane w danym momencie anteny, aby nie ulec porażeniu w wyniku ich przypadkowego dotknięcia
+c) nie jest konieczne stosowanie jakichkolwiek zabezpieczeń
+
+253. Przy podłączeniu zasilacza stacji przekrój sieci i wartość zabezpieczeń powinny być dobrany tak, aby zapewnić dostarczenie mocy:
+a) wyższej niż moc określona w tabliczce znamionowej urządzenia
+b) równej mocy określonej w tabliczce znamionowej urządzenia
+c) niższej niż moc określona w tabliczce znamionowej urządzenia
+
+254. Odległość pomiędzy masztem antenowym budowanym na ziemi a pasem drogowym, chodnikiem i innymi przeszkodami:
+a) powinna być równa połowie wysokości masztu
+b) nie ma żadnego znaczenia
+c) powinna być większa niż wysokość masztu
+
+255. Maszt kratowy uziemiamy:
+a) jednym zwodem odgromowym
+b) po przekątnej dwoma zwodami
+c) czterema zwodami, po jednym na każdej nodze
+
+256. Naprawa bezpieczników topikowych jest:
+a) dopuszczalna dla bezpieczników stosowanych przy niskim napięciu
+b) bezwzględnie zabroniona
+c) dopuszczalna przy zastosowaniu drutu topikowego o odpowiedniej grubości
+
+257. Jakie oznaczenia ochronne należy umieścić na maszcie anteny nadawczej ?
+a) promieniowanie elektromagnetyczne
+b) uwaga antena nadawcza
+c) zakaz dotykania masztu
+
+258. Czy radiotelefon UKF należy uziemiać w czasie pracy ?
+a) nie ma takiej potrzeby
+b) tak, obowiązkowo
+c) tylko jeśli posiada zacisk uziemiający
+
+259. Czy podczas pracy z wiertarką wymagane jest stosowanie rękawic ochronnych ?
+a) tak, obowiązkowo
+b) można stosować według uznania
+c) jest zabronione
+
+260. Przy wymianie lampy stopnia mocy nadajnika należy:
+a) wyłączyć zasilanie i natychmiast przystąpić do wymiany
+b) wyłączyć zasilanie i poczekać aż rozładują się kondensatory zasilacza
+c) przy pracującym wzmacniaczu zdjąć osłonę lampy i przystąpić do jej wymiany
+
+261. Kondensator sprzęgający obwód anodowy PA z Pi-filtrem powinien:
+a) posiadać dużą pojemność
+b) posiadać małe wymiary
+c) być wytrzymały na duże napięcie
+
+262. Najlepszą formą zabezpieczenia anteny krótkofalowej przed burzą jest:
+a) odłączenie anteny od radiostacji i wystawienie kabla anteny za okno
+b) odłączenie anteny od radiostacji i połączenie anteny z uziemieniem
+c) nie są wymagane żadne działania
+
+263. Czy można umieścić kabel antenowy w kanale wywietrznika kominowego, jeżeli obok przebiega czynny komin ?
+a) można
+b) bezwzględnie nie można
+c) można, ale tylko w okresie poza sezonem grzewczym
+
+264. Czy można używać kołków rozporowych do montażu anteny na kominie ?
+a) można
+b) można, po spełnieniu dodatkowych warunków
+c) nie wolno ? można stosować jedynie opaski wokół komina
+
+265. Czy nasza radiostacja może wywołać zakłócenia poza granicami kraju ?
+a) nie może
+b) może, ale tylko podczas strojenia
+c) może
+
+266. Czy osoba posiadająca rozrusznik serca może przebywać w pobliżu anten nadawczych dużej mocy ?
+a) może, nie ma żadnego zagrożenia
+b) może, pod pewnymi warunkami
+c) kategorycznie nie powinna
+
+267. Podczas regulacji urządzeń pod napięciem (o ile jest to konieczne) pracę wykonujemy:
+a) dwoma rękoma
+b) jedną ręką
+c) jedną ręką w asyście drugiej osoby, wskazane jest również stosowanie chodnika lub obuwia izolacyjnego
+
+268. Jakim przewodem podłączysz nadajnik dużej mocy do źródła zasilania ?
+a) zwykłym przewodem dwużyłowym
+b) kablem w oplocie bawełnianym
+c) przewodem o przekroju żył, odpowiednim do pobieranej przez urządzenie mocy
+
+269. Czy podczas naprawy oscyloskopu można go włączyć bez założonego na lampę cylindra ochronnego ?
+a) można bez żadnego ryzyka
+b) można, ale należy uważać na wysokie napięcie
+c) kategorycznie nie wolno
+
+270. Jaka lokalizacja będzie bezpieczniejsza (najbardziej właściwa pod kątem narażenia na działanie pola elektromagnetycznego) dla anteny emitującej moc 1 kW ?
+a) dach naszego budynku w środku miasta
+b) dach 12-piętrowego sąsiedniego wieżowca
+c) terenowe QTH ze specjalnie wybudowanym polem antenowym
+
+271. Czy fider antenowy radiostacji nadawczej może być prowadzony razem z kablem anteny odbiorczej TV ?
+a) może, gdy moc nadajnika nie jest zbyt duża
+b) nie, kable powinny być maksymalnie oddalone
+c) odległość miedzy kablami jest nieistotna
+
+272. Czy świadectwo operatora urządzeń radiowych upoważnia do naprawy sieci elektrycznej w mieszkaniu ?
+a) tak, bez żadnych ograniczeń
+b) tak, ale wyłącznie sieci jednofazowej
+c) nie, do tego potrzebne jest posiadanie stosownych uprawnień
+
+273. W którym miejscu należy podłączyć filtr przeciwzakłóceniowy (dolnoprzepustowy) przy pracy ze wzmacniaczem mocy ?
+a) po końcówce mocy na fider antenowy
+b) pomiędzy transceiver a wzmacniacz mocy
+c) miejsce podłączenia jest dowolne
+
+274. Jakie są skutki uszkodzenia ekranu fidera antenowego ?
+a) nie ma żadnych
+b) następuje wzrost zakłóceń, bez względu na pogodę
+c) następuje wzrost zakłóceń i zmiana impedancji kabla grożąca uszkodzeniem nadajnika
+
+275. Przed eksplozją kondensatorów elektrolitycznych w zasilaczu chroni nas:
+a) stabilizator napięcia
+b) opornik upływowy tzw. bleder
+c) właściwe uziemienie zasilacza
+
+276. Co oznacza wg kodu Q symbol QRG ?
+a) włączam większą moc nadajnika
+b) moja częstotliwość jest ...
+c) siła twoich sygnałów waha się
+
+277. Co oznacza wg kodu Q symbol QSY ?
+a) przejdź na częstotliwość, zmień częstotliwość
+b) do usłyszenia na innej częstotliwości
+c) mam uszkodzoną antenę
+
+278. Co oznacza wg kodu Q symbol QRM ?
+a) jestem czynny w eterze od miesiąca
+b) odbieram twoje sygnały bardzo dobrze zmniejsz moc
+c) mam zakłócenia od innych stacji
+
+279. Co oznacza wg kodu Q symbol QRN ?
+a) jestem czynny w eterze od niedawna
+b) mam zakłócenia atmosferyczne
+c) pracuję na radiostacji tylko w niedzielę
+
+280. Co oznacza wg kodu Q symbol QSB ?
+a) siła twoich sygnałów waha się
+b) w okolicy jest burza, wyłączam radiostację
+c) używam anteny dookolnej
+
+281. Co oznacza wg kodu Q symbol QRV ?
+a) o której godzinie rozpoczęliśmy łączność
+b) jestem gotów do pracy, jestem czynny w eterze
+c) proszę powtórzyć ostatnią relację
+
+282. Co oznacza wg kodu Q symbol QTH ?
+a) nie mam ochoty z tobą dalej rozmawiać
+b) przekazuję wiadomość od...
+c) moje położenie geograficzne jest...
+
+283. Co oznacza wg kodu Q symbol QRP ?
+a) nadawaj powoli
+b) zmniejsz moc, zmniejszam moc
+c) powtórz swój znak wywoławczy
+
+284. Co oznacza wg kodu Q symbol QTC ?
+a) wyłączam stację
+b) na jaką częstotliwość mam się przestroić
+c) mam dla ciebie pilną wiadomość
+
+285. Co oznacza wg kodu Q symbol QSO ?
+a) moje położenie geograficzne jest...
+b) łączność, mam łączność
+c) siła twoich sygnałów waha się
+
+286. Co oznacza wg kodu Q symbol QSL ?
+a) potwierdzam odbiór, przyślę kartę potwierdzającą łączność
+b) nadawaj szybciej
+c) słucham na częstotliwości
+
+287. Co oznacza skrót slangu radioamatorskiego RX ?
+a) antena pionowa
+b) odbiornik
+c) klucz elektroniczny
+
+288. Co oznacza skrót slangu radioamatorskiego Unlis ?
+a) nielicencjonowany nadawca
+b) zakłócenia w odbiorze telewizji
+c) zawody w łowach na lisa
+
+289. Co oznacza skrót slangu radioamatorskiego YL ?
+a) antena z linki miedzianej
+b) czas uniwersalny
+c) panna - młoda pani
+
+290. Co oznacza skrót slangu radioamatorskiego RPT ?
+a) proszę powtórzyć, powtórzę, powtarzam
+b) proszę
+c) przechodzę na inny kanał
+
+291. Kiedy należy podawać raport o słyszalności ?
+a) na początku łączności i na życzenie korespondenta
+b) w odstępach 5-10 minut
+c) po każdym przekazaniu mikrofonu
+
+292. Czy po uzyskaniu świadectwa operatora urządzeń radiowych można samodzielnie obsługiwać stację amatorską ?
+a) można, ale tylko pod nadzorem radioamatora posiadającego pozwolenie radiowe
+b) można, w określonych przepisami zakresach częstotliwości
+c) nie można, ponieważ do obsługi stacji amatorskiej upoważnia jedynie pozwolenie radiowe
+
+293. Jakie należy spełnić warunki aby uzyskać pozwolenie radiowe na używanie radiostacji amatorskiej ?
+a) należy posiadać świadectwo operatora urządzeń radiowych i odbyć trzymiesięczną praktykę na stacji klubowej
+b) należy posiadać świadectwo operatora urządzeń radiowych i co najmniej średnie wykształcenie
+c) należy posiadać świadectwo operatora urządzeń radiowych
+
+294. Czy razem ze świadectwem operatora urządzeń radiowych przydzielany jest znak wywoławczy dla radiostacji amatorskiej ?
+a) tak
+b) nie, znak wywoławczy przydzielany jest w pozwoleniu radiowym
+c) tak, jeżeli dana osoba posiada radiostację
+
+295. Co to jest znak wywoławczy ?
+a) jest to symbol określający typ (model) radiostacji amatorskiej
+b) jest to hasło pozwalające wywołać konkretnego rozmówcę
+c) jest to kombinacja liter i cyfr stanowiąca unikalny w skali światowej identyfikator radiostacji amatorskiej
+
+296. Czy można radioamatorski znak wywoławczy używać podczas pracy w zakresach częstotliwości nieprzeznaczonych dla służby amatorskiej ?
+a) można, po uzyskaniu specjalnej zgody UKE
+b) absolutnie nie, znak radioamatorski można używać tylko w zakresach częstotliwości przeznaczonych dla radioamatorów
+c) nie jest to zabronione i zależy od decyzji radioamatora
+
+297. Jak zbudowany jest znak wywoławczy w pozwoleniach kategorii 1, 3 i 5 ?
+a) składa się z prefiksu, cyfry i kombinacji maksymalnie czterech liter i cyfr
+b) nie ma określonej budowy, składa się z liter i cyfr
+c) składa się z prefiksu i dwóch liter
+
+298. Jak zbudowany jest znak wywoławczy w pozwoleniu dodatkowym ?
+a) nie ma określonej budowy, składa się liter i cyfr
+b) składa się z prefiksu, cyfry i kombinacji maksymalnie siedmiu liter i cyfr
+c) składa się z prefiksu i pięciu liter
+
+299. Co to jest dziennik łączności LOG ?
+a) jest to dokument radiostacji amatorskiej zawierający informacje o korespondencji z innymi radiostacjami amatorskimi, zawierający znak stacji, imię operatora, datę, godzinę, pasmo w jakim przeprowadzono QSO
+b) jest to informacja o procedurach obowiązujących podczas łączności z innymi stacjami
+c) jest to informacja o kontroli radiostacji przez inspektorów UKE
+
+300. Czy prowadzenie dziennika łączności LOG jest obowiązkowe ?
+a) jest to podstawowy obowiązek każdego radioamatora
+b) prowadzenie Logu nie jest obowiązkowe, lecz wskazane
+c) prowadzenie dziennika łączności może być nakazane jako zalecenie pokontrolne inspektorów ochrony środowiska
+
+301. Co znaczy określenie czas uniwersalny UTC ?
+a) czas odpowiadający południkowi zerowemu (GMT), stosowany przez radioamatorów do odnotowania w Logu godz. łączności
+b) czas w którym nie należy nawiązywać QSO
+c) czas w którym można nawiązywać łączności z krajami europejskimi
+
+302. Okręg wywoławczy SP1 to obszar:
+a) województwa zachodniopomorskiego
+b) województwa pomorskiego
+c) województwa mazowieckiego
+
+303. Okręg wywoławczy SP2 to obszar:
+a) województwa zachodniopomorskiego
+b) województw kujawsko-pomorskiego i pomorskiego
+c) województwa mazowieckiego
+
+304. Okręg wywoławczy SP3 to obszar:
+a) województwa mazowieckiego
+b) województw lubuskiego i wielkopolskiego
+c) województw kujawsko-pomorskie i pomorskie
+
+305. Okręg wywoławczy SP4 to obszar:
+a) województwa mazowieckiego
+b) województw lubuskiego i wielkopolskiego
+c) województw podlaskiego i warmińsko-mazurskiego
+
+306. Okręg wywoławczy SP5 to obszar:
+a) województwa mazowieckiego
+b) województw kujawsko-pomorskiego i pomorskiego
+c) województwa zachodnio-pomorskiego
+
+307. Okręg wywoławczy SP6 to obszar:
+a) województwa mazowieckiego
+b) województw dolnośląskiego i opolskiego
+c) województwa zachodniopomorskiego
+
+308. Okręg wywoławczy SP7 to obszar:
+a) województwa mazowieckiego
+b) województw dolnośląskiego i opolskiego
+c) województw łódzkiego i świętokrzyskiego
+
+309. Okręg wywoławczy SP8 to obszar:
+a) województw dolnośląskiego i opolskiego
+b) województw lubelskiego i podkarpackiego
+c) województwa zachodniopomorskiego
+
+310. Okręg wywoławczy SP9 to obszar:
+a) województw małopolskiego i śląskiego
+b) województw lubelskiego i podkarpackiego
+c) województwa zachodniopomorskiego
+
+311. Poprawne literowanie w j. polskim litery A i R:
+a) Adam, Roman
+b) Ala, Romuald
+c) Alfa, Romeo
+
+312. Poprawne literowanie w j. polskim litery G i K:
+a) Genowefa, Ksawer
+b) Grażyna, Karol
+c) Golf, Kazek
+
+313. Poprawne literowanie w j. polskim litery W i Z:
+a) Wanda, Zygmunt
+b) Walery, Zosia
+c) Warta, Zamek
+
+314. Poprawne literowanie w j. polskim litery X i C:
+a) Iks, Centrum
+b) Xawery, Cezary
+c) Xymena, Czesław
+
+315. Poprawne literowanie w j. polskim litery P i N:
+a) Piotr, Niwa
+b) Przemek, Nina
+c) Paweł, Natalia
+
+316. Poprawne literowanie wg alfabetu ITU litery B i F:
+a) Bil, Fox
+b) Bravo, Foxtrot
+c) Box, Florida
+
+317. Poprawne literowanie wg alfabetu ITU litery C i G:
+a) Charlie, Golf
+b) Canada, Gold
+c) Chile, Grenada
+
+318. Poprawne literowanie wg alfabetu ITU litery I i K:
+a) India, Kanada
+b) Italia, Kaz
+c) India, Kilo
+
+319. Poprawne literowanie wg alfabetu ITU litery R i V:
+a) Ren, Viktor
+b) Romeo, Viktor
+c) Radio, Viola
+
+320. Poprawne literowanie wg alfabetu ITU litery X i S:
+a) X-Rey, Sierra
+b) Xsen, Santiago
+c) X-Rey, Syria
+
+321. Co to jest międzynarodowy kod Q ?
+a) zbiór symboli składających się z 3 liter, zaczynających się zawsze na literę Q, którym przypisane są proste zdanie lub słowa
+b) symbole składające się z litery Q i 2-3 cyfr określających jakość odbieranego sygnału
+c) wykaz zawierający prefiksy znaków wywoławczych wg ITU
+
+322. Do czego służy międzynarodowy kod Q ?
+a) podania informacji o czasie rozpoczęcia łączności
+b) skrócenia czasu nadawania informacji
+c) informowania o sile odbieranego sygnału radiowego
+
+323. Co oznacza wg kodu Q symbol QRL ?
+a) źle się czuję, odezwę się później
+b) jestem zajęty, proszę nie przeszkadzać
+c) do zobaczenia latem
+
+324. Co oznacza wg kodu Q symbol QRT ?
+a) która jest godzina
+b) kończę nadawanie, wyłączam stację
+c) nadawaj wolniej
+
+325. Co oznacza wg kodu Q symbol QRZ ?
+a) zmień częstotliwość na zapasową
+b) kto mnie woła
+c) jestem zajęty, proszę nie przeszkadzać
+
+326. Co oznacza wg kodu Q symbol QRX ?
+a) proszę czekać
+b) nadawaj wolniej
+c) mam zakłócenia od innych stacji
+
+327. Co oznacza wg kodu Q symbol QRO ?
+a) nic dla ciebie nie mam
+b) zwiększ moc, zwiększam moc
+c) przerwij nadawanie, kończę pracę
+
+328. Który z poniższych kodów Q oznacza: Moja częstotliwość jest ... ?
+a) QRJ
+b) QRG
+c) QRK
+
+329. Który z poniższych kodów Q oznacza: Przejdź na częstotliwość, zmień częstotliwość ?
+a) QSY
+b) QTR
+c) QSA
+
+330. Który z poniższych kodów Q oznacza: Mam zakłócenia od innych stacji ?
+a) QWO
+b) QQQ
+c) QRM
+
+331. Który z poniższych kodów Q oznacza: Siła twoich sygnałów waha się ?
+a) QSB
+b) QAZ
+c) QRY
+
+332. Który z poniższych kodów Q oznacza: Jestem gotów do pracy, jestem czynny w eterze ?
+a) QWX
+b) QRV
+c) QRU
+333. Który z poniższych kodów Q oznacza: Moje położenie geograficzne jest ... ?
+a) QLP
+b) QRG
+c) QTH
+
+334. Który z poniższych kodów Q oznacza: Zmniejsz moc, zmniejszam moc ?
+a) QUB
+b) QRA
+c) QRP
+
+335. Który z poniższych kodów Q oznacza: Mam dla ciebie telegram, wiadomość ?
+a) QRT
+b) QTC
+c) QSV
+
+336. Który z poniższych kodów Q oznacza: Łączność, mam łączność ?
+a) QSL
+b) QSO
+c) QRS
+
+337. Który z poniższych kodów Q oznacza: Potwierdzam odbiór, przyślę kartę potwierdzającą łączność ?
+a) QSL
+b) QSA
+c) QRT
+
+338. Co oznaczają skróty slangu radioamatorskiego: BAND; CFM ?
+a) pasmo; potwierdzam
+b) zakres; godzina
+c) raport; popołudnie
+
+339. Co oznaczają skróty slangu radioamatorskiego: BK; CALL ?
+a) później; kalibrator
+b) przerwa; znak wywoławczy
+c) stop; odebrałem wszystko
+
+340. Co oznaczają skróty slangu radioamatorskiego: BEST; DX ?
+a) daleki; niezły
+b) najlepszy; daleka łączność
+c) dobry; szybki
+
+341. Co oznaczają skróty slangu radioamatorskiego: BCI; BOX ?
+a) zakłócenia odbioru radiowego; skrytka pocztowa
+b) zakłócenia od sieciowe; radiolatarnia amatorska
+c) podaj dokładny czas; zmieniam kanał radiowy
+
+342. Co oznaczają skróty slangu radioamatorskiego: OK; NAME ?
+a) stary, nie przeszkadzaj; moje nazwisko jest
+b) wszystko w porządku; imię
+c) przestrajam się; podaj adres
+
+343. Co oznaczają skróty slangu radioamatorskiego: SWR; RX ?
+a) pasmo w metrach; antena pionowa
+b) współczynnik fali stojącej; odbiornik
+c) nasłuchowiec; klucz elektroniczny
+
+344. Które z poniższych skrótów slangu radioamatorskiego oznaczają: Zakłócenia w odbiorze telewizji; nielicencjonowany nadawca ?
+a) TRX; LIS
+b) TVI; UNLIS
+c) RBM; ICP
+
+345. Które z poniższych skrótów slangu radioamatorskiego oznaczają: Panna, młoda pani; czas uniwersalny ?
+a) YL; UTC
+b) XYL; UT
+c) LY; TRO
+
+346. Co oznaczają skróty slangu radioamatorskiego: PSE; RPT ?
+a) proszę; powtórzyć, powtórzę, powtarzam
+b) proszę; zmieniam pasmo o 10 kHz
+c) przechodzę na inny kanał; raport podam na koniec łączności
+
+347. Co oznaczają skróty slangu radioamatorskiego: 99; UTC ?
+a) pozdrawiam; czas ukraiński
+b) ściskam dłoń; mam pilną wiadomość
+c) idź precz, przepadnij; czas uniwersalny
+
+348. Co oznaczają skróty slangu radioamatorskiego: LOG; DIRECT ?
+a) długa antena; dyrektor
+b) dziennik pracy stacji; bezpośrednio
+c) długi; bezpośredni kontakt
+
+349. Co to jest raport R S stosowany podczas łączności fonicznych ?
+a) informacja o stanie technicznym radiostacji
+b) informacja o stanie pogody przekazana w postaci zakodowanej
+c) informacja o jakości odbieranego sygnału radiowego - czytelności i sił sygnału wyrażana w postaci cyfr
+
+350. Co to jest raport R S T stosowany podczas łączności telegraficznych ?
+a) informacja o stanie technicznym radiostacji
+b) informacja o jakości odbieranego sygnału radiowego ? czytelności, siły i tonu akustycznego sygnału
+c) informacja o stanie pogody
+
+351. Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S
+a) R - jakość sygnału, S- słyszalność
+b) R - stabilność sygnału, S- siła sygnału
+c) R - czytelność, S - siła sygnału
+
+352. Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S T ?
+a) R - czytelność, S - siła sygnału, T - ton sygnału
+b) R - jakość sygnału, S - słyszalność, T - częstotliwość
+c) R - stabilność sygnału, S - siła sygnału, T - ton sygnału
+
+353. Jaka jest skala czytelności i skala siły sygnału w raporcie R S ?
+a) skala czytelności 1-5 i skala siły sygnału 1-9
+b) skala czytelności 1-9 i skala siły sygnału 1-5
+c) skala czytelności 0-5 i skala siły sygnału 0-9
+
+354. Co oznacza w łączności fonicznej raport 59 ?
+a) dobrze czytelny, bardzo silny sygnał
+b) czytelny, silny sygnał
+c) słaby, czytelny z trudnościami sygnał
+
+355. Co oznacza w łączności fonicznej raport 43 ?
+a) dobrze czytelny, bardzo silny sygnał
+b) czytelny, słaby sygnał
+c) czytelny z trudnościami, słaby sygnał
+
+356. Co oznacza w łączności telegraficznej raport 599 ?
+a) czytelny, silny sygnał, dobry ton
+b) dobrze czytelny, bardzo silny sygnał, bardzo dobry ton
+c) czytelny z trudnościami, sygnał słaby, dobry ton
+
+357. Co oznacza w łączności telegraficznej raport 438 ?
+a) dobrze czytelny, bardzo silny sygnał, dobry ton
+b) czytelny z trudnościami, słaby sygnał, bardzo dobry ton
+c) czytelny, słaby sygnał, dobry ton sygnału
+
+358. Co to jest okręg wywoławczy?
+a) obszar, na którym pracuje maksimum 1000 radiostacji amatorskich
+b) obszar odpowiadający podziałowi terytorialnemu Polski na województwa
+c) zwyczajowo przyjęty obszar w granicach jednego lub dwóch województw
+
+359. Na ile okręgów wywoławczych podzielona jest Polska ?
+a) 16
+b) 10
+c) 9
+
+360. Jak zbudowane są znaki wywoławcze radiostacji amatorskich ?
+a) dwie litery, cyfra, dwie do pięciu liter, np. SP3AB lub SP3ABCDE
+b) dwie litery, cyfra, dwie do trzech liter, np. SP3AB lub SP3ABC
+c) dwie litery lub cyfra i litera, cyfra, jeden do czterech znaków (liter lub cyfr), gdzie ostatni jest literą, np. SP3A lub SP3ABCD
+
+361. Które prefiksy znaków wywoławczych przeznaczone są dla Polski ?
+a) HF, SN, SO, SP, SQ, SR, 3Z
+b) HF, SN, SO, SP, SQ, 3Z, 3X
+c) HA, SM, SO, SP, SQ, SR, 3Z
+
+362. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 160 m to:
+a) 1810 kHz - 1950 kHz
+b) 1810 kHz - 2000 kHz
+c) 1810 kHz - 1980 kHz
+
+363. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 80 m to:
+a) 3550 kHz - 3750 kHz
+b) 3500 kHz - 3750 kHz
+c) 3500 kHz - 3800 kHz
+
+364. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 40 m to:
+a) 7000 kHz - 7200 kHz
+b) 7100 kHz - 7300 kHz
+c) 7050 kHz - 7200 kHz
+
+365. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 30 m to:
+a) 10050 kHz - 10200 kHz
+b) 10100 kHz - 10150 kHz
+c) 10100 kHz - 10200 kHz
+
+366. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 20 m to:
+a) 14000 kHz - 14350 kHz
+b) 14000 kHz - 14450 kHz
+c) 14100 kHz - 14350 kHz
+
+367. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 17 m to:
+a) 18050 kHz - 18250 kHz
+b) 18068 kHz - 18168 kHz
+c) 18000 kHz - 18168 kHz
+
+368. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 15 m to:
+a) 21000 kHz - 21500 kHz
+b) 21100 kHz - 21450 kHz
+c) 21000 kHz - 21450 kHz
+
+369. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 12 m to:
+a) 24690 kHz - 24990 kHz
+b) 24890 kHz - 24990 kHz
+c) 24680 kHz - 24990 kHz
+
+370. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 10 m to:
+a) 28500 kHz - 29800 kHz
+b) 28000 kHz - 29500 kHz
+c) 28000 kHz - 29700 kHz
+
+371. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 6 m to:
+a) 50 MHz - 54 MHz
+b) 50 MHz - 52 MHz
+c) 50 MHz - 53,5 MHz
+
+372. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 2 m to:
+a) 144 MHz - 146 MHz
+b) 144 MHz - 148 MHz
+c) 143 MHz - 146 MHz
+
+373. Co jest bandpan IARU?
+a) podział zakresów częstotliwości na segmenty przeznaczone dla poszczególnych rodzajów emisji lub kanały robocze
+b) podział częstotliwości osobno nadawczych i odbiorczych
+c) plan przydziału częstotliwości dla poszczególnych krajów
+
+374. Czy dopuszcza się w band planie IARU możliwość pracy emisją jednowstęgową (SSB) w zakresie częstotliwości 10100 kHz ? 10150 kHz (pasmo 30 m) ?
+a) nie ma żadnych ograniczeń co do stosowanych emisji
+b) jest całkowity zakaz używania emisji jednowstęgowej w tym zakresie
+c) dopuszcza się użycie SSB w sytuacjach bezpośredniego zagrożenia dla bezpieczeństwa życia i mienia i wyłącznie przez stacje uczestniczące w akcji ratunkowej
+
+375. Jaki jest odstęp między częstotliwością nadawczą a odbiorczą przemienników pracujących w paśmie 2 m?
+a) 600 kHz
+b) 650 kHz
+c) 800 kHz
+
+376. Jak nazywa się organ międzynarodowy ustalający ogólnoświatowe zasady wykonywania działalności telekomunikacyjnej i radiokomunikacyjnej ?
+a) Organizacja Narodów Zjednoczonych (ONZ)
+b) Międzynarodowy Związek Telekomunikacyjny (ITU)
+c) Światowa Organizacja Handlu (WTO)
+
+377. Gdzie mieści się siedziba Międzynarodowego Związku Telekomunikacyjnego (ITU) ?
+a) w Nowym Jorku
+b) w Wiedniu
+c) w Genewie
+
+378. Ile krajów zrzesza Międzynarodowy Związek Telekomunikacyjny ?
+a) 50-100
+b) 100-150
+c) 150-200
+
+379. Jaki organ Międzynarodowego Związku Telekomunikacyjnego (ITU) decyduje o przeznaczeniach poszczególnych zakresów częstotliwości dla różnych służb radiokomunikacyjnych ?
+a) Rada Międzynarodowego Związku Telekomunikacyjnego (ITU)
+b) Światowe Konferencje Radiokomunikacyjne
+c) Biuro Radiokomunikacji ITU
+
+380. Jaki dokument obowiązujący wszystkie kraje członkowskie Międzynarodowego Związku Telekomunikacyjnego (ITU) określa zasady wykonywania służby radiokomunikacyjnej amatorskiej i służby amatorskiej satelitarnej oraz wymienia przyznane tym służbom zakresy częstotliwości ?
+a) Konstytucja ITU
+b) Regulamin Radiokomunikacyjny (Radio Regulations) ITU
+c) Konwencja ITU
+
+381. W którym roku Rzeczpospolita Polska przystąpiła do Międzynarodowego Związku Telekomunikacyjnego (ITU) ?
+a) 1921
+b) 1935
+c) 1956
+
+382. Jak brzmi definicja służby amatorskiej zamieszczona w Regulaminie Radiokomunikacyjnym Międzynarodowego Związku Telekomunikacyjnego (ITU) ?
+a) służba radiokomunikacyjna wykonywana przez radioamatorów w celu nawiązywania wzajemnych znajomości i wymiany informacji technicznych
+b) służba radiokomunikacyjna mająca na celu samokształcenie, wzajemne komunikowanie się i eksperymenty techniczne prowadzone przez amatorów, to jest przez odpowiednio upoważnione osoby interesujące się techniką radiową wyłącznie z pobudek osobistych, bez celów zarobkowych
+c) służba radiokomunikacyjna mająca na celu badanie propagacji fal radiowych w zakresach krótkofalowym i ultrakrótkofalowym oraz warunków meteorologicznych
+
+383. Regulamin Radiokomunikacyjny ITU dzieli świat na trzy regiony. W którym regionie radiokomunikacyjnym znajduje się Polska ?
+a) w trzecim
+b) w pierwszym
+c) w drugim
+
+384. Czy Regulamin Radiokomunikacyjny ITU przewiduje wykorzystanie stacji amatorskich w akcjach humanitarnych, niesienia pomocy w przypadkach katastrof, klęsk żywiołowych i innych zagrożeń ?
+a) nie zezwala na takie wykorzystanie stacji amatorskich
+b) niezbędny jest specjalny wpis do pozwolenia radioamatorskiego
+c) usilnie zaleca się wykorzystywanie stacji amatorskich w powyższych przypadkach
+
+385. Czy Regulamin Radiokomunikacyjny reguluje zasady przyznawania znaków wywoławczych stacjom amatorskim ?
+a) nie, regulują to przepisy krajowe
+b) tak, Regulamin Radiokomunikacyjny określa ściśle zasady przyznawania znaków
+c) nie, znak wywoławczy obiera sobie sam operator stacji
+
+386. Czy postanowienia Regulaminu Radiokomunikacyjnego ITU dotyczące służby amatorskiej obowiązuj również w służbie amatorskiej satelitarnej ?
+a) tak, obowiązują
+b) nie, obowiązują odrębne przepisy
+c) nie obowiązują żadne przepisy
+
+387. Co zgodnie z Regulaminem Radiokomunikacyjnym ITU musi zapewnić operator amatorskiej orbitalnej stacji satelitarnej ?
+a) nadawanie przez amatorską stację satelitarną jej znaku wywoławczego
+b) niezwłoczne zdalne wyłączenie amatorskiej stacji satelitarnej w przypadku powodowania przez nią szkodliwych zakłóceń dla innych służb radiokomunikacyjnych
+c) nadawanie przez amatorską stację satelitarną komunikatów meteorologicznych
+
+388. Jak nazywa się organ międzynarodowy zrzeszający krajowe administracje łączności z terenu Europy ?
+a) Rada Europy (EC)
+b) Europejska Konferencja Administracji Pocztowych i Telekomunikacyjnych (CEPT)
+c) Organizacja Bezpieczeństwa i Współpracy w Europie (OBWE)
+
+389. Gdzie mieści się siedziba Europejskiego Biura Radiokomunikacji (ERO) ?
+a) w Brukseli
+b) w Helsinkach
+c) w Kopenhadze
+
+390. Jakiego rodzaju dokumenty regulujące działalność radiokomunikacyjną w Europie przyjmuje i wprowadza Europejska Konferencja Administracji Pocztowych i Telekomunikacyjnych (CEPT) i publikuje Europejskie Biuro Radiokomunikacji (ERO) ?
+a) decyzje
+b) decyzje i zalecenia
+c) decyzje, zalecenia i raporty
+
+391. Jakie dokumenty Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) regulują sprawy międzynarodowego uznawania pozwoleń i międzynarodowych wymagań egzaminacyjnych w służbie amatorskiej ?
+a) Uchwały Komitetu Komunikacji Elektronicznej CEPT
+b) Zalecenia CEPT T/R 61-01 i T/R 61-02
+c) Zalecenia CEPT T/R 22-01 i T/R 22-02
+
+392. Przez jaki okres czasu może posiadacz międzynarodowego pozwolenia amatorskiego zgodnego z zaleceniem CEPT T/R 61-01 pracować z terytorium innego kraju uznającego to zalecenie, bez konieczności uzyskiwania pozwolenia od miejscowej administracji łączności ?
+a) 1 miesiąc
+b) 3 miesiące
+c) 1 rok
+
+393. Czy przepisy Międzynarodowego Związku Telekomunikacyjnego (ITU) i Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) wprowadzają obowiązkowy wymóg umiejętności odbioru i nadawania znaków w kodzie Morse-a przy egzaminie na świadectwo radiooperatora w służbie amatorskiej ?
+a) wprowadzają wymóg jako obowiązkowy
+b) pozostawiaj powyższy wymóg do decyzji krajowych administracji łączności
+c) znoszą całkowicie powyższy wymóg
+
+394. Kto określa maksymalną moc wyjściową radiostacji amatorskiej podawaną w pozwoleniu ?
+a) Międzynarodowy Związek Telekomunikacyjny (ITU)
+b) Europejskie Biuro Radiokomunikacji (ERO)
+c) krajowa administracja łączności
+
+395. Jaka organizacja reprezentuje służbę amatorską na forum międzynarodowym ?
+a) Międzynarodowy Związek Telekomunikacyjny (ITU)
+b) Międzynarodowy Związek Radioamatorów (IARU)
+c) Europejskie Biuro Radiokomunikacji (ERO)
+
+396. Ile organizacji regionalnych składa się na ogólnoświatowy Międzynarodowy Związek Radioamatorów (IARU ? the International Amateur Radio Union) ?
+a) trzy
+b) cztery
+c) pięć
+
+397. W którym roku i w jakim miejscu powstał Międzynarodowy Związek Radioamatorów (IARU) ?
+a) w roku 1930 w Genewie
+b) w roku 1925 w Paryżu
+c) w roku 1910 w Berlinie
+
+398. W którym roku powstał Polski Związek Krótkofalowców (PZK) ?
+a) w roku 1924
+b) w roku 1930
+c) w roku 1946
+
+399. Jaki organ krajowy reguluje i kontroluje pracę stacji amatorskich, przeprowadza egzaminy na świadectwa operatora urządzeń radiowych i wydaje pozwolenia w służbie amatorskiej ?
+a) Minister właściwy do spraw łączności
+b) Prezes Urzędu Komunikacji Elektronicznej
+c) Minister właściwy do spraw wewnętrznych
+
+400. Jaki podstawowy akt prawny reguluje działalność telekomunikacyjną i radiokomunikacyjną w Polsce ?
+a) statut Urzędu Komunikacji Elektronicznej (UKE)
+b) ustawa Prawo ochrony środowiska
+c) ustawa Prawo telekomunikacyjne
+
+401. W jakim dokumencie określone są zakresy częstotliwości przeznaczone w Polsce dla służby amatorskiej i służby amatorskiej satelitarnej ?
+a) w ustawie Prawo telekomunikacyjne
+b) w rozporządzeniu Rady Ministrów w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości
+c) w decyzjach Prezesa Urzędu Komunikacji Elektronicznej
+
+402. Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie służba pierwszej ważności oznacza, że:
+a) służba taka jest chroniona przed szkodliwymi zakłóceniami ze strony służb drugiej ważności
+b) służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb, którym częstotliwości mogą zostać przydzielone w późniejszym terminie
+c) służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb, którym częstotliwości mogą zostać przydzielone w późniejszym terminie, służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie
+
+403. Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie służba drugiej ważności - oznacza, że:
+a) służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie
+b) służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie; służba taka nie może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji służb pierwszej ważności; którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie; służba taka może jednak żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości mogą być przydzielone w późniejszym terminie.
+c) służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości mogą być przydzielone w późniejszym terminie
+
+404. Jaki dokument określa kategorie pozwoleń w służbie amatorskiej i dozwolone moce wyjściowe radiostacji amatorskiej ?
+a) ustawa Prawo telekomunikacyjne
+b) rozporządzenie ministra właściwego do spraw łączności
+c) zarządzenie Prezesa Urzędu Komunikacji Elektronicznej
+
+405. Do czego upoważnia świadectwo operatora klasy A w służbie radiokomunikacyjnej amatorskiej ?
+a) do uzyskania pozwolenia amatorskiego kategorii 1
+b) do uzyskania pozwolenia amatorskiego kategorii 3
+c) wyłącznie do pracy na radiostacji klubowej
+
+406. Do czego upoważnia świadectwo operatora klasy C w służbie radiokomunikacyjnej amatorskiej ?
+a) do uzyskania pozwolenia amatorskiego kategorii 2
+b) do uzyskania pozwolenia amatorskiego kategorii 3
+c) do organizowania zawodów w amatorskiej radiolokacji sportowej
+
+407. Na jaki okres czasu wydawane są indywidualne pozwolenia amatorskie kategorii 1 i 3 ?
+a) 10 lat
+b) 15 lat
+c) dożywotnio
+
+408. Na jaki okres czasu wydawane są pozwolenia amatorskie kategorii 5 ?
+a) 5 lat
+b) 10 lat
+c) 15 lat
+
+409. Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 1 uzyskanego po raz pierwszy ?
+a) 50 watów
+b) 500 watów
+c) 250 watów
+
+410. Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 3 ?
+a) 15 watów
+b) 100 watów
+c) 150 watów
+
+411. Jaka jest moc maksymalna wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 5 ?
+a) 50 watów dla nadajnika poniżej 30MHz a 15 watów dla nadajnika powyżej 30MHz
+b) 50 watów
+c) 150 watów
+
+412. Jaka jest maksymalna moc wyjściowa radiostacji w przypadku pozwolenia dodatkowego ?
+a) 500 watów
+b) 1000 watów
+c) 1500 watów
+
+413. W jakich zakresach krótkofalowych może pracować operator posiadający pozwolenie kategorii 1 ?
+a) 3500 - 3800 kHz oraz 7000 - 7100 kHz
+b) 7000 - 7100 kHz oraz 28000 - 29700 kHz
+c) we wszystkich zakresach częstotliwości przeznaczonych dla służby radiokomunikacyjnej amatorskiej na terytorium RP
+
+414. W jakich zakresach częstotliwości może pracować operator posiadający pozwolenie kategorii 3 ?
+a) 28000-29700 kHz oraz 144-146 MHz
+b) 1,81-2 MHz; 3,5-3,8 MHz; 7-7,2 MHz; 14-14,35 MHz; 21-21,45 MHz; 28-29,7 MHz, 144-146 MHz; 430-440 MHz oraz 10-10,5 GHz.
+c) 28000-29700 kHz oraz 430-440 MHz
+
+415. Jaki jest minimalny wiek, w którym można przystąpić do egzaminu i uzyskać świadectwo operatora urządzeń radiowych w służbie amatorskiej oraz uzyskać pozwolenie dla służby radiokomunikacyjnej amatorskiej ?
+a) 10 lat dla uzyskania świadectwa klasy C oraz 15 lat dla uzyskania świadectwa klasy A
+b) 15 lat dla uzyskania świadectwa klasy A i C
+c) nie określono minimalnego wieku
+
+416. Jakimi rodzajami emisji radiowych wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 50-52 MHz ?
+a) wyłącznie emisją A1A (telegrafia)
+b) wyłącznie emisją F3E (telefonia z modulacją częstotliwości)
+c) wszystkimi rodzajami emisji z wyjątkiem F3E
+
+417. Jakimi rodzajami emisji radiowych i z jaką mocą wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 135,7-137,8 kHz ?
+a) wyłącznie emisją A1A (telegrafia) z mocą wyjściową 150 watów
+b) wszystkimi rodzajami emisji z mocą wyjściową 250 watów
+c) wyłącznie emisją A1A (telegrafia) z mocą 1 wat e.i.r.p. (równoważna moc promieniowana izotropowo)
+
+418. Jaki dokument określa klasy świadectw operatora radiowego w służbie amatorskiej i wymagania egzaminacyjne na poszczególne klasy świadectw ?
+a) rozporządzenie ministra właściwego do spraw łączności
+b) ustawa Prawo telekomunikacyjne
+c) Krajowa Tablica Przeznaczeń Częstotliwości
+
+419. Jak powinien postąpić operator stacji amatorskiej w razie przypadkowego odebrania wiadomości nie przeznaczonej dla służby amatorskiej ?
+a) rozpowszechnić odebraną wiadomość w internecie
+b) zachować treść wiadomości w ścisłej tajemnicy
+c) zachować treść wiadomości w ścisłej tajemnicy, zaś w przypadku gdy odebrana wiadomość zawiera istotne dla funkcjonowania Pastwa lub porządku publicznego informacje - powiadomić najbliższą jednostkę Urzędu Komunikacji Elektronicznej
+
+420. Czy operator stacji amatorskiej może przekazywać przy pomocy swej radiostacji wiadomości pochodzące od osób trzecich i przeznaczone dla osób trzecich ?
+a) jest to dopuszczalne
+b) jest to surowo zabronione
+c) jest to dopuszczalne, jeśli stacja amatorska za wiedzą Urzędu Komunikacji Elektronicznej bierze udział w akcji niesienia pomocy lub likwidacji skutków klęsk żywiołowych i katastrof
+
+421. Jak często operator radiostacji amatorskiej powinien podawać podczas łączności znak wywoławczy swej stacji ?
+a) co pół godziny
+b) tak często, jak jest to w praktyce możliwe, przynajmniej na początku i na kocu każdego nadawania
+c) nie musi podawać znaku wywoławczego

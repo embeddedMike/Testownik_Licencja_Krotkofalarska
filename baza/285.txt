@@ -1,0 +1,6 @@
+X001
+Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 12 m to:
+24690 kHz - 24990 kHz
+24890 kHz - 24990 kHz
+24680 kHz - 24990 kHz
+

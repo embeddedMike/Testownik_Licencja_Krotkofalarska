@@ -1,0 +1,6 @@
+X001
+Kalkulator zawiera jeden układ scalony, wyświetlacz i klawiaturę. Do jakiej grupy zaliczymy układ scalony ?
+małej skali integracji
+średniej skali integracji
+wielkiej skali integracji
+

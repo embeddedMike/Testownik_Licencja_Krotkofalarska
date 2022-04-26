@@ -1,0 +1,6 @@
+X001
+Jakie pasmo musi posiadać filtr pasmowy dla poprawnego odbioru stacji radiofonicznej AM ?
+9 kHz
+20 kHz
+3.5 kHz
+

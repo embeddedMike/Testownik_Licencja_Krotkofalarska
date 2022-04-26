@@ -1,0 +1,5 @@
+120. W jakiej klasie wzmacniacza pracuje lampowy stopień mocy nadajnika telegraficznego ?
+a) w klasie A
+b) w klasie C
+c) w klasie AB
+

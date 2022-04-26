@@ -1,0 +1,6 @@
+X001
+Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 3 ?
+15 watów
+100 watów
+150 watów
+

@@ -1,0 +1,5 @@
+111. Napięcie na wejściu odbiornika na oporności 50 om wynosi 10 uV. Napięcie to wzrosło do 100 uV. O ile wzrosło napięcie wyrażone w dB ?
+a) o 10 dB
+b) o 20 dB
+c) o 40 dB
+

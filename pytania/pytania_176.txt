@@ -1,0 +1,5 @@
+260. Przy wymianie lampy stopnia mocy nadajnika należy:
+a) wyłączyć zasilanie i natychmiast przystąpić do wymiany
+b) wyłączyć zasilanie i poczekać aż rozładują się kondensatory zasilacza
+c) przy pracującym wzmacniaczu zdjąć osłonę lampy i przystąpić do jej wymiany
+

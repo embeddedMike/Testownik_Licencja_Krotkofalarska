@@ -1,0 +1,6 @@
+X001
+Jaki zapas mocy powinien mieć zasilacz urządzeń AM i FM przewidziany do ciągłej bezawaryjnej pracy ?
+20% więcej
+50% więcej
+10 % więcej powyżej mocy maksymalnej
+

@@ -1,0 +1,6 @@
+X001
+Kanał radiowy nadajnika telegraficznego CW jest:
+bardzo szeroki
+bardzo wąski
+średni
+

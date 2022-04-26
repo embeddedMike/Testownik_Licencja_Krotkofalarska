@@ -1,0 +1,6 @@
+X001
+Co to jest raport R S T stosowany podczas łączności telegraficznych ?
+informacja o stanie technicznym radiostacji
+informacja o jakości odbieranego sygnału radiowego ? czytelności, siły i tonu akustycznego sygnału
+informacja o stanie pogody
+

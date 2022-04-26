@@ -1,0 +1,5 @@
+203. Jaka jest różnica pomiędzy efektywną mocą promieniowaną e.r.p. a efektywną mocą promieniowaną izotropowo e.i.r.p ?
+a) e.i.r.p. jest większe o 2,16 dB od e.r.p.
+b) e.i.r.p. jest mniejsze o 2,16 dB od e.r.p.
+c) nie ma różnicy
+

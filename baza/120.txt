@@ -1,0 +1,6 @@
+X001
+Antena kierunkowa na UKF w miejscu odbioru daje napięcie 4 razy większe jak dipol półfalowy. Jaki ma zysk dBd ?
+6 dBd
+4 dBd
+12 dBd
+

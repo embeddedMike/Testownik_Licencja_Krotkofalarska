@@ -1,0 +1,5 @@
+291. Kiedy należy podawać raport o słyszalności ?
+a) na początku łączności i na życzenie korespondenta
+b) w odstępach 5-10 minut
+c) po każdym przekazaniu mikrofonu
+

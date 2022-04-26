@@ -1,0 +1,6 @@
+X001
+Spełnienie jakich warunków konstrukcyjnych ogranicza przedostawanie się energii w.cz. niepożądanymi drogami ?
+dobre uziemienie i szczelność ekranowania
+filtrowany zasilacz
+odpowiedni przekrój kabla sieciowego
+

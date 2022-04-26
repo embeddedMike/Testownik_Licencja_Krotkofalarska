@@ -1,0 +1,6 @@
+X001
+Czy plastikowa obudowa urządzenia nadawczego stanowi odpowiednie zabezpieczenie przed oddziaływaniem energii w.cz. ?
+jest to wystarczające zabezpieczenie przed energią w.cz.
+urządzenia te używa się głównie na terenowym QTH więc takie zabezpieczenie nie jest potrzebne
+nie stanowi żadnego zabezpieczenia przed energią w.cz.
+

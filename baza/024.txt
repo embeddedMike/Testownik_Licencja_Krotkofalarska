@@ -1,0 +1,6 @@
+X001
+Do cewki powietrznej 100 uH wkładamy rdzeń ferrytowy o względnej przenikalności u = 10. Ile wyniesie indukcyjność cewki ?
+wzrośnie do 1000 uH
+nie zmieni się
+zmaleje do 10 uH
+

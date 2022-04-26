@@ -1,0 +1,6 @@
+X001
+Czy postanowienia Regulaminu Radiokomunikacyjnego ITU dotyczące służby amatorskiej obowiązuj również w służbie amatorskiej satelitarnej ?
+tak, obowiązują
+nie, obowiązują odrębne przepisy
+nie obowiązują żadne przepisy
+

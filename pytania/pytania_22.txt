@@ -1,0 +1,5 @@
+23. Która z podanych mocy PEP odpowiada napiciu maksymalnemu U max = 100 V, zmierzonemu oscyloskopem na wyjściu nadajnika, na obciążeniu 50 om ?
+a) 200 W
+b) 100 W
+c) 50 W
+

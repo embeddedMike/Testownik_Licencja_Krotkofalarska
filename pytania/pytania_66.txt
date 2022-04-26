@@ -1,0 +1,5 @@
+92. Opornik ma 200 om. Płynie przez niego prąd 300 mA. Jaka jest moc tracona w oporze ?
+a) 18 W
+b) 1800 W
+c) 1,8 W
+

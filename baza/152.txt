@@ -1,0 +1,6 @@
+X001
+Narzędzia do prac elektrycznych powinny:
+charakteryzować się estetyką wykonania
+posiadać homologację Ministerstwa Łączności
+posiadać izolowane uchwyty z nadrukowaną informacją o dopuszczalnym napięciu pracy np. 500 V
+

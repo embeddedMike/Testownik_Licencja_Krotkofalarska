@@ -1,0 +1,5 @@
+356. Co oznacza w łączności telegraficznej raport 599 ?
+a) czytelny, silny sygnał, dobry ton
+b) dobrze czytelny, bardzo silny sygnał, bardzo dobry ton
+c) czytelny z trudnościami, sygnał słaby, dobry ton
+

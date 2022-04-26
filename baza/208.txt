@@ -1,0 +1,6 @@
+X001
+Czy po uzyskaniu świadectwa operatora urządzeń radiowych można samodzielnie obsługiwać stację amatorską ?
+można, ale tylko pod nadzorem radioamatora posiadającego pozwolenie radiowe
+można, w określonych przepisami zakresach częstotliwości
+nie można, ponieważ do obsługi stacji amatorskiej upoważnia jedynie pozwolenie radiowe
+

@@ -1,0 +1,6 @@
+X001
+Który z poniższych kodów Q oznacza: Potwierdzam odbiór, przyślę kartę potwierdzającą łączność ?
+QSL
+QSA
+QRT
+

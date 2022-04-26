@@ -1,0 +1,6 @@
+X001
+Który z poniższych kodów Q oznacza: Przejdź na częstotliwość, zmień częstotliwość ?
+QSY
+QTR
+QSA
+

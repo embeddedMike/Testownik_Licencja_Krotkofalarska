@@ -1,0 +1,6 @@
+X001
+Co to jest przyrząd uniwersalny wielozakresowy ?
+przyrząd do pomiaru tylko jednego napięcia
+przyrząd do pomiarów, napięć, prądów, oporności, w wielu zakresach
+przyrząd do pomiaru wielu napięć
+

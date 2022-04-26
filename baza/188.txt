@@ -1,0 +1,6 @@
+X001
+Czy świadectwo operatora urządzeń radiowych upoważnia do naprawy sieci elektrycznej w mieszkaniu ?
+tak, bez żadnych ograniczeń
+tak, ale wyłącznie sieci jednofazowej
+nie, do tego potrzebne jest posiadanie stosownych uprawnień
+

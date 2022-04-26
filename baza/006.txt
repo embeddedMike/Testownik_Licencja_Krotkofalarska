@@ -1,0 +1,6 @@
+X001
+Źródła chemiczne prądu dają prąd:
+stały
+zmienny
+pulsujący
+

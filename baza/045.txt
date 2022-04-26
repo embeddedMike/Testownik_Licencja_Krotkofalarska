@@ -1,0 +1,6 @@
+X001
+Co to jest zasięg horyzontalny na UKF ?
+zasięg wyznaczony linią horyzontu przy prostoliniowym rozchodzeniu się fal
+zasięg obliczony z mocy promieniowanej e.i.r.p.
+zasięg teoretyczny nadajnika
+

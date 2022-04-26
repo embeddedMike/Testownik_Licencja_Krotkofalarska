@@ -1,0 +1,5 @@
+233. Pomieszczenie, w którym znajduje się indywidualna stacja amatorska, powinno być wyposażone w następujące środki ochrony p-poż:
+a) środki gaśnicze wymagane dla obiektów użytku publicznego
+b) koc gaśniczy i gaśnicę do gaszenia urządzeń elektrycznych
+c) gaśnicę do gaszenia urządzeń pod napięciem
+

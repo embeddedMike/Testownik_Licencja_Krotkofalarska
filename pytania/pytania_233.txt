@@ -1,0 +1,5 @@
+317. Poprawne literowanie wg alfabetu ITU litery C i G:
+a) Charlie, Golf
+b) Canada, Gold
+c) Chile, Grenada
+

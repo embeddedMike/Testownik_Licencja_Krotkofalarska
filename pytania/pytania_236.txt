@@ -1,0 +1,5 @@
+320. Poprawne literowanie wg alfabetu ITU litery X i S:
+a) X-Rey, Sierra
+b) Xsen, Santiago
+c) X-Rey, Syria
+

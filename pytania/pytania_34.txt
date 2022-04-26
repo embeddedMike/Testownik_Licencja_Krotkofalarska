@@ -1,0 +1,5 @@
+35. Cztery oporniki o wartościach 5 om zostały połączone szeregowo. Ile wynosi oporność zastępcza tych oporów ?
+a) 10 om
+b) 20 om
+c) 40 om
+

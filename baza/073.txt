@@ -1,0 +1,6 @@
+X001
+Pole elektryczne nazywamy jednorodnym jeżeli:
+linie sił pola są prostopadłe
+linie układają się w koła
+linie sił są równoległe
+

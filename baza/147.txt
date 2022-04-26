@@ -1,0 +1,6 @@
+X001
+Czy można wykorzystać jako uziemienie rurę instalacji gazowej ?
+bezwzględnie nie wolno
+wolno bez żadnych ograniczeń
+wolno jedynie w sytuacji, gdy nie dysponuje się innym uziemieniem
+

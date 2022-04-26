@@ -1,0 +1,5 @@
+131. Napięcie na wyjściu zasilacza nieobciążonego z filtrem pojemnościowym, wynosi 25 V. Jakie jest napięcie Usk transformatora zasilającego diody ?
+a) 25 V
+b) 17,7 V
+c) 20 V
+

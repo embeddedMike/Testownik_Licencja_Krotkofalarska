@@ -1,0 +1,5 @@
+322. Do czego służy międzynarodowy kod Q ?
+a) podania informacji o czasie rozpoczęcia łączności
+b) skrócenia czasu nadawania informacji
+c) informowania o sile odbieranego sygnału radiowego
+

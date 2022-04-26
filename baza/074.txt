@@ -1,0 +1,6 @@
+X001
+Pole elektryczne może być ekranowane za pomocą:
+ekranów z blach metalowych
+ekranów z izolatorów
+ekranów z luster
+

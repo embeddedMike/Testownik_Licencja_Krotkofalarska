@@ -1,0 +1,6 @@
+X001
+Jaki zakres częstotliwości dźwięków wystarcza dla zrozumiałego nadawania mowy ?
+od 300 Hz do 3,2 kHz
+od 100 Hz do 5 kHz
+od 20 Hz do 15 kHz
+

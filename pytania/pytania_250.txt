@@ -1,0 +1,5 @@
+334. Który z poniższych kodów Q oznacza: Zmniejsz moc, zmniejszam moc ?
+a) QUB
+b) QRA
+c) QRP
+

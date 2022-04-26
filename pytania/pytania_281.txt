@@ -1,0 +1,5 @@
+365. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 30 m to:
+a) 10050 kHz - 10200 kHz
+b) 10100 kHz - 10150 kHz
+c) 10100 kHz - 10200 kHz
+

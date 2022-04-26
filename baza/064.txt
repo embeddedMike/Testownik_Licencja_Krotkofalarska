@@ -1,0 +1,6 @@
+X001
+W obwodzie prądu stałego przez opornik 1000 om płynie prąd 2 mA. Jaki jest spadek napięcia na oporze ?
+spadek wynosi 500 V
+spadek wynosi 2000 V
+spadek wynosi 2 V
+

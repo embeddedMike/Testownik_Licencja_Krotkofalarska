@@ -1,0 +1,6 @@
+X001
+Pasmo obwodu rezonansowego zależy od dobroci Q obwodu. Jeżeli Q = 100 to ile wynosi pasmo przy częstotliwości obwodu 14 MHz ?
+280 kHz
+14 kHz
+140 kHz
+

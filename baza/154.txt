@@ -1,0 +1,6 @@
+X001
+Uruchomienie nieznanego urządzenia rozpoczyna się od:
+włożenia wtyczki do kontaktu i przełączenia przełącznika
+podłączenia anteny i uziemienia
+sprawdzenia, czy ustawione jest właściwe napięcie sieci oraz zainstalowany jest właściwy bezpiecznik
+

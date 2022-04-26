@@ -1,0 +1,5 @@
+308. Okręg wywoławczy SP7 to obszar:
+a) województwa mazowieckiego
+b) województw dolnośląskiego i opolskiego
+c) województw łódzkiego i świętokrzyskiego
+

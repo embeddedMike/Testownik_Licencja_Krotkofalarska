@@ -1,0 +1,6 @@
+X001
+Jak nazywa się przyrząd do pomiaru napięcia ?
+omomierz
+woltomierz
+amperomierz
+

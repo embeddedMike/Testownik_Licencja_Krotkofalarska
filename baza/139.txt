@@ -1,0 +1,6 @@
+X001
+Czy kondensator elektrolityczny musi mieć napięcie pracy równe lub większe niż napięcie występujące w układzie w jakim pracuje ?
+napięcie pracy kondensatora nie ma znaczenia
+napięcie pracy kondensatora ma znaczenia tylko w niektórych typach układów
+koniecznie, gdyż może ulec zniszczeniu
+

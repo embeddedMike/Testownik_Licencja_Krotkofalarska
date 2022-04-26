@@ -1,0 +1,5 @@
+262. Najlepszą formą zabezpieczenia anteny krótkofalowej przed burzą jest:
+a) odłączenie anteny od radiostacji i wystawienie kabla anteny za okno
+b) odłączenie anteny od radiostacji i połączenie anteny z uziemieniem
+c) nie są wymagane żadne działania
+

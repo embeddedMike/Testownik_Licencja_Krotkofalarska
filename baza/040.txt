@@ -1,0 +1,6 @@
+X001
+Jak nazywa się przyrząd do mierzenia fali stojącej w kablu koncentrycznym ?
+rezystomierz
+reflektometr
+refraktometr
+

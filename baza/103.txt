@@ -1,0 +1,6 @@
+X001
+Transformator zasilacza ma napięcie Usk = 300 V. Czy w prostowniku jednopołówkowym można użyć diody wytrzymującej wstecznie 400 V ?
+tak
+nie
+tak, ale z opornikiem w szereg
+

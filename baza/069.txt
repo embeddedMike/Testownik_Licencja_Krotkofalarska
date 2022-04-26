@@ -1,0 +1,6 @@
+X001
+Jaka jest częstotliwość prądu zmiennego, którego okres wynosi 0,02 sek. ?
+100 Hz
+50 Hz
+60 Hz
+

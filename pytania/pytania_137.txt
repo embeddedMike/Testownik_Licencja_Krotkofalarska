@@ -1,0 +1,5 @@
+221. Jakie niebezpieczeństwo grozi, gdy trzymamy w rękach naładowany kondensator elektrolityczny ?
+a) porażenie prądem elektrycznym
+b) nie ma żadnego niebezpieczeństwa
+c) implozja kondensatora
+

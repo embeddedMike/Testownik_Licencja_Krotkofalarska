@@ -1,0 +1,6 @@
+X001
+Ile bateryjek 4,5 V potrzebujemy połączyć w szereg, by uzyskać baterię anodową o napięciu 90 V ?
+15 szt.
+10 szt.
+20 szt.
+

@@ -1,0 +1,5 @@
+30. Warikap to dioda:
+a) dioda mikrofalowa
+b) dioda pojemnościowa
+c) dioda stabilizacyjna
+

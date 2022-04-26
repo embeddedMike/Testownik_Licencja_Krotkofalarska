@@ -1,0 +1,5 @@
+138. Czy dyskryminator sygnału FM powinien reagować na modulację amplitudy sygnału FM ?
+a) nie
+b) tak
+c) nie ma to znaczenia
+

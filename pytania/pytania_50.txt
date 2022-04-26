@@ -1,0 +1,5 @@
+76. Co to jest przyrząd uniwersalny wielozakresowy ?
+a) przyrząd do pomiaru tylko jednego napięcia
+b) przyrząd do pomiarów, napięć, prądów, oporności, w wielu zakresach
+c) przyrząd do pomiaru wielu napięć
+

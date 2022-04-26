@@ -1,0 +1,6 @@
+X001
+Jakie oznaczenie na rękojeści narzędzia ma istotne znaczenie przy pracach elektrycznych ?
+rodzaj zastosowanej izolacji
+nazwa producenta
+dopuszczalne napięcie pracy
+

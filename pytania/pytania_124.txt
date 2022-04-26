@@ -1,0 +1,5 @@
+208. O czym mówi podawana w prognozach propagacji częstotliwość MUF ?
+a) o zakłóceniach odbioru
+b) o maksymalnej częstotliwości do łączności na danej trasie
+c) o zaniku łączności w danym kierunku
+

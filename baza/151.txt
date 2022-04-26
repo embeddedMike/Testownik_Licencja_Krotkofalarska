@@ -1,0 +1,6 @@
+X001
+Uszkodzonych tranzystorów nie powinno się otwierać, gdyż:
+można się pokaleczyć
+zawierają szkodliwe substancje, mogące spowodować ciężkie zatrucie
+zawierają tajemnice produkcji, których i tak nie jesteśmy w stanie wykorzystać
+

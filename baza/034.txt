@@ -1,0 +1,6 @@
+X001
+Cztery oporniki o wartościach 5 om zostały połączone szeregowo. Ile wynosi oporność zastępcza tych oporów ?
+10 om
+20 om
+40 om
+

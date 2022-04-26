@@ -1,0 +1,6 @@
+X001
+Po zakończeniu pracy radiostacji należy:
+wyłączyć zasilanie
+wyłączyć zasilanie i uziemić anteny
+wyłączyć zasilanie, uziemić anteny i odłączyć uziemienie od radia
+

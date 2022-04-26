@@ -1,0 +1,6 @@
+X001
+Ile oporników o wartości 200 om należy połączyć równolegle by uzyska sztuczne obciążenie antenowe 50 om ?
+5 szt.
+2 szt.
+4 szt.
+

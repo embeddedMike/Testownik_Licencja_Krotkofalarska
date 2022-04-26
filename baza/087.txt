@@ -1,0 +1,6 @@
+X001
+Tolerancja wykonania opornika 1 kom wynosi 5 %. W jakich granicach zawiera się jego oporność ?
+od 0,9 do 1,1 kom
+od 0,98 do 1,02 kom
+od 950 om do 1050 om
+

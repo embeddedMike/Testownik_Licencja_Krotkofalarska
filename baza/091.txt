@@ -1,0 +1,6 @@
+X001
+Prąd zmienny płynący przez kondensator C:
+wyprzedza napięcie na kondensatorze o 90 stopni
+jest w fazie z napięciem
+opóźnia się o 90 stopni wobec napięcia
+

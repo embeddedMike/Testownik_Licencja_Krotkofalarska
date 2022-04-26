@@ -1,0 +1,6 @@
+X001
+Miarą selektywności odbiornika jest szerokość pasma odbieranego przez odbiornik. Przy jakim poziomie od poziomu maksymalnego mierzymy selektywność ?
+przy -10dB
+przy -6dB
+przy -12dB
+

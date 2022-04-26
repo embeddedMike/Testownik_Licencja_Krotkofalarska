@@ -1,0 +1,6 @@
+X001
+Przewody zasilające prądu stałego oznaczone są kolorami:
+żółty i czarny
+niebieski i czarny
+czerwony i czarny
+

@@ -1,0 +1,6 @@
+X001
+Czy zwarcie drutem biegunów źródła prądu (bateria, akumulator) może być niebezpieczne ?
+nie ma żadnego zagrożenia
+tak, może spowodować pożar
+tak, może spowodować stopienie się drutu i poparzenie roztopionym metalem
+

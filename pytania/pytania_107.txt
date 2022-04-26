@@ -1,0 +1,5 @@
+134. Czy w wzmacniaczu mocy pracującym idealnie liniowo, powstają harmoniczne ?
+a) tak
+b) nie
+c) tak ale małe
+

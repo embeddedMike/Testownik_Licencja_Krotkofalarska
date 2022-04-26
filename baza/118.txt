@@ -1,0 +1,6 @@
+X001
+Zysk anteny kierunkowej wyrażony jest w dBi. Względem jakiego źródła jest określony ?
+dipola pomiarowego
+źródła izotropowego
+innej anteny kierunkowej
+

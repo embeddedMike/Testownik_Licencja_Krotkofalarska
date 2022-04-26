@@ -1,0 +1,5 @@
+276. Co oznacza wg kodu Q symbol QRG ?
+a) włączam większą moc nadajnika
+b) moja częstotliwość jest ...
+c) siła twoich sygnałów waha się
+

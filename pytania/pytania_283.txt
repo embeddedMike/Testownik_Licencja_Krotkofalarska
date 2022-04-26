@@ -1,0 +1,5 @@
+367. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 17 m to:
+a) 18050 kHz - 18250 kHz
+b) 18068 kHz - 18168 kHz
+c) 18000 kHz - 18168 kHz
+

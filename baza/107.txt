@@ -1,0 +1,6 @@
+X001
+Czy w wzmacniaczu mocy pracującym idealnie liniowo, powstają harmoniczne ?
+tak
+nie
+tak ale małe
+

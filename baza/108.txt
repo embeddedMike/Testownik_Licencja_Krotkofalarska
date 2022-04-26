@@ -1,0 +1,6 @@
+X001
+Dlaczego do detekcji sygnałów telegrafii CW używamy produkt detektora i pomocniczego generatora BFO ?
+bo sygnał CW jest przerywany
+musimy wytworzyć słyszalne dudnienia z niemodulowanym sygnałem CW
+bo sygnał CW jest słaby
+

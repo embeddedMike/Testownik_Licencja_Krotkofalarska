@@ -1,0 +1,5 @@
+246. Transformator ochronny stosujemy, gdy:
+a) zachodzi obawa, że użycie narzędzi elektrycznych zasilanych napięciem 230 V może spowodować porażenie prądem, np. pracując na zewnątrz pomieszczeń
+b) wykonujemy prace w wilgotnym pomieszczeniu
+c) jak w punkcie A i B i w innych sytuacjach, jeżeli zachodzi niebezpieczeństwo porażenia prądem np. przy pracach naprawczych
+

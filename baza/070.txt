@@ -1,0 +1,6 @@
+X001
+Wartość amplitudy napięcia sinusoidalnego wynosi 200 V. Jaka jest wartość skuteczna napięcia ?
+200 V
+400 V
+141,8 V
+

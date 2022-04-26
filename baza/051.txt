@@ -1,0 +1,6 @@
+X001
+Jak zmierzyć moc prądu stałego ?
+zmierzyć prąd i napięcie w obwodzie i obliczyć
+zmierzyć oporność obwodu i obliczyć
+zmierzyć prąd i obliczyć
+

@@ -1,0 +1,6 @@
+X001
+Czy prędkość fali elektromagnetycznej zależy od ośrodka, w którym się rozchodzi ?
+tak
+nie zależy
+jest zawsze jednakowa
+

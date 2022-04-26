@@ -1,0 +1,6 @@
+X001
+Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 160 m to:
+1810 kHz - 1950 kHz
+1810 kHz - 2000 kHz
+1810 kHz - 1980 kHz
+

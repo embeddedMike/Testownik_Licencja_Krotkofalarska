@@ -1,0 +1,5 @@
+234. Przewody zasilające prądu stałego oznaczone są kolorami:
+a) żółty i czarny
+b) niebieski i czarny
+c) czerwony i czarny
+

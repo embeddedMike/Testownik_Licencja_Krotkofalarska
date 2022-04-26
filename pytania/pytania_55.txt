@@ -1,0 +1,5 @@
+81. Co to jest kompatybilność elektromagnetyczna (EMC) ?
+a) zamienność urządzeń
+b) wymogi co do podobnej obsługi urządzeń elektrycznych
+c) taka konstrukcja sprzętu, by urządzenia nie wpływały na siebie i mogły pracować bez powodowania wzajemnych zakłóceń
+

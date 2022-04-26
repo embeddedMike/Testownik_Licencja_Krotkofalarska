@@ -1,0 +1,6 @@
+X001
+Co to jest raport R S stosowany podczas łączności fonicznych ?
+informacja o stanie technicznym radiostacji
+informacja o stanie pogody przekazana w postaci zakodowanej
+informacja o jakości odbieranego sygnału radiowego - czytelności i sił sygnału wyrażana w postaci cyfr
+

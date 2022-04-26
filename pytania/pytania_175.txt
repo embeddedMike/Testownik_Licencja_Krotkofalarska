@@ -1,0 +1,5 @@
+259. Czy podczas pracy z wiertarką wymagane jest stosowanie rękawic ochronnych ?
+a) tak, obowiązkowo
+b) można stosować według uznania
+c) jest zabronione
+

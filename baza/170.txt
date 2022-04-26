@@ -1,0 +1,6 @@
+X001
+Odległość pomiędzy masztem antenowym budowanym na ziemi a pasem drogowym, chodnikiem i innymi przeszkodami:
+powinna być równa połowie wysokości masztu
+nie ma żadnego znaczenia
+powinna być większa niż wysokość masztu
+

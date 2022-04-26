@@ -1,0 +1,5 @@
+115. Kondensator mikowy ma pojemność 6800 pF, i napięcie pracy 500V. Czy można go zastosować w miejsce kondensatora 6,8 nF o napięciu pracy 250 V ?
+a) tak można
+b) nie można
+c) można, ale potrzebne są dwa takie kondensatory
+

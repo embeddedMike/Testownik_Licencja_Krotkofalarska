@@ -1,0 +1,6 @@
+X001
+Ekranowanie pól magnetycznych wykonujemy z materiałów:
+izolacyjnych
+z materiałów o wysokiej przenikalności magnetycznej
+z materiałów o małym oporze właściwym
+

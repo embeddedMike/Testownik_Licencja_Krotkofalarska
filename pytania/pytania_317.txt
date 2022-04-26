@@ -1,0 +1,5 @@
+401. W jakim dokumencie określone są zakresy częstotliwości przeznaczone w Polsce dla służby amatorskiej i służby amatorskiej satelitarnej ?
+a) w ustawie Prawo telekomunikacyjne
+b) w rozporządzeniu Rady Ministrów w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości
+c) w decyzjach Prezesa Urzędu Komunikacji Elektronicznej
+

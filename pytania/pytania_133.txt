@@ -1,0 +1,5 @@
+217. Czy wolno wykonywać prace antenowe przy włączonym nadajniku ?
+a) wolno, bez żadnych ograniczeń
+b) wolno, ale tylko przy małych mocach nadajnika
+c) kategorycznie nie wolno
+

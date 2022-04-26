@@ -1,0 +1,5 @@
+X001
+Jak często operator radiostacji amatorskiej powinien podawać podczas łączności znak wywoławczy swej stacji ?
+co pół godziny
+tak często, jak jest to w praktyce możliwe, przynajmniej na początku i na kocu każdego nadawania
+nie musi podawać znaku wywoławczego

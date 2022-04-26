@@ -1,0 +1,6 @@
+X001
+Jak powinien postąpić operator stacji amatorskiej w razie przypadkowego odebrania wiadomości nie przeznaczonej dla służby amatorskiej ?
+rozpowszechnić odebraną wiadomość w internecie
+zachować treść wiadomości w ścisłej tajemnicy
+zachować treść wiadomości w ścisłej tajemnicy, zaś w przypadku gdy odebrana wiadomość zawiera istotne dla funkcjonowania Pastwa lub porządku publicznego informacje - powiadomić najbliższą jednostkę Urzędu Komunikacji Elektronicznej
+

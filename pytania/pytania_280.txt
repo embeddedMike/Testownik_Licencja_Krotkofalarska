@@ -1,0 +1,5 @@
+364. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 40 m to:
+a) 7000 kHz - 7200 kHz
+b) 7100 kHz - 7300 kHz
+c) 7050 kHz - 7200 kHz
+

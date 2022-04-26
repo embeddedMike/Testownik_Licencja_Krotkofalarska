@@ -1,0 +1,5 @@
+390. Jakiego rodzaju dokumenty regulujące działalność radiokomunikacyjną w Europie przyjmuje i wprowadza Europejska Konferencja Administracji Pocztowych i Telekomunikacyjnych (CEPT) i publikuje Europejskie Biuro Radiokomunikacji (ERO) ?
+a) decyzje
+b) decyzje i zalecenia
+c) decyzje, zalecenia i raporty
+

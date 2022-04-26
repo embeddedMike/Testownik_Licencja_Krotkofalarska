@@ -1,0 +1,6 @@
+X001
+Do czego służy międzynarodowy kod Q ?
+podania informacji o czasie rozpoczęcia łączności
+skrócenia czasu nadawania informacji
+informowania o sile odbieranego sygnału radiowego
+

@@ -1,0 +1,6 @@
+X001
+Czy radiotelefon UKF należy uziemiać w czasie pracy ?
+nie ma takiej potrzeby
+tak, obowiązkowo
+tylko jeśli posiada zacisk uziemiający
+

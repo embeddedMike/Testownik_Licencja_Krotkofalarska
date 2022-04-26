@@ -1,0 +1,6 @@
+X001
+W obwodach elektrycznych przyjmujemy, że kierunek przepływu prądu odbywa się od:
+od wyższego potencjału (+) do niższego (-)
+w prawo zgodnie z wskazówkami zegara
+przeciwnie do wskazówek zegara
+

@@ -1,0 +1,6 @@
+X001
+Obwód rezonansowy równoległy LC, w punkcie rezonansu przedstawia oporność:
+rzeczywistą omową
+reaktancję pojemnościową
+reaktancję indukcyjną
+

@@ -1,0 +1,5 @@
+207. Do jakiej wysokości sięgają najwyższe warstwy jonosfery w lecie w dzień ?
+a) do 200 km
+b) 450 km
+c) 100 km
+

@@ -1,0 +1,5 @@
+108. Przy modulacji amplitudy AM szerokość kanału radiowego zależy od:
+a) najniższych częstotliwości modulujących
+b) amplitudy modulującego sygnału
+c) najwyższych częstotliwości modulujących
+

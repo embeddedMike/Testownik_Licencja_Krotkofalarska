@@ -1,0 +1,5 @@
+28. Diody prostownicze zasilające są stosowane do:
+a) prostowania prądów wysokiej częstotliwości
+b) do prostowania prądu w zasilaczach
+c) do stabilizacji napięć
+

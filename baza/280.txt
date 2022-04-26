@@ -1,0 +1,6 @@
+X001
+Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 40 m to:
+7000 kHz - 7200 kHz
+7100 kHz - 7300 kHz
+7050 kHz - 7200 kHz
+

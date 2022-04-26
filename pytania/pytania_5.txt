@@ -1,0 +1,5 @@
+6. Żarówka ma moc 24 W i pobiera z akumulatora 2 A. Jakie jest napięcie akumulatora ?
+a) napięcie wynosi 24 V
+b) napięcie wynosi 12 V
+c) napięcie wynosi 48 V
+

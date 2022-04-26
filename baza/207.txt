@@ -1,0 +1,6 @@
+X001
+Kiedy należy podawać raport o słyszalności ?
+na początku łączności i na życzenie korespondenta
+w odstępach 5-10 minut
+po każdym przekazaniu mikrofonu
+

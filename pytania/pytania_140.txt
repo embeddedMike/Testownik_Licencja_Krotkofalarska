@@ -1,0 +1,5 @@
+224. Czy brak filtru przeciw zakłóceniowego na obwodzie zasilania sieciowego może być przyczyną zakłóceń w pracy urządzenia ?
+a) tak, ale tylko przy dużej mocy
+b) zawsze, bez względu na moc
+c) to nie ma znaczenia, rolę filtru pełni transformator zasilacza
+

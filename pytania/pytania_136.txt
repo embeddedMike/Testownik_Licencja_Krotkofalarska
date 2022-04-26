@@ -1,0 +1,5 @@
+220. Czy źle wykonany uziom może być przyczyną szkodliwego promieniowania w.cz. ?
+a) nie
+b) tak
+c) nie zawsze
+

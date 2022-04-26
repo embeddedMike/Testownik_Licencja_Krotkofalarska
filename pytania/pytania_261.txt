@@ -1,0 +1,5 @@
+345. Które z poniższych skrótów slangu radioamatorskiego oznaczają: Panna, młoda pani; czas uniwersalny ?
+a) YL; UTC
+b) XYL; UT
+c) LY; TRO
+

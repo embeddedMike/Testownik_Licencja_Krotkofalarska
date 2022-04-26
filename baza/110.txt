@@ -1,0 +1,6 @@
+X001
+Czy dyskryminator sygnału FM powinien reagować na modulację amplitudy sygnału FM ?
+nie
+tak
+nie ma to znaczenia
+

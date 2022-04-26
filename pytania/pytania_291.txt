@@ -1,0 +1,5 @@
+375. Jaki jest odstęp między częstotliwością nadawczą a odbiorczą przemienników pracujących w paśmie 2 m?
+a) 600 kHz
+b) 650 kHz
+c) 800 kHz
+

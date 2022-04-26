@@ -1,0 +1,6 @@
+X001
+Warikap to dioda:
+dioda mikrofalowa
+dioda pojemnościowa
+dioda stabilizacyjna
+

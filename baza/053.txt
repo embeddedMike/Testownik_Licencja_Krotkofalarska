@@ -1,0 +1,6 @@
+X001
+Jakim przyrządem mierzymy dopasowanie obciążenia do kabla koncentrycznego ?
+żarówką włączoną w szereg na maksimum świecenia
+sprawdzeniem czy kabel się nie grzeje
+za pomocą reflektometru przelotowego
+

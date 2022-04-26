@@ -1,0 +1,6 @@
+X001
+Co to jest dziennik łączności LOG ?
+jest to dokument radiostacji amatorskiej zawierający informacje o korespondencji z innymi radiostacjami amatorskimi, zawierający znak stacji, imię operatora, datę, godzinę, pasmo w jakim przeprowadzono QSO
+jest to informacja o procedurach obowiązujących podczas łączności z innymi stacjami
+jest to informacja o kontroli radiostacji przez inspektorów UKE
+

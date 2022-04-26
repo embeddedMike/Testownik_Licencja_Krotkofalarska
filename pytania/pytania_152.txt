@@ -1,0 +1,5 @@
+236. Narzędzia do prac elektrycznych powinny:
+a) charakteryzować się estetyką wykonania
+b) posiadać homologację Ministerstwa Łączności
+c) posiadać izolowane uchwyty z nadrukowaną informacją o dopuszczalnym napięciu pracy np. 500 V
+

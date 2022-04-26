@@ -1,0 +1,5 @@
+379. Jaki organ Międzynarodowego Związku Telekomunikacyjnego (ITU) decyduje o przeznaczeniach poszczególnych zakresów częstotliwości dla różnych służb radiokomunikacyjnych ?
+a) Rada Międzynarodowego Związku Telekomunikacyjnego (ITU)
+b) Światowe Konferencje Radiokomunikacyjne
+c) Biuro Radiokomunikacji ITU
+

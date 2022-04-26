@@ -1,0 +1,5 @@
+227. Czy można uruchomić urządzenie po przeniesieniu z zimnego pomieszczenia do ciepłego ?
+a) istnieje bezwzględny zakaz
+b) można, ale po odczekaniu pewnego czasu
+c) można natychmiast, bez żadnego ryzyka
+

@@ -1,0 +1,5 @@
+212. Czy można wykorzystać sieć wodociągową jako uziemienie ?
+a) tak
+b) jedynie po zbocznikowaniu wodomierza i upewnieniu się, że jest ona uziemiona oraz po uzyskaniu zgody jednostki eksploatującej tę sieć
+c) nie, jest to zabronione
+

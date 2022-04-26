@@ -1,0 +1,6 @@
+X001
+Wzmacniacz posiada wzmocnienie napięciowe 10 razy. Wyraź to wzmocnienie w decybelach (dB)
+10 dB
+20 dB
+40 dB
+

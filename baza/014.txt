@@ -1,0 +1,6 @@
+X001
+Długość fali wynosi 1500 metrów. Jaka jest częstotliwość tej fali ?
+2 MHz
+200 kHz
+233 kHz
+

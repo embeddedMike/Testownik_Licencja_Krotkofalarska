@@ -1,0 +1,5 @@
+274. Jakie są skutki uszkodzenia ekranu fidera antenowego ?
+a) nie ma żadnych
+b) następuje wzrost zakłóceń, bez względu na pogodę
+c) następuje wzrost zakłóceń i zmiana impedancji kabla grożąca uszkodzeniem nadajnika
+

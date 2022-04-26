@@ -1,0 +1,5 @@
+309. Okręg wywoławczy SP8 to obszar:
+a) województw dolnośląskiego i opolskiego
+b) województw lubelskiego i podkarpackiego
+c) województwa zachodniopomorskiego
+

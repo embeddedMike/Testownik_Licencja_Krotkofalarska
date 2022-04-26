@@ -1,0 +1,5 @@
+360. Jak zbudowane są znaki wywoławcze radiostacji amatorskich ?
+a) dwie litery, cyfra, dwie do pięciu liter, np. SP3AB lub SP3ABCDE
+b) dwie litery, cyfra, dwie do trzech liter, np. SP3AB lub SP3ABC
+c) dwie litery lub cyfra i litera, cyfra, jeden do czterech znaków (liter lub cyfr), gdzie ostatni jest literą, np. SP3A lub SP3ABCD
+

@@ -1,0 +1,6 @@
+X001
+Jeżeli nadajnik amatorski powoduje zakłócenia, to jakie elementy sprawdzamy w pierwszej kolejności ?
+zawieszenie anteny
+odbiornik
+liniowość stopnia mocy (PA) i filtr wyjściowy
+

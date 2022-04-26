@@ -1,0 +1,6 @@
+X001
+Żarówka ma moc 24 W i pobiera z akumulatora 2 A. Jakie jest napięcie akumulatora ?
+napięcie wynosi 24 V
+napięcie wynosi 12 V
+napięcie wynosi 48 V
+

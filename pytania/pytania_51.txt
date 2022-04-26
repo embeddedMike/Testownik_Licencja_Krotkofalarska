@@ -1,0 +1,5 @@
+77. Jak zmierzyć moc prądu stałego ?
+a) zmierzyć prąd i napięcie w obwodzie i obliczyć
+b) zmierzyć oporność obwodu i obliczyć
+c) zmierzyć prąd i obliczyć
+

@@ -1,0 +1,6 @@
+X001
+Co oznacza w łączności telegraficznej raport 438 ?
+dobrze czytelny, bardzo silny sygnał, dobry ton
+czytelny z trudnościami, słaby sygnał, bardzo dobry ton
+czytelny, słaby sygnał, dobry ton sygnału
+

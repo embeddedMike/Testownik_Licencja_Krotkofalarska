@@ -1,0 +1,5 @@
+235. Uszkodzonych tranzystorów nie powinno się otwierać, gdyż:
+a) można się pokaleczyć
+b) zawierają szkodliwe substancje, mogące spowodować ciężkie zatrucie
+c) zawierają tajemnice produkcji, których i tak nie jesteśmy w stanie wykorzystać
+

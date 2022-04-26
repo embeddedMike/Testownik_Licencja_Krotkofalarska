@@ -1,0 +1,5 @@
+346. Co oznaczają skróty slangu radioamatorskiego: PSE; RPT ?
+a) proszę; powtórzyć, powtórzę, powtarzam
+b) proszę; zmieniam pasmo o 10 kHz
+c) przechodzę na inny kanał; raport podam na koniec łączności
+

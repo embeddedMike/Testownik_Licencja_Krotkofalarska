@@ -1,0 +1,6 @@
+X001
+Akumulator ma napięcie 6.5 V. Do akumulatora chcemy podłączyć żarówkę 3,5 V 0,3 A. Jaki opornik należy włączyć w szereg by ograniczyć prąd ?
+opornik 3.5 om
+opornik 100 om
+opornik 10 om
+

@@ -1,0 +1,5 @@
+105. Częstotliwość pracy nadajnika amatorskiego wynosi 3,5714 MHz. Jaka jest dokładna długość fali tego nadajnika ?
+a) 80 m
+b) 84 m
+c) 81,08 m
+

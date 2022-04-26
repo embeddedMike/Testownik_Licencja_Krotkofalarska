@@ -1,0 +1,6 @@
+X001
+Ładunki elektryczne w przestrzeni przyciągają się, jeżeli:
+są jednoimienne
+są różnoimienne
+są nieskończenie daleko
+

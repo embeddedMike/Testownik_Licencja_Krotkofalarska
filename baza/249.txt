@@ -1,0 +1,6 @@
+X001
+Który z poniższych kodów Q oznacza: Moje położenie geograficzne jest ... ?
+QLP
+QRG
+QTH
+

@@ -1,0 +1,5 @@
+175. Przy jakim stosunku sygnału do szumu mierzymy czułość odbiornika ?
+a) przy 6 dB
+b) przy 10 dB
+c) przy 20 dB
+

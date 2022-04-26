@@ -1,0 +1,6 @@
+X001
+Czy podczas naprawy oscyloskopu można go włączyć bez założonego na lampę cylindra ochronnego ?
+można bez żadnego ryzyka
+można, ale należy uważać na wysokie napięcie
+kategorycznie nie wolno
+

@@ -1,0 +1,6 @@
+X001
+Czy czysty sygnał sinusoidalny 1000 Hz, zawiera harmoniczne 2000 Hz i 3000 Hz ?
+zawiera tylko 2000 Hz
+zawiera obie harmoniczne
+nie zawiera w ogóle harmonicznych
+

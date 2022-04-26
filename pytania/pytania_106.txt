@@ -1,0 +1,5 @@
+133. Wzmacniacz wysokiej częstotliwości obciążony obwodem rezonansowym jest:
+a) wzmacniaczem selektywnym
+b) wzmacniaczem szerokopasmowym
+c) wzmacniaczem akustycznym
+

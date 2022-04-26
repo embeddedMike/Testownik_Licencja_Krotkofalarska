@@ -1,0 +1,6 @@
+X001
+Mamy opornik 100 om dołączony do napięcia 3 V. Z jakiej grupy mocy wybierzemy opornik ?
+grupa 1 W
+grupa 0,125 W
+grupa 0,5 W
+

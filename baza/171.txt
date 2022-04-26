@@ -1,0 +1,6 @@
+X001
+Maszt kratowy uziemiamy:
+jednym zwodem odgromowym
+po przekątnej dwoma zwodami
+czterema zwodami, po jednym na każdej nodze
+

@@ -1,0 +1,5 @@
+298. Jak zbudowany jest znak wywoławczy w pozwoleniu dodatkowym ?
+a) nie ma określonej budowy, składa się liter i cyfr
+b) składa się z prefiksu, cyfry i kombinacji maksymalnie siedmiu liter i cyfr
+c) składa się z prefiksu i pięciu liter
+

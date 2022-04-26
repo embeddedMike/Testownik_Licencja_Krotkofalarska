@@ -1,0 +1,5 @@
+294. Czy razem ze świadectwem operatora urządzeń radiowych przydzielany jest znak wywoławczy dla radiostacji amatorskiej ?
+a) tak
+b) nie, znak wywoławczy przydzielany jest w pozwoleniu radiowym
+c) tak, jeżeli dana osoba posiada radiostację
+

@@ -1,0 +1,5 @@
+408. Na jaki okres czasu wydawane są pozwolenia amatorskie kategorii 5 ?
+a) 5 lat
+b) 10 lat
+c) 15 lat
+

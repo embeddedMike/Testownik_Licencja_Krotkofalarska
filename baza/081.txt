@@ -1,0 +1,6 @@
+X001
+Czy można prowadzić powielanie częstotliwości w stopniu mocy nadajnika ?
+tak
+nie
+jest to bez znaczenia
+

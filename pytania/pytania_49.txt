@@ -1,0 +1,5 @@
+75. Jakim przyrządem możemy zmierzyć wartość opornika ?
+a) omomierzem
+b) woltomierzem
+c) amperomierzem
+

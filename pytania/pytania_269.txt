@@ -1,0 +1,5 @@
+353. Jaka jest skala czytelności i skala siły sygnału w raporcie R S ?
+a) skala czytelności 1-5 i skala siły sygnału 1-9
+b) skala czytelności 1-9 i skala siły sygnału 1-5
+c) skala czytelności 0-5 i skala siły sygnału 0-9
+

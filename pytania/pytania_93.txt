@@ -1,0 +1,5 @@
+119. Przy jakich napięciach anodowych pracują amatorskie lampowe wzmacniacze mocy ?
+a) do 200 V
+b) do 50 V
+c) od 1,5 kV do 3 kV
+

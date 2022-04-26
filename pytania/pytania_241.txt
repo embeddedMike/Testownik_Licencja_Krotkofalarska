@@ -1,0 +1,5 @@
+325. Co oznacza wg kodu Q symbol QRZ ?
+a) zmień częstotliwość na zapasową
+b) kto mnie woła
+c) jestem zajęty, proszę nie przeszkadzać
+

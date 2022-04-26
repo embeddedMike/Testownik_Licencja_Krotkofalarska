@@ -1,0 +1,6 @@
+X001
+Z jakich pierwiastków wykonywane są tranzystory i obwody scalone ?
+z absolutnie czystego krzemu i germanu
+z czystego krzemu i germanu z domieszkami boru i arsenu
+z krzemu i tlenków krzemu
+

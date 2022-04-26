@@ -1,0 +1,5 @@
+255. Maszt kratowy uziemiamy:
+a) jednym zwodem odgromowym
+b) po przekątnej dwoma zwodami
+c) czterema zwodami, po jednym na każdej nodze
+

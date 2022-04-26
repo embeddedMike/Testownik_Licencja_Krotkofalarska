@@ -1,0 +1,6 @@
+X001
+Jakim przyrządem możemy zmierzyć wartość opornika ?
+omomierzem
+woltomierzem
+amperomierzem
+

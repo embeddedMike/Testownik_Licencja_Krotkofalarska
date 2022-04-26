@@ -1,0 +1,6 @@
+X001
+Jaki ładunek ma elektron ?
+dodatni
+nie posiada ładunku
+ujemny
+

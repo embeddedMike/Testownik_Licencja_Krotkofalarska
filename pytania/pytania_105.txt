@@ -1,0 +1,5 @@
+132. Wzmacniacz posiada wzmocnienie napięciowe 10 razy. Wyraź to wzmocnienie w decybelach (dB)
+a) 10 dB
+b) 20 dB
+c) 40 dB
+

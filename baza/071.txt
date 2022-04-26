@@ -1,0 +1,6 @@
+X001
+Napięcie międzyszczytowe sinusoidalnego napięcia zmiennego wynosi 678 V. Ile wynosi wartość skuteczna tego napięcia ?
+340 V
+240 V
+680 V
+

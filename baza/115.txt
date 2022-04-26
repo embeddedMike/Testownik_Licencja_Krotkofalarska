@@ -1,0 +1,6 @@
+X001
+Przy jakim stosunku sygnału do szumu mierzymy czułość odbiornika ?
+przy 6 dB
+przy 10 dB
+przy 20 dB
+

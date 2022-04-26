@@ -1,0 +1,5 @@
+411. Jaka jest moc maksymalna wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 5 ?
+a) 50 watów dla nadajnika poniżej 30MHz a 15 watów dla nadajnika powyżej 30MHz
+b) 50 watów
+c) 150 watów
+

@@ -1,0 +1,5 @@
+273. W którym miejscu należy podłączyć filtr przeciwzakłóceniowy (dolnoprzepustowy) przy pracy ze wzmacniaczem mocy ?
+a) po końcówce mocy na fider antenowy
+b) pomiędzy transceiver a wzmacniacz mocy
+c) miejsce podłączenia jest dowolne
+

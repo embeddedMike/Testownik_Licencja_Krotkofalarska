@@ -1,0 +1,6 @@
+X001
+Siła elektromotoryczna ogniwa wynosi 1,5 V. Oporność wewnętrzna ogniwa wynosi 0,1 oma. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa ?
+1.5 V
+1 V
+1,4 V
+

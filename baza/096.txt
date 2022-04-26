@@ -1,0 +1,6 @@
+X001
+W układzie były trzy kondensatory po 30 uF połączone szeregowo . Każdy z nich ma napięcie pracy 100V. Czy możemy je zastąpić jednym kondensatorem 10 uF i o jakim napięciu pracy ?
+nie możemy
+możemy stosując kondensator na napięcie 100 V
+możemy, stosując kondensator na napięcie 300V
+

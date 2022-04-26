@@ -1,0 +1,5 @@
+393. Czy przepisy Międzynarodowego Związku Telekomunikacyjnego (ITU) i Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) wprowadzają obowiązkowy wymóg umiejętności odbioru i nadawania znaków w kodzie Morse-a przy egzaminie na świadectwo radiooperatora w służbie amatorskiej ?
+a) wprowadzają wymóg jako obowiązkowy
+b) pozostawiaj powyższy wymóg do decyzji krajowych administracji łączności
+c) znoszą całkowicie powyższy wymóg
+

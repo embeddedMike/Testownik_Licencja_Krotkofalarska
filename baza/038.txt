@@ -1,0 +1,6 @@
+X001
+Dlaczego kable koncentryczne nadawcze wykonywane są z opornością falową 50 om ?
+bo jest ona zbliżona do oporności dipola półfalowego
+bo najłatwiej takie wykonać
+bo wymagają do wykonania najmniejszej ilości materiału
+

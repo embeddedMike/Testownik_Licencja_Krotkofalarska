@@ -1,0 +1,5 @@
+324. Co oznacza wg kodu Q symbol QRT ?
+a) która jest godzina
+b) kończę nadawanie, wyłączam stację
+c) nadawaj wolniej
+

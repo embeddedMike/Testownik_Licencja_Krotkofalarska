@@ -1,0 +1,5 @@
+363. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 80 m to:
+a) 3550 kHz - 3750 kHz
+b) 3500 kHz - 3750 kHz
+c) 3500 kHz - 3800 kHz
+

@@ -1,0 +1,6 @@
+X001
+Fala elektromagnetyczna ma dwie składowe. Zaznacz która kombinacja jest poprawna:
+składowa elektryczna i składowa prędkości
+składowa elektryczna i magnetyczna
+składowa magnetyczna i składowa prędkości
+

@@ -1,0 +1,5 @@
+12. Jaki kierunek przyjmuje pole magnetyczne wokół przewodnika z prądem ?
+a) jest prostopadłe do przewodu
+b) jest do niego równoległe
+c) jest ukośne do przewodu
+

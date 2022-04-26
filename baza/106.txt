@@ -1,0 +1,6 @@
+X001
+Wzmacniacz wysokiej częstotliwości obciążony obwodem rezonansowym jest:
+wzmacniaczem selektywnym
+wzmacniaczem szerokopasmowym
+wzmacniaczem akustycznym
+

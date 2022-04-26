@@ -1,0 +1,5 @@
+310. Okręg wywoławczy SP9 to obszar:
+a) województw małopolskiego i śląskiego
+b) województw lubelskiego i podkarpackiego
+c) województwa zachodniopomorskiego
+

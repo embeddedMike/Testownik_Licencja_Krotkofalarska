@@ -1,0 +1,6 @@
+X001
+Kondensator sprzęgający obwód anodowy PA z Pi-filtrem powinien:
+posiadać dużą pojemność
+posiadać małe wymiary
+być wytrzymały na duże napięcie
+

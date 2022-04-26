@@ -1,0 +1,5 @@
+252. Podczas pracy nadajnika KF na jednej z anten, w celu zabezpieczenia się przed przypadkowym porażeniem od innych anten należy:
+a) ułożyć przewody zasilające pod stołem luźno, lecz tak, aby się nie stykały
+b) uziemić wszystkie nieużywane w danym momencie anteny, aby nie ulec porażeniu w wyniku ich przypadkowego dotknięcia
+c) nie jest konieczne stosowanie jakichkolwiek zabezpieczeń
+

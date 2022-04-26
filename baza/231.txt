@@ -1,0 +1,6 @@
+X001
+Poprawne literowanie w j. polskim litery P i N:
+Piotr, Niwa
+Przemek, Nina
+Paweł, Natalia
+

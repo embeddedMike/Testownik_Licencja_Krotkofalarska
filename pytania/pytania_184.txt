@@ -1,0 +1,5 @@
+268. Jakim przewodem podłączysz nadajnik dużej mocy do źródła zasilania ?
+a) zwykłym przewodem dwużyłowym
+b) kablem w oplocie bawełnianym
+c) przewodem o przekroju żył, odpowiednim do pobieranej przez urządzenie mocy
+

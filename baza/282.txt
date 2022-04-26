@@ -1,0 +1,6 @@
+X001
+Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 20 m to:
+14000 kHz - 14350 kHz
+14000 kHz - 14450 kHz
+14100 kHz - 14350 kHz
+

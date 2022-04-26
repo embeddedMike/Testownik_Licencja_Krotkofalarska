@@ -1,0 +1,5 @@
+99. Pole elektryczne nazywamy jednorodnym jeżeli:
+a) linie sił pola są prostopadłe
+b) linie układają się w koła
+c) linie sił są równoległe
+

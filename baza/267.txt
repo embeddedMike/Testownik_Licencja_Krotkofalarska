@@ -1,0 +1,6 @@
+X001
+Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S
+R - jakość sygnału, S- słyszalność
+R - stabilność sygnału, S- siła sygnału
+R - czytelność, S - siła sygnału
+

@@ -1,0 +1,5 @@
+414. W jakich zakresach częstotliwości może pracować operator posiadający pozwolenie kategorii 3 ?
+a) 28000-29700 kHz oraz 144-146 MHz
+b) 1,81-2 MHz; 3,5-3,8 MHz; 7-7,2 MHz; 14-14,35 MHz; 21-21,45 MHz; 28-29,7 MHz, 144-146 MHz; 430-440 MHz oraz 10-10,5 GHz.
+c) 28000-29700 kHz oraz 430-440 MHz
+

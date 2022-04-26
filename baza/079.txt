@@ -1,0 +1,6 @@
+X001
+Częstotliwość pracy nadajnika amatorskiego wynosi 3,5714 MHz. Jaka jest dokładna długość fali tego nadajnika ?
+80 m
+84 m
+81,08 m
+

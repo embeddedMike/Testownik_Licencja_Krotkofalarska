@@ -1,0 +1,5 @@
+318. Poprawne literowanie wg alfabetu ITU litery I i K:
+a) India, Kanada
+b) Italia, Kaz
+c) India, Kilo
+

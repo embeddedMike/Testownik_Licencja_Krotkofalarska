@@ -1,0 +1,6 @@
+X100
+¯arówka 12 V pobiera z baterii 0,1 A. Jak¹ opornoœæ ma ¿arówka ?
+opornoœæ 120 om
+opornoœæ 12 om
+opornoœæ 1,2 kom
+

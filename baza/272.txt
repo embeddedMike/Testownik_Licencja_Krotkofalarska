@@ -1,0 +1,6 @@
+X001
+Co oznacza w łączności telegraficznej raport 599 ?
+czytelny, silny sygnał, dobry ton
+dobrze czytelny, bardzo silny sygnał, bardzo dobry ton
+czytelny z trudnościami, sygnał słaby, dobry ton
+

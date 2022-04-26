@@ -1,0 +1,5 @@
+368. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 15 m to:
+a) 21000 kHz - 21500 kHz
+b) 21100 kHz - 21450 kHz
+c) 21000 kHz - 21450 kHz
+

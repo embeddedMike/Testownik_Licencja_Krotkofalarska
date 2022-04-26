@@ -1,0 +1,6 @@
+X001
+Modulacja telegraficzna CW polega na:
+przerywaniu fali nośnej
+zmianie jej częstotliwości
+zmianie jej amplitudy
+
