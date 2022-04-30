@@ -1,5 +1,5 @@
-X001
-Jaka jest czÄ™stotliwoÅ›Ä‡ prÄ…du zmiennego, ktÃ³rego okres wynosi 0,02 sek. ?
+X010
+Jaka jest czêstotliwoœæ pr¹du zmiennego, którego okres wynosi 0,02 sek. ?
 100 Hz
 50 Hz
 60 Hz

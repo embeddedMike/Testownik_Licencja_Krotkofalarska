@@ -1,6 +1,5 @@
-X001
-Jakim przyrzÄ…dem moÅ¼emy zmierzyÄ‡ wartoÅ›Ä‡ opornika ?
+X100
+Jakim przyrz¹dem mo¿emy zmierzyæ wartoœæ opornika ?
 omomierzem
 woltomierzem
 amperomierzem
-

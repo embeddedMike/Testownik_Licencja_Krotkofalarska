@@ -1,6 +1,5 @@
-X001
-Czy dyskryminator sygnaÅ‚u FM powinien reagowaÄ‡ na modulacjÄ™ amplitudy sygnaÅ‚u FM ?
+X100
+Czy dyskryminator sygna³u FM powinien reagowaæ na modulacjê amplitudy sygna³u FM ?
 nie
 tak
 nie ma to znaczenia
-

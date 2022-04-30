@@ -1,6 +1,5 @@
-X001
-Co to jest przyrzÄ…d uniwersalny wielozakresowy ?
-przyrzÄ…d do pomiaru tylko jednego napiÄ™cia
-przyrzÄ…d do pomiarÃ³w, napiÄ™Ä‡, prÄ…dÃ³w, opornoÅ›ci, w wielu zakresach
-przyrzÄ…d do pomiaru wielu napiÄ™Ä‡
-
+X010
+Co to jest przyrz¹d uniwersalny wielozakresowy ?
+przyrz¹d do pomiaru tylko jednego napiêcia
+przyrz¹d do pomiarów, napiêæ, pr¹dów, opornoœci, w wielu zakresach
+przyrz¹d do pomiaru wielu napiêæ

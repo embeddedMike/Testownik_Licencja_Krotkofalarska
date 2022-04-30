@@ -1,6 +1,6 @@
-X001
-KanaÅ‚ radiowy nadajnika telegraficznego CW jest:
+X010
+Kana³ radiowy nadajnika telegraficznego CW jest:
 bardzo szeroki
-bardzo wÄ…ski
-Å›redni
+bardzo w¹ski
+œredni
 

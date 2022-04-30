@@ -1,6 +1,5 @@
-X001
-Kwarce owertonowe to rezonatory kwarcowe pracujÄ…ce na:
-czÄ™stotliwoÅ›ciach harmonicznych
-na czÄ™stotliwoÅ›ciach podstawowych
-na czÄ™stotliwoÅ›ciach pasoÅ¼ytniczych
-
+X100
+Kwarce owertonowe to rezonatory kwarcowe pracuj¹ce na:
+czêstotliwoœciach harmonicznych
+na czêstotliwoœciach podstawowych
+na czêstotliwoœciach paso¿ytniczych

@@ -1,6 +1,5 @@
 X001
-Jak zmienia siÄ™ opornoÅ›Ä‡ dipola pÃ³Å‚falowego przy niskim zawieszeniu nad ziemiÄ… ?
-nie zmienia siÄ™
-roÅ›nie
+Jak zmienia siê opornoœæ dipola pó³falowego przy niskim zawieszeniu nad ziemi¹ ?
+nie zmienia siê
+roœnie
 maleje
-

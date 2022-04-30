@@ -1,6 +1,6 @@
-X001
+X100
 Lampa elektronowa pentoda posiada:
-piÄ™Ä‡ elektrod
+piêæ elektrod
 cztery elektrody
 trzy elektrody
 

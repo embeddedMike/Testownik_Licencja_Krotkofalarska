@@ -1,6 +1,5 @@
-X001
-W obwodach elektrycznych przyjmujemy, ≈ºe kierunek przep≈Çywu prƒÖdu odbywa siƒô od:
-od wy≈ºszego potencja≈Çu (+) do ni≈ºszego (-)
-w prawo zgodnie z wskaz√≥wkami zegara
-przeciwnie do wskaz√≥wek zegara
-
+X100
+W obwodach elektrycznych przyjmujemy, øe kierunek przep≥ywu prπdu odbywa siÍ od:
+od wyøszego potencja≥u (+) do niøszego (-)
+w prawo zgodnie z wskazÛwkami zegara
+przeciwnie do wskazÛwek zegara

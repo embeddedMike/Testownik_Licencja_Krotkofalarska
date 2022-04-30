@@ -1,6 +1,5 @@
-X001
-Jak zwalczamy zakÅ‚Ã³cenia rozprowadzane sieciÄ… energetycznÄ… ?
-przez stosowanie grubych przewodÃ³w
-przez stosowanie filtrÃ³w sieciowych i ekranowanie urzÄ…dzeÅ„, odpowiedniÄ… konstrukcjÄ™
-przez zasilanie bateryjne urzÄ…dzeÅ„
-
+X010
+Jak zwalczamy zak³ócenia rozprowadzane sieci¹ energetyczn¹ ?
+przez stosowanie grubych przewodów
+przez stosowanie filtrów sieciowych i ekranowanie urz¹dzeñ, odpowiedni¹ konstrukcjê
+przez zasilanie bateryjne urz¹dzeñ

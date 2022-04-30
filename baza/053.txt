@@ -1,6 +1,5 @@
 X001
-Jakim przyrzÄ…dem mierzymy dopasowanie obciÄ…Å¼enia do kabla koncentrycznego ?
-Å¼arÃ³wkÄ… wÅ‚Ä…czonÄ… w szereg na maksimum Å›wiecenia
-sprawdzeniem czy kabel siÄ™ nie grzeje
-za pomocÄ… reflektometru przelotowego
-
+Jakim przyrz¹dem mierzymy dopasowanie obci¹¿enia do kabla koncentrycznego ?
+¿arówk¹ w³¹czon¹ w szereg na maksimum œwiecenia
+sprawdzeniem czy kabel siê nie grzeje
+za pomoc¹ reflektometru przelotowego

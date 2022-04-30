@@ -1,6 +1,6 @@
-X001
-Åadunki elektryczne w przestrzeni przyciÄ…gajÄ… siÄ™, jeÅ¼eli:
-sÄ… jednoimienne
-sÄ… rÃ³Å¼noimienne
-sÄ… nieskoÅ„czenie daleko
+X100
+£adunki elektryczne w przestrzeni przyci¹gaj¹ siê, je¿eli:
+s¹ jednoimienne
+s¹ ró¿noimienne
+s¹ nieskoñczenie daleko
 

@@ -1,6 +1,6 @@
-X001
+X100
 Modulacja telegraficzna CW polega na:
-przerywaniu fali noÅ›nej
-zmianie jej czÄ™stotliwoÅ›ci
+przerywaniu fali noœnej
+zmianie jej czêstotliwoœci
 zmianie jej amplitudy
 

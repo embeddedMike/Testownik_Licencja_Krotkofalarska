@@ -1,6 +1,6 @@
-X001
+X010
 Warikap to dioda:
 dioda mikrofalowa
-dioda pojemno≈õciowa
+dioda pojemnoúciowa
 dioda stabilizacyjna
 

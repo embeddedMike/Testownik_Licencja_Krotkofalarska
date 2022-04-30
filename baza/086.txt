@@ -1,6 +1,5 @@
-X001
-Zasilacz nadajnika dostarcza do stopnia koÅ„cowego nadajnika napiÄ™cie 500 V i prÄ…d 200 mA. Jaka jest sprawnoÅ›Ä‡ energetyczna stopnia koÅ„cowego w % jeÅ¼eli na wyjÅ›ciu zmierzyliÅ›my moc PEP = 40 W ?
+X010
+Zasilacz nadajnika dostarcza do stopnia koñcowego nadajnika napiêcie 500 V i pr¹d 200 mA. Jaka jest sprawnoœæ energetyczna stopnia koñcowego w % je¿eli na wyjœciu zmierzyliœmy moc PEP = 40 W ?
 50 %
 40 %
 60 %
-

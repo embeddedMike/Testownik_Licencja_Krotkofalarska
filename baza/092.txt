@@ -1,6 +1,5 @@
-X001
-Tranzystor krzemowy ma wzmocnienie prÄ…dowe B = 100. NapiÄ™cie zasilania wynosi 5 V. Przez kolektor tego tranzystora pÅ‚ynie prÄ…d 100 mA. Jaki jest prÄ…d bazy tego tranzystora ?
+X100
+Tranzystor krzemowy ma wzmocnienie pr¹dowe B = 100. Napiêcie zasilania wynosi 5 V. Przez kolektor tego tranzystora p³ynie pr¹d 100 mA. Jaki jest pr¹d bazy tego tranzystora ?
 1 mA
 5 mA
 20 mA
-

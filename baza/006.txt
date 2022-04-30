@@ -1,6 +1,5 @@
-X001
-Å¹rÃ³dÅ‚a chemiczne prÄ…du dajÄ… prÄ…d:
-staÅ‚y
+X100
+ród³a chemiczne pr¹du daj¹ pr¹d:
+sta³y
 zmienny
-pulsujÄ…cy
-
+pulsuj¹cy

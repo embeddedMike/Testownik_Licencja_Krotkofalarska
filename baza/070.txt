@@ -1,5 +1,5 @@
 X001
-WartoÅ›Ä‡ amplitudy napiÄ™cia sinusoidalnego wynosi 200 V. Jaka jest wartoÅ›Ä‡ skuteczna napiÄ™cia ?
+Wartoœæ amplitudy napiêcia sinusoidalnego wynosi 200 V. Jaka jest wartoœæ skuteczna napiêcia ?
 200 V
 400 V
 141,8 V

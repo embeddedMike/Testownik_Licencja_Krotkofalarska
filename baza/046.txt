@@ -1,6 +1,5 @@
 X001
-Dalekie rozchodzenie siÄ™ fal UKF podczas inwersji temperaturowej w troposferze polega na:
-na wielokrotnym odbijaniu siÄ™ fal od ciepÅ‚ej ziemi
-na odbijaniu fal radiowych od ciepÅ‚ego powietrza
-prowadzeniu fal przez dukty powstaÅ‚e z warstw ciepÅ‚ego i zimnego powietrza
-
+Dalekie rozchodzenie siê fal UKF podczas inwersji temperaturowej w troposferze polega na:
+na wielokrotnym odbijaniu siê fal od ciep³ej ziemi
+na odbijaniu fal radiowych od ciep³ego powietrza
+prowadzeniu fal przez dukty powsta³e z warstw ciep³ego i zimnego powietrza

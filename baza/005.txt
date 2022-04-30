@@ -1,6 +1,5 @@
-X001
-Å»arÃ³wka ma moc 24 W i pobiera z akumulatora 2 A. Jakie jest napiÄ™cie akumulatora ?
-napiÄ™cie wynosi 24 V
-napiÄ™cie wynosi 12 V
-napiÄ™cie wynosi 48 V
-
+X010
+¯arówka ma moc 24 W i pobiera z akumulatora 2 A. Jakie jest napiêcie akumulatora ?
+napiêcie wynosi 24 V
+napiêcie wynosi 12 V
+napiêcie wynosi 48 V

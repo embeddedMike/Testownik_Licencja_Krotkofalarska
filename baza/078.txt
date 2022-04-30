@@ -1,6 +1,5 @@
-X001
-Fala elektromagnetyczna ma dwie skÅ‚adowe. Zaznacz ktÃ³ra kombinacja jest poprawna:
-skÅ‚adowa elektryczna i skÅ‚adowa prÄ™dkoÅ›ci
-skÅ‚adowa elektryczna i magnetyczna
-skÅ‚adowa magnetyczna i skÅ‚adowa prÄ™dkoÅ›ci
-
+X010
+Fala elektromagnetyczna ma dwie sk³adowe. Zaznacz która kombinacja jest poprawna:
+sk³adowa elektryczna i sk³adowa prêdkoœci
+sk³adowa elektryczna i magnetyczna
+sk³adowa magnetyczna i sk³adowa prêdkoœci

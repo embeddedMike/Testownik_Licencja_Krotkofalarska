@@ -1,6 +1,5 @@
-X001
-Mamy obwÃ³d rezonansowy o czÄ™stotliwoÅ›ci 3,5 MHz. W jego skÅ‚ad wchodzi pojemnoÅ›Ä‡ C = 400 pF. JakÄ… pojemnoÅ›Ä‡ naleÅ¼y doÅ‚Ä…czyÄ‡ zamiast C, by przestroiÄ‡ obwÃ³d na 7 MHz ?
+X010
+Mamy obwód rezonansowy o czêstotliwoœci 3,5 MHz. W jego sk³ad wchodzi pojemnoœæ C = 400 pF. Jak¹ pojemnoœæ nale¿y do³¹czyæ zamiast C, by przestroiæ obwód na 7 MHz ?
 200 pF
 100 pF
 57 pF
-

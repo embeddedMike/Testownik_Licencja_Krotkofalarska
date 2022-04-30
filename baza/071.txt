@@ -1,5 +1,5 @@
-X001
-NapiÄ™cie miÄ™dzyszczytowe sinusoidalnego napiÄ™cia zmiennego wynosi 678 V. Ile wynosi wartoÅ›Ä‡ skuteczna tego napiÄ™cia ?
+X010
+Napiêcie miêdzyszczytowe sinusoidalnego napiêcia zmiennego wynosi 678 V. Ile wynosi wartoœæ skuteczna tego napiêcia ?
 340 V
 240 V
 680 V

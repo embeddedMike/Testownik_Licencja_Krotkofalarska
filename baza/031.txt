@@ -1,6 +1,6 @@
-X001
-Do jakiego typu ukÅ‚adÃ³w scalonych naleÅ¼y scalony wzmacniacz akustyczny ?
-do ukÅ‚adÃ³w scalonych cyfrowych
-do ukÅ‚adÃ³w scalonych analogowych
-do scalonych pamiÄ™ci
+X010
+Do jakiego typu uk³adów scalonych nale¿y scalony wzmacniacz akustyczny ?
+do uk³adów scalonych cyfrowych
+do uk³adów scalonych analogowych
+do scalonych pamiêci
 

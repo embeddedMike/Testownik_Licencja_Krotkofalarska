@@ -1,6 +1,6 @@
-X001
-Jaka jest horyzontalna charakterystyka promieniowania pionowej anteny Ä‡wierÄ‡falowej ?
-dookÃ³lna
+X100
+Jaka jest horyzontalna charakterystyka promieniowania pionowej anteny æwieræfalowej ?
+dookólna
 kierunkowa
-w ksztaÅ‚cie koniczyny
+w kszta³cie koniczyny
 

@@ -1,6 +1,6 @@
-X001
-JeÅ¼eli skÅ‚adowa elektryczna fali jest prostopadÅ‚a do ziemi to fala ma polaryzacjÄ™ ?
-poziomÄ…
-pionowÄ…
-koÅ‚owÄ…
+X010
+Je¿eli sk³adowa elektryczna fali jest prostopad³a do ziemi to fala ma polaryzacjê ?
+poziom¹
+pionow¹
+ko³ow¹
 

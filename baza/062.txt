@@ -1,6 +1,5 @@
 X001
-Jaki Å‚adunek ma elektron ?
+Jaki ³adunek ma elektron ?
 dodatni
-nie posiada Å‚adunku
+nie posiada ³adunku
 ujemny
-

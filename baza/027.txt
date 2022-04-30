@@ -1,6 +1,6 @@
-X001
-Diody prostownicze zasilajÄ…ce sÄ… stosowane do:
-prostowania prÄ…dÃ³w wysokiej czÄ™stotliwoÅ›ci
-do prostowania prÄ…du w zasilaczach
-do stabilizacji napiÄ™Ä‡
+X010
+Diody prostownicze zasilaj¹ce s¹ stosowane do:
+prostowania pr¹dów wysokiej czêstotliwoœci
+do prostowania pr¹du w zasilaczach
+do stabilizacji napiêæ
 

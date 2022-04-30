@@ -1,5 +1,5 @@
-X001
-Mamy opornik 100 om doÅ‚Ä…czony do napiÄ™cia 3 V. Z jakiej grupy mocy wybierzemy opornik ?
+X010
+Mamy opornik 100 om do³¹czony do napiêcia 3 V. Z jakiej grupy mocy wybierzemy opornik ?
 grupa 1 W
 grupa 0,125 W
 grupa 0,5 W

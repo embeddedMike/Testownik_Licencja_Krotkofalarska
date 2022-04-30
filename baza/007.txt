@@ -1,6 +1,5 @@
-X001
-Akumulator ma pojemnoÅ›Ä‡ 20 Ah. Jak dÅ‚ugo bÄ™dzie Å›wieciÄ‡ z niego Å¼arÃ³wka pobierajÄ…ca 4 A ?
+X100
+Akumulator ma pojemnoœæ 20 Ah. Jak d³ugo bêdzie œwieciæ z niego ¿arówka pobieraj¹ca 4 A ?
 5 godzin
 4 godziny
 80 godzin
-

@@ -1,6 +1,5 @@
-X001
-ObwÃ³d rezonansowy rÃ³wnolegÅ‚y LC, w punkcie rezonansu przedstawia opornoÅ›Ä‡:
-rzeczywistÄ… omowÄ…
-reaktancjÄ™ pojemnoÅ›ciowÄ…
-reaktancjÄ™ indukcyjnÄ…
-
+X100
+Obwód rezonansowy równoleg³y LC, w punkcie rezonansu przedstawia opornoœæ:
+rzeczywist¹ omow¹
+reaktancjê pojemnoœciow¹
+reaktancjê indukcyjn¹

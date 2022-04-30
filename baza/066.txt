@@ -1,5 +1,5 @@
-X001
-Opornik ma 200 om. PÅ‚ynie przez niego prÄ…d 300 mA. Jaka jest moc tracona w oporze ?
+X100
+Opornik ma 200 om. P³ynie przez niego pr¹d 300 mA. Jaka jest moc tracona w oporze ?
 18 W
 1800 W
 1,8 W

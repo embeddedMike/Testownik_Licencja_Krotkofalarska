@@ -1,6 +1,5 @@
-X001
-Jaka instytucja zajmuje siÄ™ lokalizowaniem zakÅ‚Ã³ceÅ„ radiowych i radioelektrycznych oraz badaniem sprzÄ™tu radionadawczego ?
-UrzÄ…d Komunikacji Elektronicznej
-Ministerstwo Ochrony Åšrodowiska
+X100
+Jaka instytucja zajmuje siê lokalizowaniem zak³óceñ radiowych i radioelektrycznych oraz badaniem sprzêtu radionadawczego ?
+Urz¹d Komunikacji Elektronicznej
+Ministerstwo Ochrony Œrodowiska
 Sztaby antykryzysowe
-

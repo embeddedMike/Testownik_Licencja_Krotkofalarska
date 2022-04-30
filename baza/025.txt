@@ -1,6 +1,6 @@
-X001
-SÄ… dwie cewki powietrzne. Przy tej samej Å›rednicy i iloÅ›ci zwojÃ³w, L1 jest nawiniÄ™ta drutem dwa razy grubszym niÅ¼ L2. KtÃ³ra z nich ma wiÄ™kszÄ… dobroÄ‡ Q ?
+X010
+S¹ dwie cewki powietrzne. Przy tej samej œrednicy i iloœci zwojów, L1 jest nawiniêta drutem dwa razy grubszym ni¿ L2. Która z nich ma wiêksz¹ dobroæ Q ?
 cewka L2
 cewka L1
-obie majÄ… takÄ… samÄ… dobroÄ‡, bo majÄ… tÄ… samÄ… Å›rednicÄ™
+obie maj¹ tak¹ sam¹ dobroæ, bo maj¹ t¹ sam¹ œrednicê
 

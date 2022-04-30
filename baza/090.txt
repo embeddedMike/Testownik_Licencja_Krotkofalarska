@@ -1,6 +1,5 @@
 X001
-W obwodzie prÄ…du zmiennego przy tej samej czÄ™stotliwoÅ›ci zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyÅ‚a siÄ™ zawada Xc ?
+W obwodzie pr¹du zmiennego przy tej samej czêstotliwoœci zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszy³a siê zawada Xc ?
 2 razy
 100 razy
 10 razy
-

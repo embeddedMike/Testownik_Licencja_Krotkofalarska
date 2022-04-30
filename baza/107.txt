@@ -1,6 +1,5 @@
-X001
-Czy w wzmacniaczu mocy pracujÄ…cym idealnie liniowo, powstajÄ… harmoniczne ?
+X010
+Czy w wzmacniaczu mocy pracuj¹cym idealnie liniowo, powstaj¹ harmoniczne ?
 tak
 nie
-tak ale maÅ‚e
-
+tak ale ma³e

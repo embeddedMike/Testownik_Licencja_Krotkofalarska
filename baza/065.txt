@@ -1,6 +1,5 @@
 X001
-Akumulator ma napiÄ™cie 6.5 V. Do akumulatora chcemy podÅ‚Ä…czyÄ‡ Å¼arÃ³wkÄ™ 3,5 V 0,3 A. Jaki opornik naleÅ¼y wÅ‚Ä…czyÄ‡ w szereg by ograniczyÄ‡ prÄ…d ?
+Akumulator ma napiêcie 6.5 V. Do akumulatora chcemy pod³¹czyæ ¿arówkê 3,5 V 0,3 A. Jaki opornik nale¿y w³¹czyæ w szereg by ograniczyæ pr¹d ?
 opornik 3.5 om
 opornik 100 om
 opornik 10 om
-

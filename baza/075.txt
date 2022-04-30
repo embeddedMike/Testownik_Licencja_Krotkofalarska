@@ -1,6 +1,5 @@
-X001
-Do jakich materiaÅ‚Ã³w magnetycznych naleÅ¼Ä… magnesy staÅ‚e ?
-materiaÅ‚Ã³w paramagnetycznych
-materiaÅ‚Ã³w magnetycznie twardych
-magnetycznie miÄ™kkich
-
+X010
+Do jakich materia³ów magnetycznych nale¿¹ magnesy sta³e ?
+materia³ów paramagnetycznych
+materia³ów magnetycznie twardych
+magnetycznie miêkkich

@@ -1,6 +1,5 @@
-X001
-Jak zmierzyÄ‡ moc prÄ…du staÅ‚ego ?
-zmierzyÄ‡ prÄ…d i napiÄ™cie w obwodzie i obliczyÄ‡
-zmierzyÄ‡ opornoÅ›Ä‡ obwodu i obliczyÄ‡
-zmierzyÄ‡ prÄ…d i obliczyÄ‡
-
+X100
+Jak zmierzyæ moc pr¹du sta³ego ?
+zmierzyæ pr¹d i napiêcie w obwodzie i obliczyæ
+zmierzyæ opornoœæ obwodu i obliczyæ
+zmierzyæ pr¹d i obliczyæ

@@ -1,6 +1,5 @@
 X001
-Przy jakich napiÄ™ciach anodowych pracujÄ… amatorskie lampowe wzmacniacze mocy ?
+Przy jakich napiêciach anodowych pracuj¹ amatorskie lampowe wzmacniacze mocy ?
 do 200 V
 do 50 V
 od 1,5 kV do 3 kV
-

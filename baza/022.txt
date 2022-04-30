@@ -1,5 +1,5 @@
-X001
-KtÃ³ra z podanych mocy PEP odpowiada napiciu maksymalnemu U max = 100 V, zmierzonemu oscyloskopem na wyjÅ›ciu nadajnika, na obciÄ…Å¼eniu 50 om ?
+X010
+Która z podanych mocy PEP odpowiada napieciu maksymalnemu U max = 100 V, zmierzonemu oscyloskopem na wyjœciu nadajnika, na obci¹¿eniu 50 om ?
 200 W
 100 W
 50 W

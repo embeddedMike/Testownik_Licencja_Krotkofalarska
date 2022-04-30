@@ -1,5 +1,5 @@
 X001
-Ile opornikÃ³w o wartoÅ›ci 200 om naleÅ¼y poÅ‚Ä…czyÄ‡ rÃ³wnolegle by uzyska sztuczne obciÄ…Å¼enie antenowe 50 om ?
+Ile oporników o wartoœci 200 om nale¿y po³¹czyæ równolegle by uzyska sztuczne obci¹¿enie antenowe 50 om ?
 5 szt.
 2 szt.
 4 szt.

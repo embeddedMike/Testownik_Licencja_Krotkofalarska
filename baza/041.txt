@@ -1,6 +1,6 @@
-X001
-Reflektometr wskazuje, Å¼e fala padajÄ…ca jest rÃ³wna fali odbitej. WFS rÃ³wny jest nieskoÅ„czonoÅ›ci. Co moÅ¼e byÄ‡ przyczynÄ… takiego stanu ?
+X100
+Reflektometr wskazuje, ¿e fala padaj¹ca jest równa fali odbitej. WFS równy jest nieskoñczonoœci. Co mo¿e byæ przyczyn¹ takiego stanu ?
 zwarcie lub przerwa w kablu
-niewielka zmiana opornoÅ›ci falowej anteny
+niewielka zmiana opornoœci falowej anteny
 zamoczenie izolacji w kablu
 

@@ -1,6 +1,6 @@
-X001
-Po≈ÇƒÖczenie niesymetrycznego kabla koncentrycznego 50 om do symetrycznej anteny o oporno≈õci falowej 50 om wymaga zastosowania:
+X010
+Po≥πczenie niesymetrycznego kabla koncentrycznego 50 om do symetrycznej anteny o opornoúci falowej 50 om wymaga zastosowania:
 transformatora impedancji 1 do 4
 symetryzatora 1 do 1
-baluna o przek≈Çadni 1 do 2
+baluna o przek≥adni 1 do 2
 

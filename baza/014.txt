@@ -1,5 +1,5 @@
-X001
-DÅ‚ugoÅ›Ä‡ fali wynosi 1500 metrÃ³w. Jaka jest czÄ™stotliwoÅ›Ä‡ tej fali ?
+X010
+D³ugoœæ fali wynosi 1500 metrów. Jaka jest czêstotliwoœæ tej fali ?
 2 MHz
 200 kHz
 233 kHz

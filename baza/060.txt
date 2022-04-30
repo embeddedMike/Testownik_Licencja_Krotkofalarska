@@ -1,6 +1,5 @@
-X001
-PrÄ…d elektryczny w przewodzie metalowym pÅ‚ynie dziÄ™ki obecnoÅ›ci w nim:
-swobodnych jonÃ³w
-wolnych elektronÃ³w
-wolnych atomÃ³w
-
+X010
+Pr¹d elektryczny w przewodzie metalowym p³ynie dziêki obecnoœci w nim:
+swobodnych jonów
+wolnych elektronów
+wolnych atomów

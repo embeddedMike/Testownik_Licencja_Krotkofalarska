@@ -1,6 +1,6 @@
-X001
-Jaki kierunek przyjmuje pole magnetyczne wokół przewodnika z prądem ?
-jest prostopadłe do przewodu
-jest do niego równoległe
-jest ukośne do przewodu
+X100
+Jaki kierunek przyjmuje pole magnetyczne wok� przewodnika z pr�dem ?
+jest prostopad�e do przewodu
+jest do niego r�wnoleg�e
+jest uko�ne do przewodu
 

@@ -1,6 +1,5 @@
 X001
-Je≈ºeli nadajnik amatorski powoduje zak≈Ç√≥cenia, to jakie elementy sprawdzamy w pierwszej kolejno≈õci ?
+Jeøeli nadajnik amatorski powoduje zak≥Ûcenia, to jakie elementy sprawdzamy w pierwszej kolejnoúci ?
 zawieszenie anteny
 odbiornik
-liniowo≈õƒá stopnia mocy (PA) i filtr wyj≈õciowy
-
+liniowoúÊ stopnia mocy (PA) i filtr wyjúciowy

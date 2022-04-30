@@ -1,5 +1,5 @@
-X001
-Przy modulacji czÄ™stotliwoÅ›ci FM szerokoÅ›Ä‡ kanaÅ‚u radiowego dla nadajnikÃ³w amatorskich UKF wynosi:
+X100
+Przy modulacji czêstotliwoœci FM szerokoœæ kana³u radiowego dla nadajników amatorskich UKF wynosi:
 12,5 kHz
 50 kHz
 200 kHz

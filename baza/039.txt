@@ -1,6 +1,6 @@
 X001
-W jakim przypadku powstaje w linii przesyÅ‚owej w.cz. fala stojÄ…ca ?
-kiedy kabel nie jest uÅ‚oÅ¼ony prosto
+W jakim przypadku powstaje w linii przesy³owej w.cz. fala stoj¹ca ?
+kiedy kabel nie jest u³o¿ony prosto
 kiedy obok kabla koncentrycznego przechodzi inny kabel
-kiedy opornoÅ›Ä‡ obciÄ…Å¼enia nie jest zgodna z opornoÅ›ciÄ… falowÄ… kabla
+kiedy opornoœæ obci¹¿enia nie jest zgodna z opornoœci¹ falow¹ kabla
 

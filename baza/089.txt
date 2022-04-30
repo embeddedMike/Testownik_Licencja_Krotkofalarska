@@ -1,6 +1,5 @@
-X001
-Kondensator mikowy ma pojemnoÅ›Ä‡ 6800 pF, i napiÄ™cie pracy 500V. Czy moÅ¼na go zastosowaÄ‡ w miejsce kondensatora 6,8 nF o napiÄ™ciu pracy 250 V ?
-tak moÅ¼na
-nie moÅ¼na
-moÅ¼na, ale potrzebne sÄ… dwa takie kondensatory
-
+X100
+Kondensator mikowy ma pojemnoœæ 6800 pF, i napiêcie pracy 500V. Czy mo¿na go zastosowaæ w miejsce kondensatora 6,8 nF o napiêciu pracy 250 V ?
+tak mo¿na
+nie mo¿na
+mo¿na, ale potrzebne s¹ dwa takie kondensatory

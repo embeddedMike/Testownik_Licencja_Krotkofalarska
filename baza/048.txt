@@ -1,6 +1,5 @@
-X001
-Jak nazywa siÄ™ przyrzÄ…d do pomiaru napiÄ™cia ?
+X010
+Jak nazywa siê przyrz¹d do pomiaru napiêcia ?
 omomierz
 woltomierz
 amperomierz
-

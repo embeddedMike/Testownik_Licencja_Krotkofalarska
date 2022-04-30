@@ -1,6 +1,5 @@
-X001
-Pole elektryczne moÅ¼e byÄ‡ ekranowane za pomocÄ…:
-ekranÃ³w z blach metalowych
-ekranÃ³w z izolatorÃ³w
-ekranÃ³w z luster
-
+X100
+Pole elektryczne mo¿e byæ ekranowane za pomoc¹:
+ekranów z blach metalowych
+ekranów z izolatorów
+ekranów z luster

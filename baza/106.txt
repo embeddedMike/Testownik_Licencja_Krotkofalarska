@@ -1,6 +1,5 @@
-X001
-Wzmacniacz wysokiej czÄ™stotliwoÅ›ci obciÄ…Å¼ony obwodem rezonansowym jest:
+X100
+Wzmacniacz wysokiej czêstotliwoœci obci¹¿ony obwodem rezonansowym jest:
 wzmacniaczem selektywnym
 wzmacniaczem szerokopasmowym
 wzmacniaczem akustycznym
-

@@ -1,6 +1,5 @@
-X001
-Co to jest zasiÄ™g horyzontalny na UKF ?
-zasiÄ™g wyznaczony liniÄ… horyzontu przy prostoliniowym rozchodzeniu siÄ™ fal
-zasiÄ™g obliczony z mocy promieniowanej e.i.r.p.
-zasiÄ™g teoretyczny nadajnika
-
+X100
+Co to jest zasiêg horyzontalny na UKF ?
+zasiêg wyznaczony lini¹ horyzontu przy prostoliniowym rozchodzeniu siê fal
+zasiêg obliczony z mocy promieniowanej e.i.r.p.
+zasiêg teoretyczny nadajnika
