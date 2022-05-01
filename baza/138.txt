@@ -1,6 +1,5 @@
-X001
-Czy zwarcie drutem biegunÃ³w ÅºrÃ³dÅ‚a prÄ…du (bateria, akumulator) moÅ¼e byÄ‡ niebezpieczne ?
-nie ma Å¼adnego zagroÅ¼enia
-tak, moÅ¼e spowodowaÄ‡ poÅ¼ar
-tak, moÅ¼e spowodowaÄ‡ stopienie siÄ™ drutu i poparzenie roztopionym metalem
-
+X010
+Czy zwarcie drutem biegunów Ÿród³a pr¹du (bateria, akumulator) mo¿e byæ niebezpieczne ?
+nie ma ¿adnego zagro¿enia
+tak, mo¿e spowodowaæ po¿ar
+tak, mo¿e spowodowaæ stopienie siê drutu i poparzenie roztopionym metalem

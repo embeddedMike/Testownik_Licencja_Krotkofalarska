@@ -1,6 +1,5 @@
 X001
-Czy osoba posiadajƒÖca rozrusznik serca mo≈ºe przebywaƒá w pobli≈ºu anten nadawczych du≈ºej mocy ?
-mo≈ºe, nie ma ≈ºadnego zagro≈ºenia
-mo≈ºe, pod pewnymi warunkami
+Czy osoba posiadajπca rozrusznik serca moøe przebywaÊ w pobliøu anten nadawczych duøej mocy ?
+moøe, nie ma øadnego zagroøenia
+moøe, pod pewnymi warunkami
 kategorycznie nie powinna
-

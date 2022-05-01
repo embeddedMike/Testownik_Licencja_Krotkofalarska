@@ -1,6 +1,5 @@
-X001
+X010
 Co oznacza wg kodu Q symbol QRT ?
-ktÃ³ra jest godzina
-koÅ„czÄ™ nadawanie, wyÅ‚Ä…czam stacjÄ™
+która jest godzina
+koñczê nadawanie, wy³¹czam stacjê
 nadawaj wolniej
-

@@ -1,6 +1,5 @@
-X001
-Jakim przyrzÄ…dem moÅ¼emy sprawdziÄ‡ ksztaÅ‚t napiÄ™cia zmiennego w.cz. i wykryÄ‡ znieksztaÅ‚cenia sygnaÅ‚u ?
+X100
+Jakim przyrz¹dem mo¿emy sprawdziæ kszta³t napiêcia zmiennego w.cz. i wykryæ zniekszta³cenia sygna³u ?
 oscyloskopem
-miernikiem napiÄ™cia
-sÅ‚uchajÄ…c odbiornikiem
-
+miernikiem napiêcia
+s³uchaj¹c odbiornikiem

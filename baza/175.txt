@@ -1,6 +1,5 @@
 X001
-Czy podczas pracy z wiertarkÄ… wymagane jest stosowanie rÄ™kawic ochronnych ?
-tak, obowiÄ…zkowo
-moÅ¼na stosowaÄ‡ wedÅ‚ug uznania
+Czy podczas pracy z wiertark¹ wymagane jest stosowanie rêkawic ochronnych ?
+tak, obowi¹zkowo
+mo¿na stosowaæ wed³ug uznania
 jest zabronione
-

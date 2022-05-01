@@ -1,6 +1,5 @@
-X001
-OkrÄ™g wywoÅ‚awczy SP2 to obszar:
-wojewÃ³dztwa zachodniopomorskiego
-wojewÃ³dztw kujawsko-pomorskiego i pomorskiego
-wojewÃ³dztwa mazowieckiego
-
+X010
+Okrêg wywo³awczy SP2 to obszar:
+województwa zachodniopomorskiego
+województw kujawsko-pomorskiego i pomorskiego
+województwa mazowieckiego

@@ -1,6 +1,5 @@
-X001
-OkrÄ™g wywoÅ‚awczy SP9 to obszar:
-wojewÃ³dztw maÅ‚opolskiego i Å›lÄ…skiego
-wojewÃ³dztw lubelskiego i podkarpackiego
-wojewÃ³dztwa zachodniopomorskiego
-
+X100
+Okrêg wywo³awczy SP9 to obszar:
+województw ma³opolskiego i œl¹skiego
+województw lubelskiego i podkarpackiego
+województwa zachodniopomorskiego

@@ -1,6 +1,5 @@
-X001
-Podczas pracy z monitorem komputerowym minimalne zalecane przerwy wynoszÄ…:
+X010
+Podczas pracy z monitorem komputerowym minimalne zalecane przerwy wynosz¹:
 co dwie godziny po 20 minut
-co godzinÄ™ piÄ™Ä‡ minut
-co trzy godziny po dziesiÄ™Ä‡ minut
-
+co godzinê piêæ minut
+co trzy godziny po dziesiêæ minut

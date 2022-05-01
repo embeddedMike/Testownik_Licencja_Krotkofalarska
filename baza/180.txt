@@ -1,6 +1,5 @@
 X001
-Czy moÅ¼na uÅ¼ywaÄ‡ koÅ‚kÃ³w rozporowych do montaÅ¼u anteny na kominie ?
-moÅ¼na
-moÅ¼na, po speÅ‚nieniu dodatkowych warunkÃ³w
-nie wolno ? moÅ¼na stosowaÄ‡ jedynie opaski wokÃ³Å‚ komina
-
+Czy mo¿na u¿ywaæ ko³ków rozporowych do monta¿u anteny na kominie ?
+mo¿na
+mo¿na, po spe³nieniu dodatkowych warunków
+nie wolno ? mo¿na stosowaæ jedynie opaski wokó³ komina

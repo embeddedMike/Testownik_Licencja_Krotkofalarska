@@ -1,6 +1,5 @@
-X001
-OkrÄ™g wywoÅ‚awczy SP8 to obszar:
-wojewÃ³dztw dolnoÅ›lÄ…skiego i opolskiego
-wojewÃ³dztw lubelskiego i podkarpackiego
-wojewÃ³dztwa zachodniopomorskiego
-
+X010
+Okrêg wywo³awczy SP8 to obszar:
+województw dolnoœl¹skiego i opolskiego
+województw lubelskiego i podkarpackiego
+województwa zachodniopomorskiego

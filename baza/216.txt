@@ -1,6 +1,5 @@
-X001
-Czy prowadzenie dziennika Å‚Ä…cznoÅ›ci LOG jest obowiÄ…zkowe ?
-jest to podstawowy obowiÄ…zek kaÅ¼dego radioamatora
-prowadzenie Logu nie jest obowiÄ…zkowe, lecz wskazane
-prowadzenie dziennika Å‚Ä…cznoÅ›ci moÅ¼e byÄ‡ nakazane jako zalecenie pokontrolne inspektorÃ³w ochrony Å›rodowiska
-
+X010
+Czy prowadzenie dziennika ³¹cznoœci LOG jest obowi¹zkowe ?
+jest to podstawowy obowi¹zek ka¿dego radioamatora
+prowadzenie Logu nie jest obowi¹zkowe, lecz wskazane
+prowadzenie dziennika ³¹cznoœci mo¿e byæ nakazane jako zalecenie pokontrolne inspektorów ochrony œrodowiska

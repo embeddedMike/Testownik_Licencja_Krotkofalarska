@@ -1,6 +1,5 @@
 X001
-NarzÄ™dzia do prac elektrycznych powinny:
-charakteryzowaÄ‡ siÄ™ estetykÄ… wykonania
-posiadaÄ‡ homologacjÄ™ Ministerstwa ÅÄ…cznoÅ›ci
-posiadaÄ‡ izolowane uchwyty z nadrukowanÄ… informacjÄ… o dopuszczalnym napiÄ™ciu pracy np. 500 V
-
+Narzêdzia do prac elektrycznych powinny:
+charakteryzowaæ siê estetyk¹ wykonania
+posiadaæ homologacjê Ministerstwa £¹cznoœci
+posiadaæ izolowane uchwyty z nadrukowan¹ informacj¹ o dopuszczalnym napiêciu pracy np. 500 V

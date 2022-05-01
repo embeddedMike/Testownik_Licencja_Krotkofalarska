@@ -1,6 +1,5 @@
-X001
-Jakie d≈Çugo≈õci fal zaliczamy do zakresu fal kr√≥tkich ?
+X100
+Jakie d≥ugoúci fal zaliczamy do zakresu fal krÛtkich ?
 od 100 m do 10 m
 od 80 m do 13 m
 od 160 m do 10 m
-

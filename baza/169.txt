@@ -1,6 +1,5 @@
-X001
-Przy podÅ‚Ä…czeniu zasilacza stacji przekrÃ³j sieci i wartoÅ›Ä‡ zabezpieczeÅ„ powinny byÄ‡ dobrany tak, aby zapewniÄ‡ dostarczenie mocy:
-wyÅ¼szej niÅ¼ moc okreÅ›lona w tabliczce znamionowej urzÄ…dzenia
-rÃ³wnej mocy okreÅ›lonej w tabliczce znamionowej urzÄ…dzenia
-niÅ¼szej niÅ¼ moc okreÅ›lona w tabliczce znamionowej urzÄ…dzenia
-
+X100
+Przy pod³¹czeniu zasilacza stacji przekrój sieci i wartoœæ zabezpieczeñ powinny byæ dobrany tak, aby zapewniæ dostarczenie mocy:
+wy¿szej ni¿ moc okreœlona w tabliczce znamionowej urz¹dzenia
+równej mocy okreœlonej w tabliczce znamionowej urz¹dzenia
+ni¿szej ni¿ moc okreœlona w tabliczce znamionowej urz¹dzenia

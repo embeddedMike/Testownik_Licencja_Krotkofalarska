@@ -1,6 +1,5 @@
-X001
-OkrÄ™g wywoÅ‚awczy SP5 to obszar:
-wojewÃ³dztwa mazowieckiego
-wojewÃ³dztw kujawsko-pomorskiego i pomorskiego
-wojewÃ³dztwa zachodnio-pomorskiego
-
+X100
+Okrêg wywo³awczy SP5 to obszar:
+województwa mazowieckiego
+województw kujawsko-pomorskiego i pomorskiego
+województwa zachodnio-pomorskiego

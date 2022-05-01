@@ -1,6 +1,5 @@
 X001
-Co to jest znak wywoÅ‚awczy ?
-jest to symbol okreÅ›lajÄ…cy typ (model) radiostacji amatorskiej
-jest to hasÅ‚o pozwalajÄ…ce wywoÅ‚aÄ‡ konkretnego rozmÃ³wcÄ™
-jest to kombinacja liter i cyfr stanowiÄ…ca unikalny w skali Å›wiatowej identyfikator radiostacji amatorskiej
-
+Co to jest znak wywo³awczy ?
+jest to symbol okreœlaj¹cy typ (model) radiostacji amatorskiej
+jest to has³o pozwalaj¹ce wywo³aæ konkretnego rozmówcê
+jest to kombinacja liter i cyfr stanowi¹ca unikalny w skali œwiatowej identyfikator radiostacji amatorskiej

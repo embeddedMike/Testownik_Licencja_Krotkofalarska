@@ -1,6 +1,5 @@
-X001
-Jaki zapas mocy powinien mieÄ‡ zasilacz urzÄ…dzeÅ„ AM i FM przewidziany do ciÄ…gÅ‚ej bezawaryjnej pracy ?
-20% wiÄ™cej
-50% wiÄ™cej
-10 % wiÄ™cej powyÅ¼ej mocy maksymalnej
-
+X010
+Jaki zapas mocy powinien mieæ zasilacz urz¹dzeñ AM i FM przewidziany do ci¹g³ej bezawaryjnej pracy ?
+20% wiêcej
+50% wiêcej
+10 % wiêcej powy¿ej mocy maksymalnej

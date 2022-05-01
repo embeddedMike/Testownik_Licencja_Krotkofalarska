@@ -1,6 +1,5 @@
 X001
-OkrÄ™g wywoÅ‚awczy SP4 to obszar:
-wojewÃ³dztwa mazowieckiego
-wojewÃ³dztw lubuskiego i wielkopolskiego
-wojewÃ³dztw podlaskiego i warmiÅ„sko-mazurskiego
-
+Okrêg wywo³awczy SP4 to obszar:
+województwa mazowieckiego
+województw lubuskiego i wielkopolskiego
+województw podlaskiego i warmiñsko-mazurskiego

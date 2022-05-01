@@ -1,6 +1,5 @@
-X001
-Podczas pracy nadajnika KF na jednej z anten, w celu zabezpieczenia siÄ™ przed przypadkowym poraÅ¼eniem od innych anten naleÅ¼y:
-uÅ‚oÅ¼yÄ‡ przewody zasilajÄ…ce pod stoÅ‚em luÅºno, lecz tak, aby siÄ™ nie stykaÅ‚y
-uziemiÄ‡ wszystkie nieuÅ¼ywane w danym momencie anteny, aby nie ulec poraÅ¼eniu w wyniku ich przypadkowego dotkniÄ™cia
-nie jest konieczne stosowanie jakichkolwiek zabezpieczeÅ„
-
+X010
+Podczas pracy nadajnika KF na jednej z anten, w celu zabezpieczenia siê przed przypadkowym pora¿eniem od innych anten nale¿y:
+u³o¿yæ przewody zasilaj¹ce pod sto³em luŸno, lecz tak, aby siê nie styka³y
+uziemiæ wszystkie nieu¿ywane w danym momencie anteny, aby nie ulec pora¿eniu w wyniku ich przypadkowego dotkniêcia
+nie jest konieczne stosowanie jakichkolwiek zabezpieczeñ

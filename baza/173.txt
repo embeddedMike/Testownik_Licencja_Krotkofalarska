@@ -1,6 +1,5 @@
-X001
-Jakie oznaczenia ochronne naleÅ¼y umieÅ›ciÄ‡ na maszcie anteny nadawczej ?
+X100
+Jakie oznaczenia ochronne nale¿y umieœciæ na maszcie anteny nadawczej ?
 promieniowanie elektromagnetyczne
 uwaga antena nadawcza
 zakaz dotykania masztu
-

@@ -1,6 +1,5 @@
 X001
-PrzygotowujÄ…c siÄ™ do wykonania prac pod napiÄ™ciem, oprÃ³cz przygotowania odpowiednich przyrzÄ…dÃ³w naleÅ¼y:
-sprawdziÄ‡ czy zastosowano prawidÅ‚owe bezpieczniki w mierzonych obwodach
-przygotowaÄ‡ schemat elektryczny urzÄ…dzenia i zapoznaÄ‡ siÄ™ z nim
-jak w punkcie A i B oraz zapewniÄ‡ sobie obecnoÅ›Ä‡ i ewentualnÄ… pomoc drugiej osoby
-
+Przygotowuj¹c siê do wykonania prac pod napiêciem, oprócz przygotowania odpowiednich przyrz¹dów nale¿y:
+sprawdziæ czy zastosowano prawid³owe bezpieczniki w mierzonych obwodach
+przygotowaæ schemat elektryczny urz¹dzenia i zapoznaæ siê z nim
+jak w punkcie A i B oraz zapewniæ sobie obecnoœæ i ewentualn¹ pomoc drugiej osoby

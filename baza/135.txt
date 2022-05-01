@@ -1,6 +1,5 @@
-X001
-SpeÅ‚nienie jakich warunkÃ³w konstrukcyjnych ogranicza przedostawanie siÄ™ energii w.cz. niepoÅ¼Ä…danymi drogami ?
-dobre uziemienie i szczelnoÅ›Ä‡ ekranowania
+X100
+Spe³nienie jakich warunków konstrukcyjnych ogranicza przedostawanie siê energii w.cz. niepo¿¹danymi drogami ?
+dobre uziemienie i szczelnoœæ ekranowania
 filtrowany zasilacz
-odpowiedni przekrÃ³j kabla sieciowego
-
+odpowiedni przekrój kabla sieciowego

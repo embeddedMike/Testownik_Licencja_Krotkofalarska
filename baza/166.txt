@@ -1,6 +1,5 @@
-X001
-MierzÄ…c miernikiem napiÄ™cie o niemoÅ¼liwej do oszacowania wartoÅ›ci naleÅ¼y:
-ustawiÄ‡ miernik na najwyÅ¼szy zakres pomiarowy i stopniowo zmniejszaÄ‡ zakres
-ustawiÄ‡ miernik na najniÅ¼szy zakres pomiarowy i stopniowo zwiÄ™kszaÄ‡ zakres
-rozpoczÄ…Ä‡ pomiary od Å›rodkowego zakresu miernika
-
+X100
+Mierz¹c miernikiem napiêcie o niemo¿liwej do oszacowania wartoœci nale¿y:
+ustawiæ miernik na najwy¿szy zakres pomiarowy i stopniowo zmniejszaæ zakres
+ustawiæ miernik na najni¿szy zakres pomiarowy i stopniowo zwiêkszaæ zakres
+rozpocz¹æ pomiary od œrodkowego zakresu miernika

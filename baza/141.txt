@@ -1,6 +1,5 @@
-X001
-Czy promieniowanie elektromagnetyczne w.cz. mo≈ºe mieƒá wp≈Çyw na zdrowie cz≈Çowieka ?
+X010
+Czy promieniowanie elektromagnetyczne w.cz. moøe mieÊ wp≥yw na zdrowie cz≥owieka ?
 nie
 tak
-nie, je≈õli u≈ºywamy specjalnego ubrania ochronnego
-
+nie, jeúli uøywamy specjalnego ubrania ochronnego

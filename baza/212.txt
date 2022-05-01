@@ -1,6 +1,5 @@
-X001
-Czy moÅ¼na radioamatorski znak wywoÅ‚awczy uÅ¼ywaÄ‡ podczas pracy w zakresach czÄ™stotliwoÅ›ci nieprzeznaczonych dla sÅ‚uÅ¼by amatorskiej ?
-moÅ¼na, po uzyskaniu specjalnej zgody UKE
-absolutnie nie, znak radioamatorski moÅ¼na uÅ¼ywaÄ‡ tylko w zakresach czÄ™stotliwoÅ›ci przeznaczonych dla radioamatorÃ³w
-nie jest to zabronione i zaleÅ¼y od decyzji radioamatora
-
+X010
+Czy mo¿na radioamatorski znak wywo³awczy u¿ywaæ podczas pracy w zakresach czêstotliwoœci nieprzeznaczonych dla s³u¿by amatorskiej ?
+mo¿na, po uzyskaniu specjalnej zgody UKE
+absolutnie nie, znak radioamatorski mo¿na u¿ywaæ tylko w zakresach czêstotliwoœci przeznaczonych dla radioamatorów
+nie jest to zabronione i zale¿y od decyzji radioamatora

@@ -1,6 +1,5 @@
-X001
-Czy radiostacjÄ™ i urzÄ…dzenia pomocnicze moÅ¼na podÅ‚Ä…czaÄ‡ do gniazd zasilanych z dwÃ³ch rÃ³Å¼nych faz ?
-moÅ¼na, nie ma Å¼adnych przeciwwskazaÅ„
-kategorycznie nie moÅ¼na, grozi to zniszczeniem sprzÄ™tu i poraÅ¼eniem operatora
-moÅ¼na, jeÅ¼eli jednoczeÅ›nie nie uÅ¼ywa siÄ™ wszystkich urzÄ…dzeÅ„
-
+X010
+Czy radiostacjê i urz¹dzenia pomocnicze mo¿na pod³¹czaæ do gniazd zasilanych z dwóch ró¿nych faz ?
+mo¿na, nie ma ¿adnych przeciwwskazañ
+kategorycznie nie mo¿na, grozi to zniszczeniem sprzêtu i pora¿eniem operatora
+mo¿na, je¿eli jednoczeœnie nie u¿ywa siê wszystkich urz¹dzeñ

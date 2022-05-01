@@ -1,6 +1,5 @@
-X001
-Jakie niebezpieczeÅ„stwo grozi, gdy trzymamy w rÄ™kach naÅ‚adowany kondensator elektrolityczny ?
-poraÅ¼enie prÄ…dem elektrycznym
-nie ma Å¼adnego niebezpieczeÅ„stwa
+X100
+Jakie niebezpieczeñstwo grozi, gdy trzymamy w rêkach na³adowany kondensator elektrolityczny ?
+pora¿enie pr¹dem elektrycznym
+nie ma ¿adnego niebezpieczeñstwa
 implozja kondensatora
-

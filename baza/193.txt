@@ -1,6 +1,5 @@
-X001
+X100
 Co oznacza wg kodu Q symbol QSY ?
-przejdÅº na czÄ™stotliwoÅ›Ä‡, zmieÅ„ czÄ™stotliwoÅ›Ä‡
-do usÅ‚yszenia na innej czÄ™stotliwoÅ›ci
-mam uszkodzonÄ… antenÄ™
-
+przejdŸ na czêstotliwoœæ, zmieñ czêstotliwoœæ
+do us³yszenia na innej czêstotliwoœci
+mam uszkodzon¹ antenê

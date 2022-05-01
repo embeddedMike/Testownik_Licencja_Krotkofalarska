@@ -1,6 +1,5 @@
-X001
+X100
 Poprawne literowanie wg alfabetu ITU litery X i S:
 X-Rey, Sierra
 Xsen, Santiago
 X-Rey, Syria
-

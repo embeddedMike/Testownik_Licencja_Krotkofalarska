@@ -1,6 +1,5 @@
-X001
-Czy moÅ¼na wykorzystaÄ‡ jako uziemienie rurÄ™ instalacji gazowej ?
-bezwzglÄ™dnie nie wolno
-wolno bez Å¼adnych ograniczeÅ„
-wolno jedynie w sytuacji, gdy nie dysponuje siÄ™ innym uziemieniem
-
+X100
+Czy mo¿na wykorzystaæ jako uziemienie rurê instalacji gazowej ?
+bezwzglêdnie nie wolno
+wolno bez ¿adnych ograniczeñ
+wolno jedynie w sytuacji, gdy nie dysponuje siê innym uziemieniem

@@ -1,6 +1,6 @@
-X001
-OkrÄ™g wywoÅ‚awczy SP3 to obszar:
-wojewÃ³dztwa mazowieckiego
-wojewÃ³dztw lubuskiego i wielkopolskiego
-wojewÃ³dztw kujawsko-pomorskie i pomorskie
+X010
+Okrêg wywo³awczy SP3 to obszar:
+województwa mazowieckiego
+województw lubuskiego i wielkopolskiego
+województw kujawsko-pomorskie i pomorskie
 

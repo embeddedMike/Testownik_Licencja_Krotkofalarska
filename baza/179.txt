@@ -1,6 +1,5 @@
-X001
-Czy moÅ¼na umieÅ›ciÄ‡ kabel antenowy w kanale wywietrznika kominowego, jeÅ¼eli obok przebiega czynny komin ?
-moÅ¼na
-bezwzglÄ™dnie nie moÅ¼na
-moÅ¼na, ale tylko w okresie poza sezonem grzewczym
-
+X010
+Czy mo¿na umieœciæ kabel antenowy w kanale wywietrznika kominowego, je¿eli obok przebiega czynny komin ?
+mo¿na
+bezwzglêdnie nie mo¿na
+mo¿na, ale tylko w okresie poza sezonem grzewczym

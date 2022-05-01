@@ -1,6 +1,5 @@
-X001
+X010
 Co oznacza wg kodu Q symbol QSO ?
-moje poÅ‚oÅ¼enie geograficzne jest...
-Å‚Ä…cznoÅ›Ä‡, mam Å‚Ä…cznoÅ›Ä‡
-siÅ‚a twoich sygnaÅ‚Ã³w waha siÄ™
-
+moje po³o¿enie geograficzne jest...
+³¹cznoœæ, mam ³¹cznoœæ
+si³a twoich sygna³ów waha siê

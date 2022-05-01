@@ -1,6 +1,5 @@
 X001
 Transformator ochronny stosujemy, gdy:
-zachodzi obawa, Å¼e uÅ¼ycie narzÄ™dzi elektrycznych zasilanych napiÄ™ciem 230 V moÅ¼e spowodowaÄ‡ poraÅ¼enie prÄ…dem, np. pracujÄ…c na zewnÄ…trz pomieszczeÅ„
+zachodzi obawa, ¿e u¿ycie narzêdzi elektrycznych zasilanych napiêciem 230 V mo¿e spowodowaæ pora¿enie pr¹dem, np. pracuj¹c na zewn¹trz pomieszczeñ
 wykonujemy prace w wilgotnym pomieszczeniu
-jak w punkcie A i B i w innych sytuacjach, jeÅ¼eli zachodzi niebezpieczeÅ„stwo poraÅ¼enia prÄ…dem np. przy pracach naprawczych
-
+jak w punkcie A i B i w innych sytuacjach, je¿eli zachodzi niebezpieczeñstwo pora¿enia pr¹dem np. przy pracach naprawczych

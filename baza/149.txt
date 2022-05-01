@@ -1,6 +1,5 @@
 X001
-Pomieszczenie, w ktÃ³rym znajduje siÄ™ indywidualna stacja amatorska, powinno byÄ‡ wyposaÅ¼one w nastÄ™pujÄ…ce Å›rodki ochrony p-poÅ¼:
-Å›rodki gaÅ›nicze wymagane dla obiektÃ³w uÅ¼ytku publicznego
-koc gaÅ›niczy i gaÅ›nicÄ™ do gaszenia urzÄ…dzeÅ„ elektrycznych
-gaÅ›nicÄ™ do gaszenia urzÄ…dzeÅ„ pod napiÄ™ciem
-
+Pomieszczenie, w którym znajduje siê indywidualna stacja amatorska, powinno byæ wyposa¿one w nastêpuj¹ce œrodki ochrony p-po¿:
+œrodki gaœnicze wymagane dla obiektów u¿ytku publicznego
+koc gaœniczy i gaœnicê do gaszenia urz¹dzeñ elektrycznych
+gaœnicê do gaszenia urz¹dzeñ pod napiêciem

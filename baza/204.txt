@@ -1,6 +1,5 @@
-X001
-Co oznacza skr√≥t slangu radioamatorskiego Unlis ?
+X100
+Co oznacza skrÛt slangu radioamatorskiego Unlis ?
 nielicencjonowany nadawca
-zak≈Ç√≥cenia w odbiorze telewizji
-zawody w ≈Çowach na lisa
-
+zak≥Ûcenia w odbiorze telewizji
+zawody w ≥owach na lisa

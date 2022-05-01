@@ -1,6 +1,5 @@
-X001
+X010
 Co oznacza wg kodu Q symbol QRV ?
-o ktÃ³rej godzinie rozpoczÄ™liÅ›my Å‚Ä…cznoÅ›Ä‡
-jestem gotÃ³w do pracy, jestem czynny w eterze
-proszÄ™ powtÃ³rzyÄ‡ ostatniÄ… relacjÄ™
-
+o której godzinie rozpoczêliœmy ³¹cznoœæ
+jestem gotów do pracy, jestem czynny w eterze
+proszê powtórzyæ ostatni¹ relacjê

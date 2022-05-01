@@ -1,6 +1,5 @@
-X001
-Jakie dodatkowe zabezpieczenie, oprÃ³cz umieszczenia jej na bezpiecznej wysokoÅ›ci, sÄ… zalecane dla anteny na terenowym QTH ?
-nie sÄ… potrzebne Å¼adne dodatkowe zabezpieczenia
+X010
+Jakie dodatkowe zabezpieczenie, oprócz umieszczenia jej na bezpiecznej wysokoœci, s¹ zalecane dla anteny na terenowym QTH ?
+nie s¹ potrzebne ¿adne dodatkowe zabezpieczenia
 wykonanie anteny z drutu miedzianego w igielicie
 zakaz przebywania pod anten podczas nadawania
-

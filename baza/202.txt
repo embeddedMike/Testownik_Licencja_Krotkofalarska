@@ -1,6 +1,5 @@
-X001
+X100
 Co oznacza wg kodu Q symbol QSL ?
-potwierdzam odbiÃ³r, przyÅ›lÄ™ kartÄ™ potwierdzajÄ…cÄ… Å‚Ä…cznoÅ›Ä‡
+potwierdzam odbiór, przyœlê kartê potwierdzaj¹c¹ ³¹cznoœæ
 nadawaj szybciej
-sÅ‚ucham na czÄ™stotliwoÅ›ci
-
+s³ucham na czêstotliwoœci

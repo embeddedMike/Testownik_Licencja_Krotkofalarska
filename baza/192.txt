@@ -1,6 +1,5 @@
-X001
+X010
 Co oznacza wg kodu Q symbol QRG ?
-wÅ‚Ä…czam wiÄ™kszÄ… moc nadajnika
-moja czÄ™stotliwoÅ›Ä‡ jest ...
-siÅ‚a twoich sygnaÅ‚Ã³w waha siÄ™
-
+w³¹czam wiêksz¹ moc nadajnika
+moja czêstotliwoœæ jest ...
+si³a twoich sygna³ów waha siê

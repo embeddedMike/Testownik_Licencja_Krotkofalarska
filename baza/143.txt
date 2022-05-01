@@ -1,6 +1,5 @@
-X001
-Czy moÅ¼na uruchomiÄ‡ urzÄ…dzenie po przeniesieniu z zimnego pomieszczenia do ciepÅ‚ego ?
-istnieje bezwzglÄ™dny zakaz
-moÅ¼na, ale po odczekaniu pewnego czasu
-moÅ¼na natychmiast, bez Å¼adnego ryzyka
-
+X010
+Czy mo¿na uruchomiæ urz¹dzenie po przeniesieniu z zimnego pomieszczenia do ciep³ego ?
+istnieje bezwzglêdny zakaz
+mo¿na, ale po odczekaniu pewnego czasu
+mo¿na natychmiast, bez ¿adnego ryzyka

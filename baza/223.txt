@@ -1,6 +1,5 @@
-X001
-OkrÄ™g wywoÅ‚awczy SP6 to obszar:
-wojewÃ³dztwa mazowieckiego
-wojewÃ³dztw dolnoÅ›lÄ…skiego i opolskiego
-wojewÃ³dztwa zachodniopomorskiego
-
+X010
+Okrêg wywo³awczy SP6 to obszar:
+województwa mazowieckiego
+województw dolnoœl¹skiego i opolskiego
+województwa zachodniopomorskiego

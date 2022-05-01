@@ -1,6 +1,5 @@
-X001
+X100
 Maszt kratowy uziemiamy:
 jednym zwodem odgromowym
-po przekÄ…tnej dwoma zwodami
-czterema zwodami, po jednym na kaÅ¼dej nodze
-
+po przek¹tnej dwoma zwodami
+czterema zwodami, po jednym na ka¿dej nodze

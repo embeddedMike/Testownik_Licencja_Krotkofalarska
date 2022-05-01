@@ -1,6 +1,5 @@
-X001
-Kiedy naleÅ¼y podawaÄ‡ raport o sÅ‚yszalnoÅ›ci ?
-na poczÄ…tku Å‚Ä…cznoÅ›ci i na Å¼yczenie korespondenta
-w odstÄ™pach 5-10 minut
-po kaÅ¼dym przekazaniu mikrofonu
-
+X100
+Kiedy nale¿y podawaæ raport o s³yszalnoœci ?
+na pocz¹tku ³¹cznoœci i na ¿yczenie korespondenta
+w odstêpach 5-10 minut
+po ka¿dym przekazaniu mikrofonu

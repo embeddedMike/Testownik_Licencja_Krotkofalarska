@@ -1,6 +1,5 @@
-X001
-Co to jest dziennik Å‚Ä…cznoÅ›ci LOG ?
-jest to dokument radiostacji amatorskiej zawierajÄ…cy informacje o korespondencji z innymi radiostacjami amatorskimi, zawierajÄ…cy znak stacji, imiÄ™ operatora, datÄ™, godzinÄ™, pasmo w jakim przeprowadzono QSO
-jest to informacja o procedurach obowiÄ…zujÄ…cych podczas Å‚Ä…cznoÅ›ci z innymi stacjami
-jest to informacja o kontroli radiostacji przez inspektorÃ³w UKE
-
+X100
+Co to jest dziennik ³¹cznoœci LOG ?
+jest to dokument radiostacji amatorskiej zawieraj¹cy informacje o korespondencji z innymi radiostacjami amatorskimi, zawieraj¹cy znak stacji, imiê operatora, datê, godzinê, pasmo w jakim przeprowadzono QSO
+jest to informacja o procedurach obowi¹zuj¹cych podczas ³¹cznoœci z innymi stacjami
+jest to informacja o kontroli radiostacji przez inspektorów UKE

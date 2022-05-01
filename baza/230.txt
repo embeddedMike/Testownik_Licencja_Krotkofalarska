@@ -1,6 +1,5 @@
-X001
+X010
 Poprawne literowanie w j. polskim litery X i C:
 Iks, Centrum
 Xawery, Cezary
-Xymena, Czes≈Çaw
-
+Xymena, Czes≥aw

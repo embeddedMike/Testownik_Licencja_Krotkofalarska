@@ -1,6 +1,5 @@
-X001
-Zysk anteny kierunkowej wyraÅ¼ony jest w dBi. WzglÄ™dem jakiego ÅºrÃ³dÅ‚a jest okreÅ›lony ?
+X010
+Zysk anteny kierunkowej wyra¿ony jest w dBi. Wzglêdem jakiego Ÿród³a jest okreœlony ?
 dipola pomiarowego
-ÅºrÃ³dÅ‚a izotropowego
+Ÿród³a izotropowego
 innej anteny kierunkowej
-

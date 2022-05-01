@@ -1,6 +1,5 @@
-X001
-Jaka jest rÃ³Å¼nica pomiÄ™dzy efektywnÄ… mocÄ… promieniowanÄ… e.r.p. a efektywnÄ… mocÄ… promieniowanÄ… izotropowo e.i.r.p ?
-e.i.r.p. jest wiÄ™ksze o 2,16 dB od e.r.p.
+X100
+Jaka jest ró¿nica pomiêdzy efektywn¹ moc¹ promieniowan¹ e.r.p. a efektywn¹ moc¹ promieniowan¹ izotropowo e.i.r.p ?
+e.i.r.p. jest wiêksze o 2,16 dB od e.r.p.
 e.i.r.p. jest mniejsze o 2,16 dB od e.r.p.
-nie ma rÃ³Å¼nicy
-
+nie ma ró¿nicy

@@ -1,6 +1,5 @@
 X001
-Czy kondensator elektrolityczny musi mieÄ‡ napiÄ™cie pracy rÃ³wne lub wiÄ™ksze niÅ¼ napiÄ™cie wystÄ™pujÄ…ce w ukÅ‚adzie w jakim pracuje ?
-napiÄ™cie pracy kondensatora nie ma znaczenia
-napiÄ™cie pracy kondensatora ma znaczenia tylko w niektÃ³rych typach ukÅ‚adÃ³w
-koniecznie, gdyÅ¼ moÅ¼e ulec zniszczeniu
-
+Czy kondensator elektrolityczny musi mieæ napiêcie pracy równe lub wiêksze ni¿ napiêcie wystêpuj¹ce w uk³adzie w jakim pracuje ?
+napiêcie pracy kondensatora nie ma znaczenia
+napiêcie pracy kondensatora ma znaczenia tylko w niektórych typach uk³adów
+koniecznie, gdy¿ mo¿e ulec zniszczeniu

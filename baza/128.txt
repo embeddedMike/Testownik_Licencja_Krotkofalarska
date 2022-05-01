@@ -1,6 +1,5 @@
-X001
-Czy moÅ¼na wykorzystaÄ‡ sieÄ‡ wodociÄ…gowÄ… jako uziemienie ?
+X010
+Czy mo¿na wykorzystaæ sieæ wodoci¹gow¹ jako uziemienie ?
 tak
-jedynie po zbocznikowaniu wodomierza i upewnieniu siÄ™, Å¼e jest ona uziemiona oraz po uzyskaniu zgody jednostki eksploatujÄ…cej tÄ™ sieÄ‡
+jedynie po zbocznikowaniu wodomierza i upewnieniu siê, ¿e jest ona uziemiona oraz po uzyskaniu zgody jednostki eksploatuj¹cej tê sieæ
 nie, jest to zabronione
-

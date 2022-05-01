@@ -1,6 +1,5 @@
-X001
-Czy sztuczne obciÄ…Å¼enie w postaci opornika bezindukcyjnego powinno byÄ‡ ekranowane ?
+X010
+Czy sztuczne obci¹¿enie w postaci opornika bezindukcyjnego powinno byæ ekranowane ?
 nie ma takiej potrzeby
-tak, zawsze powinno byÄ‡ ekranowane i uziemione w tym samym punkcie co radiostacja
-tylko w przypadku gdy wzmacniacz mocy nie jest wÅ‚aÅ›ciwie dostrojony
-
+tak, zawsze powinno byæ ekranowane i uziemione w tym samym punkcie co radiostacja
+tylko w przypadku gdy wzmacniacz mocy nie jest w³aœciwie dostrojony

@@ -1,6 +1,5 @@
 X001
-W przypadku zaprÃ³szenia oka ciaÅ‚em obcym naleÅ¼y:
-odczekaÄ‡ aÅ¼ ciaÅ‚o obce samo wypadnie
-usunÄ…Ä‡ ciaÅ‚o obce samodzielnie za pomocÄ… pÄ™sety
-sprÃ³bowaÄ‡ usunÄ…Ä‡ obce ciaÅ‚o, przemywajÄ…c oko wodÄ…, a jeÅ¼eli siÄ™ to nie uda skorzystaÄ‡ z pomocy lekarza
-
+W przypadku zaprószenia oka cia³em obcym nale¿y:
+odczekaæ a¿ cia³o obce samo wypadnie
+usun¹æ cia³o obce samodzielnie za pomoc¹ pêsety
+spróbowaæ usun¹æ obce cia³o, przemywaj¹c oko wod¹, a je¿eli siê to nie uda skorzystaæ z pomocy lekarza

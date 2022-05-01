@@ -1,6 +1,5 @@
-X001
-NajlepszÄ… formÄ… zabezpieczenia anteny krÃ³tkofalowej przed burzÄ… jest:
-odÅ‚Ä…czenie anteny od radiostacji i wystawienie kabla anteny za okno
-odÅ‚Ä…czenie anteny od radiostacji i poÅ‚Ä…czenie anteny z uziemieniem
-nie sÄ… wymagane Å¼adne dziaÅ‚ania
-
+X010
+Najlepsz¹ form¹ zabezpieczenia anteny krótkofalowej przed burz¹ jest:
+od³¹czenie anteny od radiostacji i wystawienie kabla anteny za okno
+od³¹czenie anteny od radiostacji i po³¹czenie anteny z uziemieniem
+nie s¹ wymagane ¿adne dzia³ania

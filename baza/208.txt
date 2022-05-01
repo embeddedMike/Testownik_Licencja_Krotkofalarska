@@ -1,6 +1,5 @@
-X001
-Czy po uzyskaniu Å›wiadectwa operatora urzÄ…dzeÅ„ radiowych moÅ¼na samodzielnie obsÅ‚ugiwaÄ‡ stacjÄ™ amatorskÄ… ?
-moÅ¼na, ale tylko pod nadzorem radioamatora posiadajÄ…cego pozwolenie radiowe
-moÅ¼na, w okreÅ›lonych przepisami zakresach czÄ™stotliwoÅ›ci
-nie moÅ¼na, poniewaÅ¼ do obsÅ‚ugi stacji amatorskiej upowaÅ¼nia jedynie pozwolenie radiowe
-
+X010
+Czy po uzyskaniu œwiadectwa operatora urz¹dzeñ radiowych mo¿na samodzielnie obs³ugiwaæ stacjê amatorsk¹ ?
+mo¿na, ale tylko pod nadzorem radioamatora posiadaj¹cego pozwolenie radiowe
+mo¿na, w okreœlonych przepisami zakresach czêstotliwoœci
+nie mo¿na, poniewa¿ do obs³ugi stacji amatorskiej upowa¿nia jedynie pozwolenie radiowe

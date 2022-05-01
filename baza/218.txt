@@ -1,6 +1,5 @@
-X001
-OkrÄ™g wywoÅ‚awczy SP1 to obszar:
-wojewÃ³dztwa zachodniopomorskiego
-wojewÃ³dztwa pomorskiego
-wojewÃ³dztwa mazowieckiego
-
+X100
+Okrêg wywo³awczy SP1 to obszar:
+województwa zachodniopomorskiego
+województwa pomorskiego
+województwa mazowieckiego

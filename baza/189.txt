@@ -1,6 +1,6 @@
-X001
-W ktÃ³rym miejscu naleÅ¼y podÅ‚Ä…czyÄ‡ filtr przeciwzakÅ‚Ã³ceniowy (dolnoprzepustowy) przy pracy ze wzmacniaczem mocy ?
-po koÅ„cÃ³wce mocy na fider antenowy
-pomiÄ™dzy transceiver a wzmacniacz mocy
-miejsce podÅ‚Ä…czenia jest dowolne
+X010
+W którym miejscu nale¿y pod³¹czyæ filtr przeciwzak³óceniowy (dolnoprzepustowy) przy pracy ze wzmacniaczem mocy ?
+po koñcówce mocy na fider antenowy
+pomiêdzy transceiver a wzmacniacz mocy
+miejsce pod³¹czenia jest dowolne
 

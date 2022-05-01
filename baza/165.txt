@@ -1,6 +1,5 @@
-X001
-Podstawowe wyposaÅ¼enie ochronne do prac z elektrolitem to:
-ubranie ochronne, okulary, rÄ™kawice ochronne
-maska na twarz, nakrycie gÅ‚owy, obuwie ochronne
-nie ma potrzeby stosowaÄ‡ Å¼adnego wyposaÅ¼enia ochronnego
-
+X100
+Podstawowe wyposa¿enie ochronne do prac z elektrolitem to:
+ubranie ochronne, okulary, rêkawice ochronne
+maska na twarz, nakrycie g³owy, obuwie ochronne
+nie ma potrzeby stosowaæ ¿adnego wyposa¿enia ochronnego

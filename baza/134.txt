@@ -1,6 +1,5 @@
-X001
-Na polu antenowym mamy kilka anten na rÃ³Å¼ne pasma. Czy moÅ¼na regulowaÄ‡ nieczynne anteny, jeÅ¼eli obok pracuje na podobnej antenie nadajnik KF ?
+X100
+Na polu antenowym mamy kilka anten na ró¿ne pasma. Czy mo¿na regulowaæ nieczynne anteny, je¿eli obok pracuje na podobnej antenie nadajnik KF ?
 nie wolno
-moÅ¼na
-moÅ¼na, ale tylko gdy nadajnik ten pracuje z maÅ‚Ä… mocÄ…
-
+mo¿na
+mo¿na, ale tylko gdy nadajnik ten pracuje z ma³¹ moc¹

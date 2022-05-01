@@ -1,6 +1,5 @@
 X001
-Czy nasza radiostacja mo≈ºe wywo≈Çaƒá zak≈Ç√≥cenia poza granicami kraju ?
-nie mo≈ºe
-mo≈ºe, ale tylko podczas strojenia
-mo≈ºe
-
+Czy nasza radiostacja moøe wywo≥aÊ zak≥Ûcenia poza granicami kraju ?
+nie moøe
+moøe, ale tylko podczas strojenia
+moøe

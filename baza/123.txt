@@ -1,6 +1,5 @@
-X001
-Do jakiej wysokoÅ›ci siÄ™gajÄ… najwyÅ¼sze warstwy jonosfery w lecie w dzieÅ„ ?
+X010
+Do jakiej wysokoœci siêgaj¹ najwy¿sze warstwy jonosfery w lecie w dzieñ ?
 do 200 km
 450 km
 100 km
-

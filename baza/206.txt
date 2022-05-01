@@ -1,6 +1,5 @@
-X001
-Co oznacza skrÃ³t slangu radioamatorskiego RPT ?
-proszÄ™ powtÃ³rzyÄ‡, powtÃ³rzÄ™, powtarzam
-proszÄ™
-przechodzÄ™ na inny kanaÅ‚
-
+X100
+Co oznacza skrót slangu radioamatorskiego RPT ?
+proszê powtórzyæ, powtórzê, powtarzam
+proszê
+przechodzê na inny kana³

@@ -1,6 +1,5 @@
-X001
-Jak zbudowany jest znak wywoÅ‚awczy w pozwoleniu dodatkowym ?
-nie ma okreÅ›lonej budowy, skÅ‚ada siÄ™ liter i cyfr
-skÅ‚ada siÄ™ z prefiksu, cyfry i kombinacji maksymalnie siedmiu liter i cyfr
-skÅ‚ada siÄ™ z prefiksu i piÄ™ciu liter
-
+X010
+Jak zbudowany jest znak wywo³awczy w pozwoleniu dodatkowym ?
+nie ma okreœlonej budowy, sk³ada siê liter i cyfr
+sk³ada siê z prefiksu, cyfry i kombinacji maksymalnie siedmiu liter i cyfr
+sk³ada siê z prefiksu i piêciu liter

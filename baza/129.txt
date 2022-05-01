@@ -1,6 +1,5 @@
-X001
-ResuscytacjÄ™ krÄ…Å¼eniowo-oddechowÄ… u osoby dorosÅ‚ej, bez widocznych obraÅ¼eÅ„ ciaÅ‚a, wykonujemy w stosunku:
-30 uciÅ›niÄ™Ä‡ klatki piersiowej na dwa wdechy
-20 uciÅ›niÄ™Ä‡ klatki piersiowej na cztery wdechy
-15 uciÅ›niÄ™Ä‡ klatki piersiowej na szeÅ›Ä‡ wdechÃ³w
-
+X100
+Resuscytacjê kr¹¿eniowo-oddechow¹ u osoby doros³ej, bez widocznych obra¿eñ cia³a, wykonujemy w stosunku:
+30 uciœniêæ klatki piersiowej na dwa wdechy
+20 uciœniêæ klatki piersiowej na cztery wdechy
+15 uciœniêæ klatki piersiowej na szeœæ wdechów

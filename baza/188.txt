@@ -1,6 +1,5 @@
 X001
-Czy Å›wiadectwo operatora urzÄ…dzeÅ„ radiowych upowaÅ¼nia do naprawy sieci elektrycznej w mieszkaniu ?
-tak, bez Å¼adnych ograniczeÅ„
-tak, ale wyÅ‚Ä…cznie sieci jednofazowej
-nie, do tego potrzebne jest posiadanie stosownych uprawnieÅ„
-
+Czy œwiadectwo operatora urz¹dzeñ radiowych upowa¿nia do naprawy sieci elektrycznej w mieszkaniu ?
+tak, bez ¿adnych ograniczeñ
+tak, ale wy³¹cznie sieci jednofazowej
+nie, do tego potrzebne jest posiadanie stosownych uprawnieñ

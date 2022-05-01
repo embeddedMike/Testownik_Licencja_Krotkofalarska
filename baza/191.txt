@@ -1,6 +1,6 @@
-X001
-Przed eksplozjÄ… kondensatorÃ³w elektrolitycznych w zasilaczu chroni nas:
-stabilizator napiÄ™cia
-opornik upÅ‚ywowy tzw. bleder
-wÅ‚aÅ›ciwe uziemienie zasilacza
+X010
+Przed eksplozj¹ kondensatorów elektrolitycznych w zasilaczu chroni nas:
+stabilizator napiêcia
+opornik up³ywowy tzw. bleder
+w³aœciwe uziemienie zasilacza
 

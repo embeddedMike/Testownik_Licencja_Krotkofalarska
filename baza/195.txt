@@ -1,6 +1,5 @@
-X001
+X010
 Co oznacza wg kodu Q symbol QRN ?
 jestem czynny w eterze od niedawna
-mam zakÅ‚Ã³cenia atmosferyczne
-pracujÄ™ na radiostacji tylko w niedzielÄ™
-
+mam zak³ócenia atmosferyczne
+pracujê na radiostacji tylko w niedzielê
