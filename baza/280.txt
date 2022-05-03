@@ -1,6 +1,5 @@
-X001
-Zakres czƒôstotliwo≈õci przeznaczony dla s≈Çu≈ºby amatorskiej w pa≈õmie 40 m to:
+X100
+Zakres czÍstotliwoúci przeznaczony dla s≥uøby amatorskiej w paúmie 40 m to:
 7000 kHz - 7200 kHz
 7100 kHz - 7300 kHz
 7050 kHz - 7200 kHz
-

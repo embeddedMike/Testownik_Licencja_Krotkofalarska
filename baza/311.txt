@@ -1,6 +1,5 @@
-X001
-Jaka organizacja reprezentuje sÅ‚uÅ¼bÄ™ amatorskÄ… na forum miÄ™dzynarodowym ?
-MiÄ™dzynarodowy ZwiÄ…zek Telekomunikacyjny (ITU)
-MiÄ™dzynarodowy ZwiÄ…zek RadioamatorÃ³w (IARU)
+X010
+Jaka organizacja reprezentuje s³u¿bê amatorsk¹ na forum miêdzynarodowym ?
+Miêdzynarodowy Zwi¹zek Telekomunikacyjny (ITU)
+Miêdzynarodowy Zwi¹zek Radioamatorów (IARU)
 Europejskie Biuro Radiokomunikacji (ERO)
-

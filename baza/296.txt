@@ -1,6 +1,5 @@
-X001
-Jaki dokument obowiÄ…zujÄ…cy wszystkie kraje czÅ‚onkowskie MiÄ™dzynarodowego ZwiÄ…zku Telekomunikacyjnego (ITU) okreÅ›la zasady wykonywania sÅ‚uÅ¼by radiokomunikacyjnej amatorskiej i sÅ‚uÅ¼by amatorskiej satelitarnej oraz wymienia przyznane tym sÅ‚uÅ¼bom zakresy czÄ™stotliwoÅ›ci ?
+X010
+Jaki dokument obowi¹zuj¹cy wszystkie kraje cz³onkowskie Miêdzynarodowego Zwi¹zku Telekomunikacyjnego (ITU) okreœla zasady wykonywania s³u¿by radiokomunikacyjnej amatorskiej i s³u¿by amatorskiej satelitarnej oraz wymienia przyznane tym s³u¿bom zakresy czêstotliwoœci ?
 Konstytucja ITU
 Regulamin Radiokomunikacyjny (Radio Regulations) ITU
 Konwencja ITU
-

@@ -1,6 +1,5 @@
 X001
-Jaka jest maksymalna moc wyj≈õciowa radiostacji w przypadku pozwolenia dodatkowego ?
-500 wat√≥w
-1000 wat√≥w
-1500 wat√≥w
-
+Jaka jest maksymalna moc wyjúciowa radiostacji w przypadku pozwolenia dodatkowego ?
+500 watÛw
+1000 watÛw
+1500 watÛw

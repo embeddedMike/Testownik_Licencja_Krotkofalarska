@@ -1,6 +1,5 @@
-X001
-Jaki organ krajowy reguluje i kontroluje pracÄ™ stacji amatorskich, przeprowadza egzaminy na Å›wiadectwa operatora urzÄ…dzeÅ„ radiowych i wydaje pozwolenia w sÅ‚uÅ¼bie amatorskiej ?
-Minister wÅ‚aÅ›ciwy do spraw Å‚Ä…cznoÅ›ci
-Prezes UrzÄ™du Komunikacji Elektronicznej
-Minister wÅ‚aÅ›ciwy do spraw wewnÄ™trznych
-
+X010
+Jaki organ krajowy reguluje i kontroluje pracê stacji amatorskich, przeprowadza egzaminy na œwiadectwa operatora urz¹dzeñ radiowych i wydaje pozwolenia w s³u¿bie amatorskiej ?
+Minister w³aœciwy do spraw ³¹cznoœci
+Prezes Urzêdu Komunikacji Elektronicznej
+Minister w³aœciwy do spraw wewnêtrznych

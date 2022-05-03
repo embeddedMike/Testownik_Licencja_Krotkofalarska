@@ -1,6 +1,5 @@
-X001
-Jaki dokument okreÅ›la klasy Å›wiadectw operatora radiowego w sÅ‚uÅ¼bie amatorskiej i wymagania egzaminacyjne na poszczegÃ³lne klasy Å›wiadectw ?
-rozporzÄ…dzenie ministra wÅ‚aÅ›ciwego do spraw Å‚Ä…cznoÅ›ci
+X100
+Jaki dokument okreœla klasy œwiadectw operatora radiowego w s³u¿bie amatorskiej i wymagania egzaminacyjne na poszczególne klasy œwiadectw ?
+rozporz¹dzenie ministra w³aœciwego do spraw ³¹cznoœci
 ustawa Prawo telekomunikacyjne
-Krajowa Tablica PrzeznaczeÅ„ CzÄ™stotliwoÅ›ci
-
+Krajowa Tablica Przeznaczeñ Czêstotliwoœci

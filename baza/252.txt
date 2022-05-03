@@ -1,6 +1,5 @@
-X001
-KtÃ³ry z poniÅ¼szych kodÃ³w Q oznacza: ÅÄ…cznoÅ›Ä‡, mam Å‚Ä…cznoÅ›Ä‡ ?
+X010
+Który z poni¿szych kodów Q oznacza: £¹cznoœæ, mam ³¹cznoœæ ?
 QSL
 QSO
 QRS
-

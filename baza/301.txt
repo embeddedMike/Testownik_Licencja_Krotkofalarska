@@ -1,6 +1,5 @@
-X001
-Czy Regulamin Radiokomunikacyjny reguluje zasady przyznawania znak√≥w wywo≈Çawczych stacjom amatorskim ?
-nie, regulujƒÖ to przepisy krajowe
-tak, Regulamin Radiokomunikacyjny okre≈õla ≈õci≈õle zasady przyznawania znak√≥w
-nie, znak wywo≈Çawczy obiera sobie sam operator stacji
-
+X010
+Czy Regulamin Radiokomunikacyjny reguluje zasady przyznawania znakÛw wywo≥awczych stacjom amatorskim ?
+nie, regulujπ to przepisy krajowe
+tak, Regulamin Radiokomunikacyjny okreúla úciúle zasady przyznawania znakÛw
+nie, znak wywo≥awczy obiera sobie sam operator stacji

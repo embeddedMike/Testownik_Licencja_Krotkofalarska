@@ -1,6 +1,5 @@
-X001
-W ktÃ³rym roku Rzeczpospolita Polska przystÄ…piÅ‚a do MiÄ™dzynarodowego ZwiÄ…zku Telekomunikacyjnego (ITU) ?
+X100
+W którym roku Rzeczpospolita Polska przyst¹pi³a do Miêdzynarodowego Zwi¹zku Telekomunikacyjnego (ITU) ?
 1921
 1935
 1956
-

@@ -1,6 +1,5 @@
-X001
-Co zgodnie z Regulaminem Radiokomunikacyjnym ITU musi zapewniÄ‡ operator amatorskiej orbitalnej stacji satelitarnej ?
-nadawanie przez amatorskÄ… stacjÄ™ satelitarnÄ… jej znaku wywoÅ‚awczego
-niezwÅ‚oczne zdalne wyÅ‚Ä…czenie amatorskiej stacji satelitarnej w przypadku powodowania przez niÄ… szkodliwych zakÅ‚Ã³ceÅ„ dla innych sÅ‚uÅ¼b radiokomunikacyjnych
-nadawanie przez amatorskÄ… stacjÄ™ satelitarnÄ… komunikatÃ³w meteorologicznych
-
+X010
+Co zgodnie z Regulaminem Radiokomunikacyjnym ITU musi zapewniæ operator amatorskiej orbitalnej stacji satelitarnej ?
+nadawanie przez amatorsk¹ stacjê satelitarn¹ jej znaku wywo³awczego
+niezw³oczne zdalne wy³¹czenie amatorskiej stacji satelitarnej w przypadku powodowania przez ni¹ szkodliwych zak³óceñ dla innych s³u¿b radiokomunikacyjnych
+nadawanie przez amatorsk¹ stacjê satelitarn¹ komunikatów meteorologicznych

@@ -1,6 +1,5 @@
 X001
-Jak powinien postÄ…piÄ‡ operator stacji amatorskiej w razie przypadkowego odebrania wiadomoÅ›ci nie przeznaczonej dla sÅ‚uÅ¼by amatorskiej ?
-rozpowszechniÄ‡ odebranÄ… wiadomoÅ›Ä‡ w internecie
-zachowaÄ‡ treÅ›Ä‡ wiadomoÅ›ci w Å›cisÅ‚ej tajemnicy
-zachowaÄ‡ treÅ›Ä‡ wiadomoÅ›ci w Å›cisÅ‚ej tajemnicy, zaÅ› w przypadku gdy odebrana wiadomoÅ›Ä‡ zawiera istotne dla funkcjonowania Pastwa lub porzÄ…dku publicznego informacje - powiadomiÄ‡ najbliÅ¼szÄ… jednostkÄ™ UrzÄ™du Komunikacji Elektronicznej
-
+Jak powinien post¹piæ operator stacji amatorskiej w razie przypadkowego odebrania wiadomoœci nie przeznaczonej dla s³u¿by amatorskiej ?
+rozpowszechniæ odebran¹ wiadomoœæ w internecie
+zachowaæ treœæ wiadomoœci w œcis³ej tajemnicy
+zachowaæ treœæ wiadomoœci w œcis³ej tajemnicy, zaœ w przypadku gdy odebrana wiadomoœæ zawiera istotne dla funkcjonowania Pastwa lub porz¹dku publicznego informacje - powiadomiæ najbli¿sz¹ jednostkê Urzêdu Komunikacji Elektronicznej

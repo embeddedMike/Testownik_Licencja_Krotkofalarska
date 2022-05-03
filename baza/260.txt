@@ -1,6 +1,5 @@
-X001
-Kt√≥re z poni≈ºszych skr√≥t√≥w slangu radioamatorskiego oznaczajƒÖ: Zak≈Ç√≥cenia w odbiorze telewizji; nielicencjonowany nadawca ?
+X010
+KtÛre z poniøszych skrÛtÛw slangu radioamatorskiego oznaczajπ: Zak≥Ûcenia w odbiorze telewizji; nielicencjonowany nadawca ?
 TRX; LIS
 TVI; UNLIS
 RBM; ICP
-

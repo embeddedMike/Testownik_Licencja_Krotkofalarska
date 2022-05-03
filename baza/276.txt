@@ -1,6 +1,5 @@
 X001
-Jak zbudowane sÄ… znaki wywoÅ‚awcze radiostacji amatorskich ?
-dwie litery, cyfra, dwie do piÄ™ciu liter, np. SP3AB lub SP3ABCDE
+Jak zbudowane s¹ znaki wywo³awcze radiostacji amatorskich ?
+dwie litery, cyfra, dwie do piêciu liter, np. SP3AB lub SP3ABCDE
 dwie litery, cyfra, dwie do trzech liter, np. SP3AB lub SP3ABC
-dwie litery lub cyfra i litera, cyfra, jeden do czterech znakÃ³w (liter lub cyfr), gdzie ostatni jest literÄ…, np. SP3A lub SP3ABCD
-
+dwie litery lub cyfra i litera, cyfra, jeden do czterech znaków (liter lub cyfr), gdzie ostatni jest liter¹, np. SP3A lub SP3ABCD

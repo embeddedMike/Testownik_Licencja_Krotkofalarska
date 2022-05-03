@@ -1,6 +1,5 @@
-X001
-Co oznaczajƒÖ skr√≥ty slangu radioamatorskiego: BCI; BOX ?
-zak≈Ç√≥cenia odbioru radiowego; skrytka pocztowa
-zak≈Ç√≥cenia od sieciowe; radiolatarnia amatorska
-podaj dok≈Çadny czas; zmieniam kana≈Ç radiowy
-
+X100
+Co oznaczajπ skrÛty slangu radioamatorskiego: BCI; BOX ?
+zak≥Ûcenia odbioru radiowego; skrytka pocztowa
+zak≥Ûcenia od sieciowe; radiolatarnia amatorska
+podaj dok≥adny czas; zmieniam kana≥ radiowy

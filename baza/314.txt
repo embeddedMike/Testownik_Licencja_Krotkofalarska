@@ -1,6 +1,5 @@
-X001
-W ktÃ³rym roku powstaÅ‚ Polski ZwiÄ…zek KrÃ³tkofalowcÃ³w (PZK) ?
+X010
+W którym roku powsta³ Polski Zwi¹zek Krótkofalowców (PZK) ?
 w roku 1924
 w roku 1930
 w roku 1946
-

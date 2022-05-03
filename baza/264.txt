@@ -1,6 +1,5 @@
-X001
-Co oznaczajƒÖ skr√≥ty slangu radioamatorskiego: LOG; DIRECT ?
-d≈Çuga antena; dyrektor
-dziennik pracy stacji; bezpo≈õrednio
-d≈Çugi; bezpo≈õredni kontakt
-
+X010
+Co oznaczajπ skrÛty slangu radioamatorskiego: LOG; DIRECT ?
+d≥uga antena; dyrektor
+dziennik pracy stacji; bezpoúrednio
+d≥ugi; bezpoúredni kontakt

@@ -1,6 +1,5 @@
-X001
-Co oznacza w ≈ÇƒÖczno≈õci telegraficznej raport 599 ?
-czytelny, silny sygna≈Ç, dobry ton
-dobrze czytelny, bardzo silny sygna≈Ç, bardzo dobry ton
-czytelny z trudno≈õciami, sygna≈Ç s≈Çaby, dobry ton
-
+X010
+Co oznacza w ≥πcznoúci telegraficznej raport 599 ?
+czytelny, silny sygna≥, dobry ton
+dobrze czytelny, bardzo silny sygna≥, bardzo dobry ton
+czytelny z trudnoúciami, sygna≥ s≥aby, dobry ton

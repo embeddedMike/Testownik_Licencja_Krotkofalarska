@@ -1,6 +1,5 @@
-X001
-Jaki organ MiÄ™dzynarodowego ZwiÄ…zku Telekomunikacyjnego (ITU) decyduje o przeznaczeniach poszczegÃ³lnych zakresÃ³w czÄ™stotliwoÅ›ci dla rÃ³Å¼nych sÅ‚uÅ¼b radiokomunikacyjnych ?
-Rada MiÄ™dzynarodowego ZwiÄ…zku Telekomunikacyjnego (ITU)
-Åšwiatowe Konferencje Radiokomunikacyjne
+X010
+Jaki organ Miêdzynarodowego Zwi¹zku Telekomunikacyjnego (ITU) decyduje o przeznaczeniach poszczególnych zakresów czêstotliwoœci dla ró¿nych s³u¿b radiokomunikacyjnych ?
+Rada Miêdzynarodowego Zwi¹zku Telekomunikacyjnego (ITU)
+Œwiatowe Konferencje Radiokomunikacyjne
 Biuro Radiokomunikacji ITU
-

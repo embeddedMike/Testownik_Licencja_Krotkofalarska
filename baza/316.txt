@@ -1,6 +1,5 @@
 X001
-Jaki podstawowy akt prawny reguluje dziaÅ‚alnoÅ›Ä‡ telekomunikacyjnÄ… i radiokomunikacyjnÄ… w Polsce ?
-statut UrzÄ™du Komunikacji Elektronicznej (UKE)
-ustawa Prawo ochrony Å›rodowiska
+Jaki podstawowy akt prawny reguluje dzia³alnoœæ telekomunikacyjn¹ i radiokomunikacyjn¹ w Polsce ?
+statut Urzêdu Komunikacji Elektronicznej (UKE)
+ustawa Prawo ochrony œrodowiska
 ustawa Prawo telekomunikacyjne
-

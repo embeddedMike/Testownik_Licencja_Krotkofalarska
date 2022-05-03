@@ -1,6 +1,5 @@
-X001
+X100
 Co jest bandpan IARU?
-podziaÅ‚ zakresÃ³w czÄ™stotliwoÅ›ci na segmenty przeznaczone dla poszczegÃ³lnych rodzajÃ³w emisji lub kanaÅ‚y robocze
-podziaÅ‚ czÄ™stotliwoÅ›ci osobno nadawczych i odbiorczych
-plan przydziaÅ‚u czÄ™stotliwoÅ›ci dla poszczegÃ³lnych krajÃ³w
-
+podzia³ zakresów czêstotliwoœci na segmenty przeznaczone dla poszczególnych rodzajów emisji lub kana³y robocze
+podzia³ czêstotliwoœci osobno nadawczych i odbiorczych
+plan przydzia³u czêstotliwoœci dla poszczególnych krajów

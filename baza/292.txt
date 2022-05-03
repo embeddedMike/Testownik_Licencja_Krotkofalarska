@@ -1,6 +1,5 @@
-X001
-Jak nazywa siÄ™ organ miÄ™dzynarodowy ustalajÄ…cy ogÃ³lnoÅ›wiatowe zasady wykonywania dziaÅ‚alnoÅ›ci telekomunikacyjnej i radiokomunikacyjnej ?
-Organizacja NarodÃ³w Zjednoczonych (ONZ)
-MiÄ™dzynarodowy ZwiÄ…zek Telekomunikacyjny (ITU)
-Åšwiatowa Organizacja Handlu (WTO)
-
+X010
+Jak nazywa siê organ miêdzynarodowy ustalaj¹cy ogólnoœwiatowe zasady wykonywania dzia³alnoœci telekomunikacyjnej i radiokomunikacyjnej ?
+Organizacja Narodów Zjednoczonych (ONZ)
+Miêdzynarodowy Zwi¹zek Telekomunikacyjny (ITU)
+Œwiatowa Organizacja Handlu (WTO)

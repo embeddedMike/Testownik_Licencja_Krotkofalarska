@@ -1,6 +1,5 @@
-X001
-Jaka jest maksymalna moc wyj≈õciowa radiostacji amatorskiej w przypadku pozwolenia kategorii 1 uzyskanego po raz pierwszy ?
-50 wat√≥w
-500 wat√≥w
-250 wat√≥w
-
+X010
+Jaka jest maksymalna moc wyjúciowa radiostacji amatorskiej w przypadku pozwolenia kategorii 1 uzyskanego po raz pierwszy ?
+50 watÛw
+500 watÛw
+250 watÛw

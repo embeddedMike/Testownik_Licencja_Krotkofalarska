@@ -1,6 +1,5 @@
-X001
-Jak brzmi definicja sÅ‚uÅ¼by amatorskiej zamieszczona w Regulaminie Radiokomunikacyjnym MiÄ™dzynarodowego ZwiÄ…zku Telekomunikacyjnego (ITU) ?
-sÅ‚uÅ¼ba radiokomunikacyjna wykonywana przez radioamatorÃ³w w celu nawiÄ…zywania wzajemnych znajomoÅ›ci i wymiany informacji technicznych
-sÅ‚uÅ¼ba radiokomunikacyjna majÄ…ca na celu samoksztaÅ‚cenie, wzajemne komunikowanie siÄ™ i eksperymenty techniczne prowadzone przez amatorÃ³w, to jest przez odpowiednio upowaÅ¼nione osoby interesujÄ…ce siÄ™ technikÄ… radiowÄ… wyÅ‚Ä…cznie z pobudek osobistych, bez celÃ³w zarobkowych
-sÅ‚uÅ¼ba radiokomunikacyjna majÄ…ca na celu badanie propagacji fal radiowych w zakresach krÃ³tkofalowym i ultrakrÃ³tkofalowym oraz warunkÃ³w meteorologicznych
-
+X010
+Jak brzmi definicja s³u¿by amatorskiej zamieszczona w Regulaminie Radiokomunikacyjnym Miêdzynarodowego Zwi¹zku Telekomunikacyjnego (ITU) ?
+s³u¿ba radiokomunikacyjna wykonywana przez radioamatorów w celu nawi¹zywania wzajemnych znajomoœci i wymiany informacji technicznych
+s³u¿ba radiokomunikacyjna maj¹ca na celu samokszta³cenie, wzajemne komunikowanie siê i eksperymenty techniczne prowadzone przez amatorów, to jest przez odpowiednio upowa¿nione osoby interesuj¹ce siê technik¹ radiow¹ wy³¹cznie z pobudek osobistych, bez celów zarobkowych
+s³u¿ba radiokomunikacyjna maj¹ca na celu badanie propagacji fal radiowych w zakresach krótkofalowym i ultrakrótkofalowym oraz warunków meteorologicznych

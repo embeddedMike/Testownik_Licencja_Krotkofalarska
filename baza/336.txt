@@ -1,6 +1,5 @@
 X001
-Czy operator stacji amatorskiej moÅ¼e przekazywaÄ‡ przy pomocy swej radiostacji wiadomoÅ›ci pochodzÄ…ce od osÃ³b trzecich i przeznaczone dla osÃ³b trzecich ?
+Czy operator stacji amatorskiej mo¿e przekazywaæ przy pomocy swej radiostacji wiadomoœci pochodz¹ce od osób trzecich i przeznaczone dla osób trzecich ?
 jest to dopuszczalne
 jest to surowo zabronione
-jest to dopuszczalne, jeÅ›li stacja amatorska za wiedzÄ… UrzÄ™du Komunikacji Elektronicznej bierze udziaÅ‚ w akcji niesienia pomocy lub likwidacji skutkÃ³w klÄ™sk Å¼ywioÅ‚owych i katastrof
-
+jest to dopuszczalne, jeœli stacja amatorska za wiedz¹ Urzêdu Komunikacji Elektronicznej bierze udzia³ w akcji niesienia pomocy lub likwidacji skutków klêsk ¿ywio³owych i katastrof

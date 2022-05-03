@@ -1,6 +1,5 @@
-X001
-Zakres czƒôstotliwo≈õci przeznaczony dla s≈Çu≈ºby amatorskiej w pa≈õmie 12 m to:
+X010
+Zakres czÍstotliwoúci przeznaczony dla s≥uøby amatorskiej w paúmie 12 m to:
 24690 kHz - 24990 kHz
 24890 kHz - 24990 kHz
 24680 kHz - 24990 kHz
-

@@ -1,6 +1,6 @@
-X001
-Przez jaki okres czasu moÅ¼e posiadacz miÄ™dzynarodowego pozwolenia amatorskiego zgodnego z zaleceniem CEPT T/R 61-01 pracowaÄ‡ z terytorium innego kraju uznajÄ…cego to zalecenie, bez koniecznoÅ›ci uzyskiwania pozwolenia od miejscowej administracji Å‚Ä…cznoÅ›ci ?
-1 miesiÄ…c
-3 miesiÄ…ce
+X010
+Przez jaki okres czasu mo¿e posiadacz miêdzynarodowego pozwolenia amatorskiego zgodnego z zaleceniem CEPT T/R 61-01 pracowaæ z terytorium innego kraju uznaj¹cego to zalecenie, bez koniecznoœci uzyskiwania pozwolenia od miejscowej administracji ³¹cznoœci ?
+1 miesi¹c
+3 miesi¹ce
 1 rok
 

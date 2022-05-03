@@ -1,6 +1,5 @@
 X001
-Zakres czƒôstotliwo≈õci przeznaczony dla s≈Çu≈ºby amatorskiej w pa≈õmie 80 m to:
+Zakres czÍstotliwoúci przeznaczony dla s≥uøby amatorskiej w paúmie 80 m to:
 3550 kHz - 3750 kHz
 3500 kHz - 3750 kHz
 3500 kHz - 3800 kHz
-

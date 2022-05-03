@@ -1,6 +1,5 @@
-X001
-Co to jest raport R S T stosowany podczas ≈ÇƒÖczno≈õci telegraficznych ?
+X010
+Co to jest raport R S T stosowany podczas ≥πcznoúci telegraficznych ?
 informacja o stanie technicznym radiostacji
-informacja o jako≈õci odbieranego sygna≈Çu radiowego ? czytelno≈õci, si≈Çy i tonu akustycznego sygna≈Çu
+informacja o jakoúci odbieranego sygna≥u radiowego ? czytelnoúci, si≥y i tonu akustycznego sygna≥u
 informacja o stanie pogody
-

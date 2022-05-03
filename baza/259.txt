@@ -1,6 +1,5 @@
-X001
-Co oznaczajÄ… skrÃ³ty slangu radioamatorskiego: SWR; RX ?
+X010
+Co oznaczaj¹ skróty slangu radioamatorskiego: SWR; RX ?
 pasmo w metrach; antena pionowa
-wspÃ³Å‚czynnik fali stojÄ…cej; odbiornik
-nasÅ‚uchowiec; klucz elektroniczny
-
+wspó³czynnik fali stoj¹cej; odbiornik
+nas³uchowiec; klucz elektroniczny

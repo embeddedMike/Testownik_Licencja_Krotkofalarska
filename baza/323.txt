@@ -1,6 +1,6 @@
-X001
-Na jaki okres czasu wydawane sÄ… indywidualne pozwolenia amatorskie kategorii 1 i 3 ?
+X100
+Na jaki okres czasu wydawane s¹ indywidualne pozwolenia amatorskie kategorii 1 i 3 ?
 10 lat
 15 lat
-doÅ¼ywotnio
+do¿ywotnio
 

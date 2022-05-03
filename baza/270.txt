@@ -1,6 +1,5 @@
-X001
-Co oznacza w ≈ÇƒÖczno≈õci fonicznej raport 59 ?
-dobrze czytelny, bardzo silny sygna≈Ç
-czytelny, silny sygna≈Ç
-s≈Çaby, czytelny z trudno≈õciami sygna≈Ç
-
+X100
+Co oznacza w ≥πcznoúci fonicznej raport 59 ?
+dobrze czytelny, bardzo silny sygna≥
+czytelny, silny sygna≥
+s≥aby, czytelny z trudnoúciami sygna≥

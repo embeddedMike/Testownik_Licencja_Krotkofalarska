@@ -1,6 +1,5 @@
-X001
-Regulamin Radiokomunikacyjny ITU dzieli Å›wiat na trzy regiony. W ktÃ³rym regionie radiokomunikacyjnym znajduje siÄ™ Polska ?
+X010
+Regulamin Radiokomunikacyjny ITU dzieli œwiat na trzy regiony. W którym regionie radiokomunikacyjnym znajduje siê Polska ?
 w trzecim
 w pierwszym
 w drugim
-

@@ -1,6 +1,5 @@
-X001
-Co oznacza w ≈ÇƒÖczno≈õci fonicznej raport 43 ?
-dobrze czytelny, bardzo silny sygna≈Ç
-czytelny, s≈Çaby sygna≈Ç
-czytelny z trudno≈õciami, s≈Çaby sygna≈Ç
-
+X010
+Co oznacza w ≥πcznoúci fonicznej raport 43 ?
+dobrze czytelny, bardzo silny sygna≥
+czytelny, s≥aby sygna≥
+czytelny z trudnoúciami, s≥aby sygna≥

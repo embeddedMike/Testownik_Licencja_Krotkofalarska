@@ -1,6 +1,5 @@
 X001
-Czy stosowane w Krajowej Tablicy PrzeznaczeÅ„ CzÄ™stotliwoÅ›ci okreÅ›lenie sÅ‚uÅ¼ba pierwszej waÅ¼noÅ›ci oznacza, Å¼e:
-sÅ‚uÅ¼ba taka jest chroniona przed szkodliwymi zakÅ‚Ã³ceniami ze strony sÅ‚uÅ¼b drugiej waÅ¼noÅ›ci
-sÅ‚uÅ¼ba taka moÅ¼e Å¼Ä…daÄ‡ ochrony przed szkodliwymi zakÅ‚Ã³ceniami ze strony stacji tej samej lub innych sÅ‚uÅ¼b, ktÃ³rym czÄ™stotliwoÅ›ci mogÄ… zostaÄ‡ przydzielone w pÃ³Åºniejszym terminie
-sÅ‚uÅ¼ba taka moÅ¼e Å¼Ä…daÄ‡ ochrony przed szkodliwymi zakÅ‚Ã³ceniami ze strony stacji tej samej lub innych sÅ‚uÅ¼b, ktÃ³rym czÄ™stotliwoÅ›ci mogÄ… zostaÄ‡ przydzielone w pÃ³Åºniejszym terminie, sÅ‚uÅ¼ba taka nie moÅ¼e powodowaÄ‡ szkodliwych zakÅ‚Ã³ceÅ„ w pracy stacji sÅ‚uÅ¼b pierwszej waÅ¼noÅ›ci, ktÃ³rym przydzielono czÄ™stotliwoÅ›ci lub mogÄ… byÄ‡ przydzielone w pÃ³Åºniejszym terminie
-
+Czy stosowane w Krajowej Tablicy Przeznaczeñ Czêstotliwoœci okreœlenie s³u¿ba pierwszej wa¿noœci oznacza, ¿e:
+s³u¿ba taka jest chroniona przed szkodliwymi zak³óceniami ze strony s³u¿b drugiej wa¿noœci
+s³u¿ba taka mo¿e ¿¹daæ ochrony przed szkodliwymi zak³óceniami ze strony stacji tej samej lub innych s³u¿b, którym czêstotliwoœci mog¹ zostaæ przydzielone w póŸniejszym terminie
+s³u¿ba taka mo¿e ¿¹daæ ochrony przed szkodliwymi zak³óceniami ze strony stacji tej samej lub innych s³u¿b, którym czêstotliwoœci mog¹ zostaæ przydzielone w póŸniejszym terminie, s³u¿ba taka nie mo¿e powodowaæ szkodliwych zak³óceñ w pracy stacji s³u¿b pierwszej wa¿noœci, którym przydzielono czêstotliwoœci lub mog¹ byæ przydzielone w póŸniejszym terminie

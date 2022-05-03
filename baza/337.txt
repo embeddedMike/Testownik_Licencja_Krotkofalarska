@@ -1,5 +1,5 @@
-X001
-Jak czÄ™sto operator radiostacji amatorskiej powinien podawaÄ‡ podczas Å‚Ä…cznoÅ›ci znak wywoÅ‚awczy swej stacji ?
-co pÃ³Å‚ godziny
-tak czÄ™sto, jak jest to w praktyce moÅ¼liwe, przynajmniej na poczÄ…tku i na kocu kaÅ¼dego nadawania
-nie musi podawaÄ‡ znaku wywoÅ‚awczego
+X010
+Jak czêsto operator radiostacji amatorskiej powinien podawaæ podczas ³¹cznoœci znak wywo³awczy swej stacji ?
+co pó³ godziny
+tak czêsto, jak jest to w praktyce mo¿liwe, przynajmniej na pocz¹tku i na kocu ka¿dego nadawania
+nie musi podawaæ znaku wywo³awczego

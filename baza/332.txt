@@ -1,6 +1,5 @@
 X001
-Jakimi rodzajami emisji radiowych wolno pracowaÄ‡ operatorowi w sÅ‚uÅ¼bie amatorskiej w zakresie czÄ™stotliwoÅ›ci 50-52 MHz ?
-wyÅ‚Ä…cznie emisjÄ… A1A (telegrafia)
-wyÅ‚Ä…cznie emisjÄ… F3E (telefonia z modulacjÄ… czÄ™stotliwoÅ›ci)
-wszystkimi rodzajami emisji z wyjÄ…tkiem F3E
-
+Jakimi rodzajami emisji radiowych wolno pracowaæ operatorowi w s³u¿bie amatorskiej w zakresie czêstotliwoœci 50-52 MHz ?
+wy³¹cznie emisj¹ A1A (telegrafia)
+wy³¹cznie emisj¹ F3E (telefonia z modulacj¹ czêstotliwoœci)
+wszystkimi rodzajami emisji z wyj¹tkiem F3E

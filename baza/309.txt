@@ -1,6 +1,5 @@
-X001
-Czy przepisy MiÄ™dzynarodowego ZwiÄ…zku Telekomunikacyjnego (ITU) i Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) wprowadzajÄ… obowiÄ…zkowy wymÃ³g umiejÄ™tnoÅ›ci odbioru i nadawania znakÃ³w w kodzie Morse-a przy egzaminie na Å›wiadectwo radiooperatora w sÅ‚uÅ¼bie amatorskiej ?
-wprowadzajÄ… wymÃ³g jako obowiÄ…zkowy
-pozostawiaj powyÅ¼szy wymÃ³g do decyzji krajowych administracji Å‚Ä…cznoÅ›ci
-znoszÄ… caÅ‚kowicie powyÅ¼szy wymÃ³g
-
+X010
+Czy przepisy Miêdzynarodowego Zwi¹zku Telekomunikacyjnego (ITU) i Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) wprowadzaj¹ obowi¹zkowy wymóg umiejêtnoœci odbioru i nadawania znaków w kodzie Morse-a przy egzaminie na œwiadectwo radiooperatora w s³u¿bie amatorskiej ?
+wprowadzaj¹ wymóg jako obowi¹zkowy
+pozostawiaj powy¿szy wymóg do decyzji krajowych administracji ³¹cznoœci
+znosz¹ ca³kowicie powy¿szy wymóg

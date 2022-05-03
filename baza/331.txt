@@ -1,6 +1,5 @@
-X001
-Jaki jest minimalny wiek, w ktÃ³rym moÅ¼na przystÄ…piÄ‡ do egzaminu i uzyskaÄ‡ Å›wiadectwo operatora urzÄ…dzeÅ„ radiowych w sÅ‚uÅ¼bie amatorskiej oraz uzyskaÄ‡ pozwolenie dla sÅ‚uÅ¼by radiokomunikacyjnej amatorskiej ?
-10 lat dla uzyskania Å›wiadectwa klasy C oraz 15 lat dla uzyskania Å›wiadectwa klasy A
-15 lat dla uzyskania Å›wiadectwa klasy A i C
-nie okreÅ›lono minimalnego wieku
-
+X100
+Jaki jest minimalny wiek, w którym mo¿na przyst¹piæ do egzaminu i uzyskaæ œwiadectwo operatora urz¹dzeñ radiowych w s³u¿bie amatorskiej oraz uzyskaæ pozwolenie dla s³u¿by radiokomunikacyjnej amatorskiej ?
+10 lat dla uzyskania œwiadectwa klasy C oraz 15 lat dla uzyskania œwiadectwa klasy A
+15 lat dla uzyskania œwiadectwa klasy A i C
+nie okreœlono minimalnego wieku

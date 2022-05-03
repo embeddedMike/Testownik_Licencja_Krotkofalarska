@@ -1,6 +1,5 @@
 X001
-Jakimi rodzajami emisji radiowych i z jakÄ… mocÄ… wolno pracowaÄ‡ operatorowi w sÅ‚uÅ¼bie amatorskiej w zakresie czÄ™stotliwoÅ›ci 135,7-137,8 kHz ?
-wyÅ‚Ä…cznie emisjÄ… A1A (telegrafia) z mocÄ… wyjÅ›ciowÄ… 150 watÃ³w
-wszystkimi rodzajami emisji z mocÄ… wyjÅ›ciowÄ… 250 watÃ³w
-wyÅ‚Ä…cznie emisjÄ… A1A (telegrafia) z mocÄ… 1 wat e.i.r.p. (rÃ³wnowaÅ¼na moc promieniowana izotropowo)
-
+Jakimi rodzajami emisji radiowych i z jak¹ moc¹ wolno pracowaæ operatorowi w s³u¿bie amatorskiej w zakresie czêstotliwoœci 135,7-137,8 kHz ?
+wy³¹cznie emisj¹ A1A (telegrafia) z moc¹ wyjœciow¹ 150 watów
+wszystkimi rodzajami emisji z moc¹ wyjœciow¹ 250 watów
+wy³¹cznie emisj¹ A1A (telegrafia) z moc¹ 1 wat e.i.r.p. (równowa¿na moc promieniowana izotropowo)

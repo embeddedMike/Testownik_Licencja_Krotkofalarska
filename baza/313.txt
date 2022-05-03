@@ -1,6 +1,5 @@
-X001
-W ktÃ³rym roku i w jakim miejscu powstaÅ‚ MiÄ™dzynarodowy ZwiÄ…zek RadioamatorÃ³w (IARU) ?
+X010
+W którym roku i w jakim miejscu powsta³ Miêdzynarodowy Zwi¹zek Radioamatorów (IARU) ?
 w roku 1930 w Genewie
-w roku 1925 w ParyÅ¼u
+w roku 1925 w Pary¿u
 w roku 1910 w Berlinie
-

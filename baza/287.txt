@@ -1,6 +1,5 @@
-X001
-Zakres czƒôstotliwo≈õci przeznaczony dla s≈Çu≈ºby amatorskiej w pa≈õmie 6 m to:
+X010
+Zakres czÍstotliwoúci przeznaczony dla s≥uøby amatorskiej w paúmie 6 m to:
 50 MHz - 54 MHz
 50 MHz - 52 MHz
 50 MHz - 53,5 MHz
-

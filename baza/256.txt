@@ -1,6 +1,5 @@
-X001
-Co oznaczajÄ… skrÃ³ty slangu radioamatorskiego: BEST; DX ?
-daleki; niezÅ‚y
-najlepszy; daleka Å‚Ä…cznoÅ›Ä‡
+X010
+Co oznaczaj¹ skróty slangu radioamatorskiego: BEST; DX ?
+daleki; niez³y
+najlepszy; daleka ³¹cznoœæ
 dobry; szybki
-

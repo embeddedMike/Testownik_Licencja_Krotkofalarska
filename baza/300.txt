@@ -1,6 +1,5 @@
 X001
-Czy Regulamin Radiokomunikacyjny ITU przewiduje wykorzystanie stacji amatorskich w akcjach humanitarnych, niesienia pomocy w przypadkach katastrof, klÄ™sk Å¼ywioÅ‚owych i innych zagroÅ¼eÅ„ ?
+Czy Regulamin Radiokomunikacyjny ITU przewiduje wykorzystanie stacji amatorskich w akcjach humanitarnych, niesienia pomocy w przypadkach katastrof, klêsk ¿ywio³owych i innych zagro¿eñ ?
 nie zezwala na takie wykorzystanie stacji amatorskich
-niezbÄ™dny jest specjalny wpis do pozwolenia radioamatorskiego
-usilnie zaleca siÄ™ wykorzystywanie stacji amatorskich w powyÅ¼szych przypadkach
-
+niezbêdny jest specjalny wpis do pozwolenia radioamatorskiego
+usilnie zaleca siê wykorzystywanie stacji amatorskich w powy¿szych przypadkach

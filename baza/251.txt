@@ -1,6 +1,5 @@
-X001
-KtÃ³ry z poniÅ¼szych kodÃ³w Q oznacza: Mam dla ciebie telegram, wiadomoÅ›Ä‡ ?
+X010
+Który z poni¿szych kodów Q oznacza: Mam dla ciebie telegram, wiadomoœæ ?
 QRT
 QTC
 QSV
-

@@ -1,6 +1,5 @@
 X001
-Co to jest raport R S stosowany podczas ≈ÇƒÖczno≈õci fonicznych ?
+Co to jest raport R S stosowany podczas ≥πcznoúci fonicznych ?
 informacja o stanie technicznym radiostacji
 informacja o stanie pogody przekazana w postaci zakodowanej
-informacja o jako≈õci odbieranego sygna≈Çu radiowego - czytelno≈õci i si≈Ç sygna≈Çu wyra≈ºana w postaci cyfr
-
+informacja o jakoúci odbieranego sygna≥u radiowego - czytelnoúci i si≥ sygna≥u wyraøana w postaci cyfr

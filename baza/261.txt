@@ -1,6 +1,5 @@
-X001
-KtÃ³re z poniÅ¼szych skrÃ³tÃ³w slangu radioamatorskiego oznaczajÄ…: Panna, mÅ‚oda pani; czas uniwersalny ?
+X100
+Które z poni¿szych skrótów slangu radioamatorskiego oznaczaj¹: Panna, m³oda pani; czas uniwersalny ?
 YL; UTC
 XYL; UT
 LY; TRO
-

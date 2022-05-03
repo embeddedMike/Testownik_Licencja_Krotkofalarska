@@ -1,6 +1,5 @@
-X001
-Co oznaczajÄ… skrÃ³ty slangu radioamatorskiego: OK; NAME ?
+X010
+Co oznaczaj¹ skróty slangu radioamatorskiego: OK; NAME ?
 stary, nie przeszkadzaj; moje nazwisko jest
-wszystko w porzÄ…dku; imiÄ™
-przestrajam siÄ™; podaj adres
-
+wszystko w porz¹dku; imiê
+przestrajam siê; podaj adres

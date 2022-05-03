@@ -1,6 +1,5 @@
-X001
-W jakim dokumencie okreÅ›lone sÄ… zakresy czÄ™stotliwoÅ›ci przeznaczone w Polsce dla sÅ‚uÅ¼by amatorskiej i sÅ‚uÅ¼by amatorskiej satelitarnej ?
+X010
+W jakim dokumencie okreœlone s¹ zakresy czêstotliwoœci przeznaczone w Polsce dla s³u¿by amatorskiej i s³u¿by amatorskiej satelitarnej ?
 w ustawie Prawo telekomunikacyjne
-w rozporzÄ…dzeniu Rady MinistrÃ³w w sprawie Krajowej Tablicy PrzeznaczeÅ„ CzÄ™stotliwoÅ›ci
-w decyzjach Prezesa UrzÄ™du Komunikacji Elektronicznej
-
+w rozporz¹dzeniu Rady Ministrów w sprawie Krajowej Tablicy Przeznaczeñ Czêstotliwoœci
+w decyzjach Prezesa Urzêdu Komunikacji Elektronicznej

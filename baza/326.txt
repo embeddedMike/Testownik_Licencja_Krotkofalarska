@@ -1,6 +1,5 @@
-X001
-Jaka jest maksymalna moc wyj≈õciowa radiostacji amatorskiej w przypadku pozwolenia kategorii 3 ?
-15 wat√≥w
-100 wat√≥w
-150 wat√≥w
-
+X010
+Jaka jest maksymalna moc wyjúciowa radiostacji amatorskiej w przypadku pozwolenia kategorii 3 ?
+15 watÛw
+100 watÛw
+150 watÛw

@@ -1,6 +1,5 @@
-X001
-Jaki jest odstÄ™p miÄ™dzy czÄ™stotliwoÅ›ciÄ… nadawczÄ… a odbiorczÄ… przemiennikÃ³w pracujÄ…cych w paÅ›mie 2 m?
+X100
+Jaki jest odstêp miêdzy czêstotliwoœci¹ nadawcz¹ a odbiorcz¹ przemienników pracuj¹cych w paœmie 2 m?
 600 kHz
 650 kHz
 800 kHz
-

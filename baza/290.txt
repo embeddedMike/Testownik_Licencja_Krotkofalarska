@@ -1,6 +1,5 @@
 X001
-Czy dopuszcza siÄ™ w band planie IARU moÅ¼liwoÅ›Ä‡ pracy emisjÄ… jednowstÄ™gowÄ… (SSB) w zakresie czÄ™stotliwoÅ›ci 10100 kHz ? 10150 kHz (pasmo 30 m) ?
-nie ma Å¼adnych ograniczeÅ„ co do stosowanych emisji
-jest caÅ‚kowity zakaz uÅ¼ywania emisji jednowstÄ™gowej w tym zakresie
-dopuszcza siÄ™ uÅ¼ycie SSB w sytuacjach bezpoÅ›redniego zagroÅ¼enia dla bezpieczeÅ„stwa Å¼ycia i mienia i wyÅ‚Ä…cznie przez stacje uczestniczÄ…ce w akcji ratunkowej
-
+Czy dopuszcza siê w band planie IARU mo¿liwoœæ pracy emisj¹ jednowstêgow¹ (SSB) w zakresie czêstotliwoœci 10100 kHz ? 10150 kHz (pasmo 30 m) ?
+nie ma ¿adnych ograniczeñ co do stosowanych emisji
+jest ca³kowity zakaz u¿ywania emisji jednowstêgowej w tym zakresie
+dopuszcza siê u¿ycie SSB w sytuacjach bezpoœredniego zagro¿enia dla bezpieczeñstwa ¿ycia i mienia i wy³¹cznie przez stacje uczestnicz¹ce w akcji ratunkowej

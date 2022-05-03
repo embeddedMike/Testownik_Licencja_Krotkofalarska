@@ -1,6 +1,5 @@
-X001
-Co oznaczajÄ… skrÃ³ty slangu radioamatorskiego: PSE; RPT ?
-proszÄ™; powtÃ³rzyÄ‡, powtÃ³rzÄ™, powtarzam
-proszÄ™; zmieniam pasmo o 10 kHz
-przechodzÄ™ na inny kanaÅ‚; raport podam na koniec Å‚Ä…cznoÅ›ci
-
+X100
+Co oznaczaj¹ skróty slangu radioamatorskiego: PSE; RPT ?
+proszê; powtórzyæ, powtórzê, powtarzam
+proszê; zmieniam pasmo o 10 kHz
+przechodzê na inny kana³; raport podam na koniec ³¹cznoœci

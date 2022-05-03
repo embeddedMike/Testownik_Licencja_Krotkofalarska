@@ -1,6 +1,5 @@
 X001
-Co oznaczajÄ… w raporcie o sÅ‚yszalnoÅ›ci i jakoÅ›ci sygnaÅ‚Ã³w korespondenta litery R S
-R - jakoÅ›Ä‡ sygnaÅ‚u, S- sÅ‚yszalnoÅ›Ä‡
-R - stabilnoÅ›Ä‡ sygnaÅ‚u, S- siÅ‚a sygnaÅ‚u
-R - czytelnoÅ›Ä‡, S - siÅ‚a sygnaÅ‚u
-
+Co oznaczaj¹ w raporcie o s³yszalnoœci i jakoœci sygna³ów korespondenta litery R S
+R - jakoœæ sygna³u, S- s³yszalnoœæ
+R - stabilnoœæ sygna³u, S- si³a sygna³u
+R - czytelnoœæ, S - si³a sygna³u

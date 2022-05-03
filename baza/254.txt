@@ -1,6 +1,5 @@
-X001
-Co oznaczajÄ… skrÃ³ty slangu radioamatorskiego: BAND; CFM ?
+X100
+Co oznaczaj¹ skróty slangu radioamatorskiego: BAND; CFM ?
 pasmo; potwierdzam
 zakres; godzina
-raport; popoÅ‚udnie
-
+raport; popo³udnie

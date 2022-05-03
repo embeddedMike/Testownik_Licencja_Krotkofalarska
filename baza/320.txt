@@ -1,6 +1,5 @@
-X001
-Jaki dokument okreÅ›la kategorie pozwoleÅ„ w sÅ‚uÅ¼bie amatorskiej i dozwolone moce wyjÅ›ciowe radiostacji amatorskiej ?
+X010
+Jaki dokument okreœla kategorie pozwoleñ w s³u¿bie amatorskiej i dozwolone moce wyjœciowe radiostacji amatorskiej ?
 ustawa Prawo telekomunikacyjne
-rozporzÄ…dzenie ministra wÅ‚aÅ›ciwego do spraw Å‚Ä…cznoÅ›ci
-zarzÄ…dzenie Prezesa UrzÄ™du Komunikacji Elektronicznej
-
+rozporz¹dzenie ministra w³aœciwego do spraw ³¹cznoœci
+zarz¹dzenie Prezesa Urzêdu Komunikacji Elektronicznej

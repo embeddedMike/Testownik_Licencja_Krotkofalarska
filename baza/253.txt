@@ -1,6 +1,5 @@
-X001
-KtÃ³ry z poniÅ¼szych kodÃ³w Q oznacza: Potwierdzam odbiÃ³r, przyÅ›lÄ™ kartÄ™ potwierdzajÄ…cÄ… Å‚Ä…cznoÅ›Ä‡ ?
+X100
+Który z poni¿szych kodów Q oznacza: Potwierdzam odbiór, przyœlê kartê potwierdzaj¹c¹ ³¹cznoœæ ?
 QSL
 QSA
 QRT
-

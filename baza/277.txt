@@ -1,6 +1,5 @@
-X001
-KtÃ³re prefiksy znakÃ³w wywoÅ‚awczych przeznaczone sÄ… dla Polski ?
+X100
+Które prefiksy znaków wywo³awczych przeznaczone s¹ dla Polski ?
 HF, SN, SO, SP, SQ, SR, 3Z
 HF, SN, SO, SP, SQ, 3Z, 3X
 HA, SM, SO, SP, SQ, SR, 3Z
-

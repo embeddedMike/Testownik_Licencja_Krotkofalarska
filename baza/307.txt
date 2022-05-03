@@ -1,6 +1,5 @@
-X001
-Jakie dokumenty Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) regulujÄ… sprawy miÄ™dzynarodowego uznawania pozwoleÅ„ i miÄ™dzynarodowych wymagaÅ„ egzaminacyjnych w sÅ‚uÅ¼bie amatorskiej ?
-UchwaÅ‚y Komitetu Komunikacji Elektronicznej CEPT
+X010
+Jakie dokumenty Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) reguluj¹ sprawy miêdzynarodowego uznawania pozwoleñ i miêdzynarodowych wymagañ egzaminacyjnych w s³u¿bie amatorskiej ?
+Uchwa³y Komitetu Komunikacji Elektronicznej CEPT
 Zalecenia CEPT T/R 61-01 i T/R 61-02
 Zalecenia CEPT T/R 22-01 i T/R 22-02
-

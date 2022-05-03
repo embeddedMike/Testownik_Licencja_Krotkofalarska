@@ -1,6 +1,5 @@
-X001
-Co oznaczajƒÖ skr√≥ty slangu radioamatorskiego: BK; CALL ?
-p√≥≈∫niej; kalibrator
-przerwa; znak wywo≈Çawczy
-stop; odebra≈Çem wszystko
-
+X010
+Co oznaczajπ skrÛty slangu radioamatorskiego: BK; CALL ?
+pÛüniej; kalibrator
+przerwa; znak wywo≥awczy
+stop; odebra≥em wszystko

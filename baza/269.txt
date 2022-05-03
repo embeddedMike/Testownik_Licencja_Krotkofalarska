@@ -1,6 +1,5 @@
-X001
-Jaka jest skala czytelno≈õci i skala si≈Çy sygna≈Çu w raporcie R S ?
-skala czytelno≈õci 1-5 i skala si≈Çy sygna≈Çu 1-9
-skala czytelno≈õci 1-9 i skala si≈Çy sygna≈Çu 1-5
-skala czytelno≈õci 0-5 i skala si≈Çy sygna≈Çu 0-9
-
+X100
+Jaka jest skala czytelnoúci i skala si≥y sygna≥u w raporcie R S ?
+skala czytelnoúci 1-5 i skala si≥y sygna≥u 1-9
+skala czytelnoúci 1-9 i skala si≥y sygna≥u 1-5
+skala czytelnoúci 0-5 i skala si≥y sygna≥u 0-9

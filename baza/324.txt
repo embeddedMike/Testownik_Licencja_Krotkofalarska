@@ -1,6 +1,5 @@
-X001
-Na jaki okres czasu wydawane sÄ… pozwolenia amatorskie kategorii 5 ?
+X100
+Na jaki okres czasu wydawane s¹ pozwolenia amatorskie kategorii 5 ?
 5 lat
 10 lat
 15 lat
-

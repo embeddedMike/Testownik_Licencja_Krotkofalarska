@@ -1,6 +1,5 @@
-X001
-Zakres czƒôstotliwo≈õci przeznaczony dla s≈Çu≈ºby amatorskiej w pa≈õmie 17 m to:
+X010
+Zakres czÍstotliwoúci przeznaczony dla s≥uøby amatorskiej w paúmie 17 m to:
 18050 kHz - 18250 kHz
 18068 kHz - 18168 kHz
 18000 kHz - 18168 kHz
-

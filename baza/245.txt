@@ -1,6 +1,5 @@
-X001
-KtÃ³ry z poniÅ¼szych kodÃ³w Q oznacza: PrzejdÅº na czÄ™stotliwoÅ›Ä‡, zmieÅ„ czÄ™stotliwoÅ›Ä‡ ?
+X100
+Który z poni¿szych kodów Q oznacza: PrzejdŸ na czêstotliwoœæ, zmieñ czêstotliwoœæ ?
 QSY
 QTR
 QSA
-

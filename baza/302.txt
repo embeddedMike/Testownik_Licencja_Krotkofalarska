@@ -1,6 +1,5 @@
-X001
-Czy postanowienia Regulaminu Radiokomunikacyjnego ITU dotyczÄ…ce sÅ‚uÅ¼by amatorskiej obowiÄ…zuj rÃ³wnieÅ¼ w sÅ‚uÅ¼bie amatorskiej satelitarnej ?
-tak, obowiÄ…zujÄ…
-nie, obowiÄ…zujÄ… odrÄ™bne przepisy
-nie obowiÄ…zujÄ… Å¼adne przepisy
-
+X100
+Czy postanowienia Regulaminu Radiokomunikacyjnego ITU dotycz¹ce s³u¿by amatorskiej obowi¹zuj równie¿ w s³u¿bie amatorskiej satelitarnej ?
+tak, obowi¹zuj¹
+nie, obowi¹zuj¹ odrêbne przepisy
+nie obowi¹zuj¹ ¿adne przepisy

@@ -1,6 +1,5 @@
-X001
+X010
 Co oznacza wg kodu Q symbol QRZ ?
-zmieÅ„ czÄ™stotliwoÅ›Ä‡ na zapasowÄ…
-kto mnie woÅ‚a
-jestem zajÄ™ty, proszÄ™ nie przeszkadzaÄ‡
-
+zmieñ czêstotliwoœæ na zapasow¹
+kto mnie wo³a
+jestem zajêty, proszê nie przeszkadzaæ

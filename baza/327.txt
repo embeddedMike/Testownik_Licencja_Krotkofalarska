@@ -1,6 +1,5 @@
-X001
-Jaka jest moc maksymalna wyj艣ciowa radiostacji amatorskiej w przypadku pozwolenia kategorii 5 ?
-50 wat贸w dla nadajnika poni偶ej 30MHz a 15 wat贸w dla nadajnika powy偶ej 30MHz
-50 wat贸w
-150 wat贸w
-
+X100
+Jaka jest moc maksymalna wyj渃iowa radiostacji amatorskiej w przypadku pozwolenia kategorii 5 ?
+50 wat體 dla nadajnika poni縠j 30MHz a 15 wat體 dla nadajnika powy縠j 30MHz
+50 wat體
+150 wat體
