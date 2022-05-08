@@ -1,0 +1,5 @@
+X001
+159. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 8 to:
+wzmacniacz akustyczny
+wzmacniacz w.cz.
+detektor AM, CW, SSB

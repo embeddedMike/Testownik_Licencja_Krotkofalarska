@@ -1,0 +1,5 @@
+X100
+156. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 5 to:
+II heterodyna sta³a
+wzmacniacz akustyczny
+detektor AM CW SSB

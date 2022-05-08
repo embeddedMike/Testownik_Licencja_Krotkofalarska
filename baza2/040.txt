@@ -1,0 +1,6 @@
+X010
+Jak nazywa siê przyrz¹d do mierzenia fali stoj¹cej w kablu koncentrycznym ?
+rezystomierz
+reflektometr
+refraktometr
+

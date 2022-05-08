@@ -1,0 +1,5 @@
+X100
+Jak w warunkach amatorskich zmierzyæ moc wyjœciow¹ nadajnika ?
+poprzez pomiar napiêcia skutecznego na oporze sztucznej anteny 50 om i obliczenie
+poprzez pomiar pr¹du i napiêcia sta³ego doprowadzonego do stopnia mocy (PA)
+poprzez uzyskanie raportu od korespondenta

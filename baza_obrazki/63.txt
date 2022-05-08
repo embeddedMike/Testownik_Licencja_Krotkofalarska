@@ -1,0 +1,5 @@
+X010
+63. Na rysunku przedstawiona jest antena typu Yagi. Element 4 to:
+I direktor
+II direktor
+radiator

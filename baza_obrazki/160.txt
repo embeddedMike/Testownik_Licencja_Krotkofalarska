@@ -1,0 +1,5 @@
+X010
+160. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 10 to:
+wzmacniacz akustyczny
+BFO
+detektor AM, CW, SSB

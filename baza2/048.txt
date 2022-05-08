@@ -1,0 +1,5 @@
+X010
+Jak nazywa siê przyrz¹d do pomiaru napiêcia ?
+omomierz
+woltomierz
+amperomierz

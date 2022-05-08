@@ -1,0 +1,6 @@
+X001
+Kalkulator zawiera jeden uk³ad scalony, wyœwietlacz i klawiaturê. Do jakiej grupy zaliczymy uk³ad scalony ?
+ma³ej skali integracji
+œredniej skali integracji
+wielkiej skali integracji
+

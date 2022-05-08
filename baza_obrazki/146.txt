@@ -1,0 +1,5 @@
+X001
+146. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 6 to:
+komparator
+dzielnik nastawny
+wzmacniacz b³êdu

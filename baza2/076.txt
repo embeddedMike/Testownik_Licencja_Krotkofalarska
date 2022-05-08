@@ -1,0 +1,5 @@
+X001
+Dlaczego rdzenie transformatorów wykonywane s¹ z blaszek a nie z litego materia³u ?
+ze wzglêdu na lepsze ch³odzenie
+ze wzglêdu na ³atwiejsze wykonanie
+ze wzglêdu na mniejsze straty przy pr¹dach wirowych

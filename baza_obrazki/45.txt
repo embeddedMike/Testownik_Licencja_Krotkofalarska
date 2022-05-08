@@ -1,0 +1,5 @@
+X100
+45. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedyncz¹ przemian¹. Blok 1 to:
+filtr wejœciowy
+wzmacniacz akustyczny
+detektor AM

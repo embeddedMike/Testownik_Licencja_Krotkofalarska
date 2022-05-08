@@ -1,0 +1,5 @@
+X010
+Mamy dwa kondensatory o pojemnoœci jeden 4,7 nF a drugi 300 pF. Jak nale¿y je po³¹czyæ by uzyskaæ pojemnoœæ 5000 pF ?
+szeregowo
+równolegle
+nie da siê z nich z³o¿yæ 5000 pF

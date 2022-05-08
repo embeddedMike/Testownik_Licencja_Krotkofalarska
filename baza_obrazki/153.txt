@@ -1,0 +1,5 @@
+X010
+153. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 2 to:
+wzmacniacz akustyczny
+I mieszacz
+filtr prze³¹czany II p.cz.

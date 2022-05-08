@@ -1,0 +1,6 @@
+X100
+Dlaczego kable koncentryczne nadawcze wykonywane s¹ z opornoœci¹ falow¹ 50 om ?
+bo jest ona zbli¿ona do opornoœci dipola pó³falowego
+bo naj³atwiej takie wykonaæ
+bo wymagaj¹ do wykonania najmniejszej iloœci materia³u
+

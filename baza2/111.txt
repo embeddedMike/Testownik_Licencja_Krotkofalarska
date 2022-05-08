@@ -1,0 +1,5 @@
+X010
+Warunkiem wzbudzenia siê generatora z obwodem rezonansowym jest:
+zastosowanie obwodu rezonansu szeregowego
+spe³nienie warunku amplitudy i fazy
+zastosowanie ujemnego sprzê¿enia zwrotnego

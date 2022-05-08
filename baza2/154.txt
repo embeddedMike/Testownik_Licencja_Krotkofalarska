@@ -1,0 +1,5 @@
+X001
+Uruchomienie nieznanego urz¹dzenia rozpoczyna siê od:
+w³o¿enia wtyczki do kontaktu i prze³¹czenia prze³¹cznika
+pod³¹czenia anteny i uziemienia
+sprawdzenia, czy ustawione jest w³aœciwe napiêcie sieci oraz zainstalowany jest w³aœciwy bezpiecznik

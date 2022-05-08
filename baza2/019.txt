@@ -1,0 +1,6 @@
+X100
+Przy modulacji czêstotliwoœci FM szerokoœæ kana³u radiowego dla nadajników amatorskich UKF wynosi:
+12,5 kHz
+50 kHz
+200 kHz
+

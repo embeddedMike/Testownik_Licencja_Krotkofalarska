@@ -1,0 +1,5 @@
+X010
+43. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 4 to:
+dzielnik wzorca
+generator wzorca
+komparator

@@ -1,0 +1,5 @@
+X001
+152. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedyncz¹ przemian¹. Blok 6 to:
+filtr wejœciowy
+wzmacniacz akustyczny
+heterodyna

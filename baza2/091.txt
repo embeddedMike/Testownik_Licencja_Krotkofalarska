@@ -1,0 +1,6 @@
+X100
+Pr¹d zmienny p³yn¹cy przez kondensator C:
+wyprzedza napiêcie na kondensatorze o 90 stopni
+jest w fazie z napiêciem
+opóŸnia siê o 90 stopni wobec napiêcia
+

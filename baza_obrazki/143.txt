@@ -1,0 +1,5 @@
+X010
+143. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 2 to:
+komparator
+dzielnik nastawny
+generator wzorca

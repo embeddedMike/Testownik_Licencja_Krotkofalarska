@@ -1,0 +1,5 @@
+X100
+182. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem czêstotliwoœci. Blok 5 to:
+wzmacniacz steruj¹cy
+I powielacz x2
+oscylator (VFO)

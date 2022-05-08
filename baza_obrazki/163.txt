@@ -1,0 +1,5 @@
+X010
+163. Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 3 to:
+heterodyna
+wzmacniacz akustyczny
+filtr wejœciowy

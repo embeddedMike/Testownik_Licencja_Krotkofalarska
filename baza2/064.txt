@@ -1,0 +1,5 @@
+X001
+W obwodzie pr¹du sta³ego przez opornik 1000 om p³ynie pr¹d 2 mA. Jaki jest spadek napiêcia na oporze ?
+spadek wynosi 500 V
+spadek wynosi 2000 V
+spadek wynosi 2 V

@@ -1,0 +1,6 @@
+X010
+Jaka jest szerokoœæ kana³u radiowego przy emisji SSB ?
+9 kHz
+3,5 kHz
+1,5 kHz
+

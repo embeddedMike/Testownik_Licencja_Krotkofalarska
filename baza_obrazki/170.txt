@@ -1,0 +1,5 @@
+X010
+170. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójn¹ przemian¹ czêstotliwoœci, pracuj¹cego w kana³ach fonicznych, stabilizowany kwarcami. Blok 7 to:
+wzmacniacz II p. cz. 455kHz
+wzmacniacz akustyczny
+detektor FM

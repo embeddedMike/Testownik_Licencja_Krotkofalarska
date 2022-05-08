@@ -1,0 +1,5 @@
+X001
+Je¿eli nadajnik amatorski powoduje zak³ócenia, to jakie elementy sprawdzamy w pierwszej kolejnoœci ?
+zawieszenie anteny
+odbiornik
+liniowoœæ stopnia mocy (PA) i filtr wyjœciowy

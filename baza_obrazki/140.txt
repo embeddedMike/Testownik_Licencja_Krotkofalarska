@@ -1,0 +1,5 @@
+X100
+140. Na rysunku przedstawiono kilka uk³adów generatorów. S¹ one ponumerowane od 1 do 4. Wybierz pod któr¹ liter¹ znajduj¹ siê poprawne nazwy generatorów zgodne z kolejnoœci¹ ich narysowania.
+Meissner , Hartley, Colpitts, Clapp
+Colpits, Hartley, Clapp, Meisner
+Clapp, Colpitts, Hartley, Meissner

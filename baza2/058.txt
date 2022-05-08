@@ -1,0 +1,5 @@
+X001
+Je¿eli nadajnik promieniuje energiê w.cz. poprzez sieæ zasilaj¹c¹ to stosujemy:
+filtr w.cz. na wyjœciu antenowym nadajnika
+uziemiamy obudowê
+uziemiamy obudowê i w³¹czamy filtr sieciowy w zasilanie

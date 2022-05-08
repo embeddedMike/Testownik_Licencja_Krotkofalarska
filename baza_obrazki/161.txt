@@ -1,0 +1,5 @@
+X100
+161. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 11 to:
+I heterodyna strojona
+wzmacniacz akustyczny
+detektor AM

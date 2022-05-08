@@ -1,0 +1,6 @@
+X010
+Nadajnik UKF ma kwarc kana³owy 12 MHz. Ile razy musi byæ powielony by uzyskaæ 144 MHz ?
+16 razy
+12 razy
+18 razy
+

@@ -1,0 +1,5 @@
+X010
+53. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem czêstotliwoœci. Blok 1 to:
+wzmacniacz mocy (PA)
+oscylator (VFO)
+separator

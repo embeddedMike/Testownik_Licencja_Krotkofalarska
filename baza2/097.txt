@@ -1,0 +1,5 @@
+X100
+Dwie indukcyjnoœci nie sprzê¿one maj¹ 30 uH i 60 uH. Ile wynosi indukcyjnoœæ zastêpcza przy po³¹czeniu szeregowym tych indukcyjnoœci ?
+90 uH
+20 uH
+45 uH

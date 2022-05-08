@@ -1,0 +1,5 @@
+X010
+154. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 3 to:
+BFO
+wzmacniacz I poœredniej cz.
+heterodyna

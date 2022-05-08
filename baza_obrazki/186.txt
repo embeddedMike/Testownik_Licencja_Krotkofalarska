@@ -1,0 +1,5 @@
+X100
+186. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnic¹ 9 MHz. Blok 4 to:
+wzmacniacz steruj¹cy
+filtr wyjœciowy
+wzbudnica SSB 9 MHz

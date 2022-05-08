@@ -1,0 +1,5 @@
+X010
+Czy fider antenowy radiostacji nadawczej mo¿e byæ prowadzony razem z kablem anteny odbiorczej TV ?
+mo¿e, gdy moc nadajnika nie jest zbyt du¿a
+nie, kable powinny byæ maksymalnie oddalone
+odleg³oœæ miedzy kablami jest nieistotna

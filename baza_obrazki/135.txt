@@ -1,0 +1,5 @@
+X100
+135. Na rysunku przedstawiono schemat detektora diodowego. Jak¹ rolê spe³nia w nim kondensator C1?
+jest kondensatorem filtruj¹cym pr¹dy w.cz.
+poprawia odtwarzanie wysokich tonów
+chroni s³uchawki przed uszkodzeniem

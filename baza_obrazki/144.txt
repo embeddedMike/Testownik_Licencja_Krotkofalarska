@@ -1,0 +1,5 @@
+X010
+144. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 3 to:
+dzielnik nastawny
+komparator
+wzmacniacz b³êdu

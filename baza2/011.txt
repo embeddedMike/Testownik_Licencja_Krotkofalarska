@@ -1,0 +1,6 @@
+X100
+Jaki kierunek przyjmuje pole magnetyczne wokó³ przewodnika z pr¹dem ?
+jest prostopad³e do przewodu
+jest do niego równoleg³e
+jest ukoœne do przewodu
+

@@ -1,0 +1,5 @@
+X001
+54. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnic¹ 9 MHz. Blok 1 to:
+wzmacniacz mocy (PA)
+oscylator (VFO) 5 - 5.5 MHz
+wzbudnica SSB 9 MHz

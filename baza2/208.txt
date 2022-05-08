@@ -1,0 +1,5 @@
+X010
+Czy po uzyskaniu œwiadectwa operatora urz¹dzeñ radiowych mo¿na samodzielnie obs³ugiwaæ stacjê amatorsk¹ ?
+mo¿na, ale tylko pod nadzorem radioamatora posiadaj¹cego pozwolenie radiowe
+mo¿na, w okreœlonych przepisami zakresach czêstotliwoœci
+nie mo¿na, poniewa¿ do obs³ugi stacji amatorskiej upowa¿nia jedynie pozwolenie radiowe

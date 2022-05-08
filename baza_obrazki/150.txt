@@ -1,0 +1,5 @@
+X010
+150. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedyncz¹ przemian¹. Blok 3 to:
+filtr wejœciowy
+wzmacniacz poœredniej cz.
+heterodyna

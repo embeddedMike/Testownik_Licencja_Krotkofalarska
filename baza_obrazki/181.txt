@@ -1,0 +1,5 @@
+X001
+181. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem czêstotliwoœci. Blok 4 to:
+wzmacniacz steruj¹cy
+filtr wyjœciowy
+II powielacz x2

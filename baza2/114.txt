@@ -1,0 +1,5 @@
+X010
+Miar¹ selektywnoœci odbiornika jest szerokoœæ pasma odbieranego przez odbiornik. Przy jakim poziomie od poziomu maksymalnego mierzymy selektywnoœæ ?
+przy -10dB
+przy -6dB
+przy -12dB

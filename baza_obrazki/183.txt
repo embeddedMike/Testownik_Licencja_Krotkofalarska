@@ -1,0 +1,5 @@
+X010
+183. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem czêstotliwoœci. Blok 6 to:
+filtr wyjœciowy
+wzmacniacz mocy (PA)
+II powielacz x2

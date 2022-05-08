@@ -1,0 +1,5 @@
+X001
+148. Na rysunku przedstawiono schemat blokowy odbiornika bezpoœredniego wzmocnienia z reakcj¹. Blok 2 to:
+wzmacniacz w. cz.
+wzmacniacz akustyczny
+detektor z reakcj¹

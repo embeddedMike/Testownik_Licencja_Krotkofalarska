@@ -1,0 +1,6 @@
+X010
+W antenie dipolowej W3DZZ na pasma 80, 40, 20 metrów zastosowano trapy. Na jak¹ czêstotliwoœæ musz¹ byæ nastrojone ?
+10 MHz
+7,05 MHz
+14,1 MHz
+

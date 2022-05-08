@@ -1,0 +1,5 @@
+X001
+Si³a elektromotoryczna ogniwa wynosi 1,5 V. Opornoœæ wewnêtrzna ogniwa wynosi 0,1 oma. Z ogniwa pobieramy pr¹d 1 A. Jakie bêdzie napiêcie na zaciskach ogniwa ?
+1.5 V
+1 V
+1,4 V

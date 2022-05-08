@@ -1,0 +1,5 @@
+X100
+Jak zmierzyæ moc pr¹du sta³ego ?
+zmierzyæ pr¹d i napiêcie w obwodzie i obliczyæ
+zmierzyæ opornoœæ obwodu i obliczyæ
+zmierzyæ pr¹d i obliczyæ

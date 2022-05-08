@@ -1,0 +1,5 @@
+X010
+Czy brak filtru przeciw zak³óceniowego na obwodzie zasilania sieciowego mo¿e byæ przyczyn¹ zak³óceñ w pracy urz¹dzenia ?
+tak, ale tylko przy du¿ej mocy
+zawsze, bez wzglêdu na moc
+to nie ma znaczenia, rolê filtru pe³ni transformator zasilacza

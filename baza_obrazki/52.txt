@@ -1,0 +1,5 @@
+X100
+52. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 4 to:
+filtr wyjœciowy
+wzmacniacz mocy (PA)
+separator

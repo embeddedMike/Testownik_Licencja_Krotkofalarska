@@ -1,0 +1,5 @@
+X100
+60. Na rysunku przedstawiona jest antena typu Yagi. Element 1 to:
+reflektor
+radiator
+I direktor

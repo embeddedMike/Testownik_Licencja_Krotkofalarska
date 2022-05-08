@@ -1,0 +1,5 @@
+X001
+W uk³adzie by³y trzy kondensatory po 30 uF po³¹czone szeregowo . Ka¿dy z nich ma napiêcie pracy 100V. Czy mo¿emy je zast¹piæ jednym kondensatorem 10 uF i o jakim napiêciu pracy ?
+nie mo¿emy
+mo¿emy stosuj¹c kondensator na napiêcie 100 V
+mo¿emy, stosuj¹c kondensator na napiêcie 300V

@@ -1,0 +1,5 @@
+X100
+44. Na rysunku przedstawiono schemat blokowy odbiornika bezpoœredniego wzmocnienia z reakcj¹. Blok 3 to:
+wzmacniacz akustyczny
+detektor z reakcj¹
+wzmacniacz w.cz.

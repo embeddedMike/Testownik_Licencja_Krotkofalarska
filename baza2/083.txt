@@ -1,0 +1,5 @@
+X001
+Modulacja cyfrowa FSK oznacza przesy³anie sygna³u telegrafii maszynowej RTTY za pomoc¹:
+modulacji amplitudy
+modulacji fazy
+modulacji z przesuwem czêstotliwoœci

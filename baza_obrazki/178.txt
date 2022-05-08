@@ -1,0 +1,5 @@
+X010
+178. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 3 to:
+oscylator (VFO)
+wzmacniacz mocy (PA)
+filtr wyjœciowy

@@ -1,0 +1,6 @@
+X100
+Do cewki powietrznej 100 uH wk³adamy rdzeñ ferrytowy o wzglêdnej przenikalnoœci u = 10. Ile wyniesie indukcyjnoœæ cewki ?
+wzroœnie do 1000 uH
+nie zmieni siê
+zmaleje do 10 uH
+

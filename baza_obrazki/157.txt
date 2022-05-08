@@ -1,0 +1,5 @@
+X100
+157. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 6 to:
+filtr prze³¹czany II p.cz.
+wzmacniacz akustyczny
+II heterodyna sta³a

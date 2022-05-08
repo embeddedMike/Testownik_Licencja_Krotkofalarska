@@ -1,0 +1,5 @@
+X100
+185. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnic¹ 9 MHz. Blok 3 to:
+filtr pasmowy 3.5 - 14 MHz
+wzmacniacz mocy (PA)
+VFO 5 - 5.5 MHz

@@ -1,0 +1,5 @@
+X100
+145. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 5 to:
+dzielnik wzorca
+generator stabilizowany
+komparator

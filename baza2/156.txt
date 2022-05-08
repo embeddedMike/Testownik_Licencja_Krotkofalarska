@@ -1,0 +1,5 @@
+X001
+Po zakoñczeniu pracy radiostacji nale¿y:
+wy³¹czyæ zasilanie
+wy³¹czyæ zasilanie i uziemiæ anteny
+wy³¹czyæ zasilanie, uziemiæ anteny i od³¹czyæ uziemienie od radia

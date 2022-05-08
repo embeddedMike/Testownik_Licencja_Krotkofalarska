@@ -1,0 +1,6 @@
+X001
+Ile bateryjek 4,5 V potrzebujemy po³¹czyæ w szereg, by uzyskaæ bateriê anodow¹ o napiêciu 90 V ?
+15 szt.
+10 szt.
+20 szt.
+

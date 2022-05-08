@@ -1,0 +1,5 @@
+X010
+Zwody (po³¹czenia) uziemiaj¹ce od radiostacji nale¿y poprowadziæ nastêpuj¹co:
+zasilacz do ziemi, skrzynka antenowa do radia i do zasilacza
+skrzynka antenowa jako pierwsza do uziemienia, nastêpnie radiostacja osobnym zwodem do skrzynki i zasilacz osobnym zwodem do tej¿e skrzynki
+sposób prowadzenia po³¹czeñ uziemiaj¹cych nie ma znaczenia

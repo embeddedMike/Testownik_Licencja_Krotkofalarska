@@ -1,0 +1,5 @@
+X001
+195. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144 MHz z generatorem PLL. Blok 1 to:
+wzmacniacz mocy (PA)
+generator PLL
+modulator

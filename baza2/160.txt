@@ -1,0 +1,5 @@
+X001
+W momencie stwierdzenia po¿aru urz¹dzenia nale¿y:
+zadzwoniæ po stra¿ po¿arn¹
+wezwaæ kolegów i wspólnie przyst¹piæ do gaszenia
+od³¹czyæ urz¹dzenie od zasilania i przyst¹piæ do gaszenia, w razie potrzeby wezwaæ stra¿ po¿arn¹

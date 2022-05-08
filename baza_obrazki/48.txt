@@ -1,0 +1,5 @@
+X100
+48. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 9 to:
+wzmacniacz akustyczny
+wzmacniacz poœredniej cz.
+heterodyna

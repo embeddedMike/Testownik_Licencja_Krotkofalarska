@@ -1,0 +1,5 @@
+X100
+42. Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 1 to:
+generator stabilizowany
+komparator
+dzielnik wzorca

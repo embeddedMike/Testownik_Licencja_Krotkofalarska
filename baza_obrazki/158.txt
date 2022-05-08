@@ -1,0 +1,5 @@
+X010
+158. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójn¹ przemian¹ czêstotliwoœci. Blok 7 to:
+BFO
+wzmacniacz II poœredniej cz.
+detektor AM , CW, SSB

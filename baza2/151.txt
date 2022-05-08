@@ -1,0 +1,5 @@
+X010
+Uszkodzonych tranzystorów nie powinno siê otwieraæ, gdy¿:
+mo¿na siê pokaleczyæ
+zawieraj¹ szkodliwe substancje, mog¹ce spowodowaæ ciê¿kie zatrucie
+zawieraj¹ tajemnice produkcji, których i tak nie jesteœmy w stanie wykorzystaæ

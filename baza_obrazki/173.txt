@@ -1,0 +1,5 @@
+X100
+173. Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójn¹ przemian¹ czêstotliwoœci, pracuj¹cego w kana³ach fonicznych, stabilizowany kwarcami. Blok 10 to:
+I heterodyna kwarcowa
+wzmacniacz akustyczny
+detektor FM

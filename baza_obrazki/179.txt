@@ -1,0 +1,5 @@
+X010
+179. Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem czêstotliwoœci. Blok 2 to:
+wzmacniacz steruj¹cy
+separator
+I powielacz x2

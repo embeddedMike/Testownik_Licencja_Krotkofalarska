@@ -1,0 +1,5 @@
+X010
+193. Na rysunku przedstawiono schemat blokowy nadajnika UKF na pasmo 144MHz z powielaniem czêstotliwoœci kana³owego generatora kwarcowego 8 MHz. Blok 5 to:
+filtr wyjœciowy
+III powielacz x2
+modulator

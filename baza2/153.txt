@@ -1,0 +1,5 @@
+X100
+Na terenowym QTH uziemienie mo¿na wykonaæ:
+wbijaj¹c uziom do ziemi jako osobne uziemienie dla swojej stacji
+pod³¹czaj¹c siê do uziomu roboczego na s³upie kratowym
+pod³¹czaj¹c siê do uziomu w energetycznej szafie rozdzielczej

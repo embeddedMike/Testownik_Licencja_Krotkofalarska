@@ -1,0 +1,5 @@
+X001
+Przy modulacji amplitudy AM szerokoœæ kana³u radiowego zale¿y od:
+najni¿szych czêstotliwoœci moduluj¹cych
+amplitudy moduluj¹cego sygna³u
+najwy¿szych czêstotliwoœci moduluj¹cych

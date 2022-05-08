@@ -1,0 +1,5 @@
+X001
+Kabel koncentryczny wprowadza straty sygna³u. Kabel przy czêstotliwoœci 150 MHz ma straty 12 dB na 100 m. D³ugoœæ kabla miêdzy anten¹ a odbiornikiem wynosi 50 m. Ile razy napiêcie na wejœciu odbiornika bêdzie mniejsze ni¿ w antenie?
+4 razy
+6 razy
+2 razy

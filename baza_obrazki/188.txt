@@ -1,0 +1,5 @@
+X010
+188. Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnic¹ 9 MHz. Blok 6 to:
+wzmacniacz mocy (PA)
+filtr wyjœciowy
+mieszacz
