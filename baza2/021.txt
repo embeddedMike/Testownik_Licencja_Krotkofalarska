@@ -1,6 +1,0 @@
-X100
-Amatorska telewizja z powolnym analizowaniem SSTV mo¿e byæ stosowana do ³¹cznoœci prowadzonych:
-na du¿e odleg³oœci na falach krótkich
-tylko na UKF
-tylko w internecie
-

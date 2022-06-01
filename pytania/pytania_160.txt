@@ -1,5 +1,0 @@
-244. W momencie stwierdzenia pożaru urządzenia należy:
-a) zadzwonić po straż pożarną
-b) wezwać kolegów i wspólnie przystąpić do gaszenia
-c) odłączyć urządzenie od zasilania i przystąpić do gaszenia, w razie potrzeby wezwać straż pożarną
-

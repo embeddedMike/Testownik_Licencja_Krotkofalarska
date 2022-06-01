@@ -1,5 +1,0 @@
-X010
-Czêstotliwoœæ pracy nadajnika amatorskiego wynosi 3,5714 MHz. Jaka jest dok³adna d³ugoœæ fali tego nadajnika ?
-80 m
-84 m
-81,08 m

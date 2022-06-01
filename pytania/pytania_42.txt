@@ -1,5 +1,0 @@
-68. Połączenie niesymetrycznego kabla koncentrycznego 50 om do symetrycznej anteny o oporności falowej 50 om wymaga zastosowania:
-a) transformatora impedancji 1 do 4
-b) symetryzatora 1 do 1
-c) baluna o przekładni 1 do 2
-

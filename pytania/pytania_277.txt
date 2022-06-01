@@ -1,5 +1,0 @@
-361. Które prefiksy znaków wywoławczych przeznaczone są dla Polski ?
-a) HF, SN, SO, SP, SQ, SR, 3Z
-b) HF, SN, SO, SP, SQ, 3Z, 3X
-c) HA, SM, SO, SP, SQ, SR, 3Z
-

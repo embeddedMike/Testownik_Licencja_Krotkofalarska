@@ -1,5 +1,0 @@
-336. Który z poniższych kodów Q oznacza: Łączność, mam łączność ?
-a) QSL
-b) QSO
-c) QRS
-

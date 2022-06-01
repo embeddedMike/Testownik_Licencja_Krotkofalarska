@@ -1,5 +1,0 @@
-X010
-Czy mo¿na prowadziæ powielanie czêstotliwoœci w stopniu mocy nadajnika ?
-tak
-nie
-jest to bez znaczenia

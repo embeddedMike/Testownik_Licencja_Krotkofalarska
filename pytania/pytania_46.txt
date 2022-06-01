@@ -1,5 +1,0 @@
-72. Dalekie rozchodzenie się fal UKF podczas inwersji temperaturowej w troposferze polega na:
-a) na wielokrotnym odbijaniu się fal od ciepłej ziemi
-b) na odbijaniu fal radiowych od ciepłego powietrza
-c) prowadzeniu fal przez dukty powstałe z warstw ciepłego i zimnego powietrza
-

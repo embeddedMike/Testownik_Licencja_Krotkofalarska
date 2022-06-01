@@ -1,5 +1,0 @@
-303. Okręg wywoławczy SP2 to obszar:
-a) województwa zachodniopomorskiego
-b) województw kujawsko-pomorskiego i pomorskiego
-c) województwa mazowieckiego
-

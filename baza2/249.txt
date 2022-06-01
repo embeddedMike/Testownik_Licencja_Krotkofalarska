@@ -1,5 +1,0 @@
-X001
-Który z poni¿szych kodów Q oznacza: Moje po³o¿enie geograficzne jest ... ?
-QLP
-QRG
-QTH

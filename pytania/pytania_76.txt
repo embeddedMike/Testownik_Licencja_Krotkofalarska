@@ -1,5 +1,0 @@
-102. Dlaczego rdzenie transformatorów wykonywane są z blaszek a nie z litego materiału ?
-a) ze względu na lepsze chłodzenie
-b) ze względu na łatwiejsze wykonanie
-c) ze względu na mniejsze straty przy prądach wirowych
-

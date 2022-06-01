@@ -1,5 +1,0 @@
-341. Co oznaczają skróty slangu radioamatorskiego: BCI; BOX ?
-a) zakłócenia odbioru radiowego; skrytka pocztowa
-b) zakłócenia od sieciowe; radiolatarnia amatorska
-c) podaj dokładny czas; zmieniam kanał radiowy
-

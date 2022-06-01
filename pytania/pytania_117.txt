@@ -1,5 +1,0 @@
-201. W antenie dipolowej W3DZZ na pasma 80, 40, 20 metrów zastosowano trapy. Na jaką częstotliwość muszą być nastrojone ?
-a) 10 MHz
-b) 7,05 MHz
-c) 14,1 MHz
-

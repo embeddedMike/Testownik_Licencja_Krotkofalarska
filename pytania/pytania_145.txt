@@ -1,5 +1,0 @@
-229. Czy dopuszczalne jest użycie sieci CO (np. kaloryfera) do uziemienia radiostacji ?
-a) tak
-b) tylko po upewnieniu się, że jest ona właściwie uziemiona oraz po uzyskaniu zgody jednostki eksploatującej tę sieć
-c) nie
-

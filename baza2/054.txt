@@ -1,5 +1,0 @@
-X010
-Jak zwalczamy zak³ócenia rozprowadzane sieci¹ energetyczn¹ ?
-przez stosowanie grubych przewodów
-przez stosowanie filtrów sieciowych i ekranowanie urz¹dzeñ, odpowiedni¹ konstrukcjê
-przez zasilanie bateryjne urz¹dzeñ

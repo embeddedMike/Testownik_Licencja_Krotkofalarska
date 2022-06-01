@@ -1,5 +1,0 @@
-83. Dlaczego w zabudowie miejskiej stosujemy do anten kable koncentryczne ?
-a) bo są ogólnie dostępne
-b) bo są trwałe
-c) bo przy dopasowaniu nie promieniują energii i mogą przechodzić obok innych anten i urządzeń
-

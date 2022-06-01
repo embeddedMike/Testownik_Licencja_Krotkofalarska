@@ -1,5 +1,0 @@
-373. Co jest bandpan IARU?
-a) podział zakresów częstotliwości na segmenty przeznaczone dla poszczególnych rodzajów emisji lub kanały robocze
-b) podział częstotliwości osobno nadawczych i odbiorczych
-c) plan przydziału częstotliwości dla poszczególnych krajów
-

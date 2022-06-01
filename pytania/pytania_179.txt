@@ -1,5 +1,0 @@
-263. Czy można umieścić kabel antenowy w kanale wywietrznika kominowego, jeżeli obok przebiega czynny komin ?
-a) można
-b) bezwzględnie nie można
-c) można, ale tylko w okresie poza sezonem grzewczym
-

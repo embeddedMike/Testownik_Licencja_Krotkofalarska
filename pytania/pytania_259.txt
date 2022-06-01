@@ -1,5 +1,0 @@
-343. Co oznaczają skróty slangu radioamatorskiego: SWR; RX ?
-a) pasmo w metrach; antena pionowa
-b) współczynnik fali stojącej; odbiornik
-c) nasłuchowiec; klucz elektroniczny
-

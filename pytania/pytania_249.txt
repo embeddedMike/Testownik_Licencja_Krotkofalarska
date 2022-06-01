@@ -1,5 +1,0 @@
-333. Który z poniższych kodów Q oznacza: Moje położenie geograficzne jest ... ?
-a) QLP
-b) QRG
-c) QTH
-

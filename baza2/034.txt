@@ -1,6 +1,0 @@
-X010
-Cztery oporniki o wartoœciach 5 om zosta³y po³¹czone szeregowo. Ile wynosi opornoœæ zastêpcza tych oporów ?
-10 om
-20 om
-40 om
-

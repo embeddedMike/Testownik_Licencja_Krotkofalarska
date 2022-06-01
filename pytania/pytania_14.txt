@@ -1,5 +1,0 @@
-15. Długość fali wynosi 1500 metrów. Jaka jest częstotliwość tej fali ?
-a) 2 MHz
-b) 200 kHz
-c) 233 kHz
-

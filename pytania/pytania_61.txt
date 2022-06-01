@@ -1,5 +1,0 @@
-87. Jak zmienia się opór przewodu miedzianego podczas wzrostu temperatury ?
-a) opór maleje
-b) opór rośnie
-c) nie zmienia się
-

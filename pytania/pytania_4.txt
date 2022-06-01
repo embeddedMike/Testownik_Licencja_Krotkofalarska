@@ -1,5 +1,0 @@
-5. Żarówka 12 V pobiera z baterii 0,1 A. Jaką oporność ma żarówka ?
-a) oporność 120 om
-b) oporność 12 om
-c) oporność 1,2 kom
-

@@ -1,5 +1,0 @@
-X100
-Co znaczy okreœlenie czas uniwersalny UTC ?
-czas odpowiadaj¹cy po³udnikowi zerowemu (GMT), stosowany przez radioamatorów do odnotowania w Logu godz. ³¹cznoœci
-czas w którym nie nale¿y nawi¹zywaæ QSO
-czas w którym mo¿na nawi¹zywaæ ³¹cznoœci z krajami europejskimi

@@ -1,5 +1,0 @@
-332. Który z poniższych kodów Q oznacza: Jestem gotów do pracy, jestem czynny w eterze ?
-a) QWX
-b) QRV
-c) QRU
-

@@ -1,5 +1,0 @@
-380. Jaki dokument obowiązujący wszystkie kraje członkowskie Międzynarodowego Związku Telekomunikacyjnego (ITU) określa zasady wykonywania służby radiokomunikacyjnej amatorskiej i służby amatorskiej satelitarnej oraz wymienia przyznane tym służbom zakresy częstotliwości ?
-a) Konstytucja ITU
-b) Regulamin Radiokomunikacyjny (Radio Regulations) ITU
-c) Konwencja ITU
-

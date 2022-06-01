@@ -1,5 +1,0 @@
-X010
-Napiêcie na wyjœciu zasilacza nieobci¹¿onego z filtrem pojemnoœciowym, wynosi 25 V. Jakie jest napiêcie Usk transformatora zasilaj¹cego diody ?
-25 V
-17,7 V
-20 V

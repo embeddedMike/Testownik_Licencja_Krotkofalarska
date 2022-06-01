@@ -1,5 +1,0 @@
-415. Jaki jest minimalny wiek, w którym można przystąpić do egzaminu i uzyskać świadectwo operatora urządzeń radiowych w służbie amatorskiej oraz uzyskać pozwolenie dla służby radiokomunikacyjnej amatorskiej ?
-a) 10 lat dla uzyskania świadectwa klasy C oraz 15 lat dla uzyskania świadectwa klasy A
-b) 15 lat dla uzyskania świadectwa klasy A i C
-c) nie określono minimalnego wieku
-

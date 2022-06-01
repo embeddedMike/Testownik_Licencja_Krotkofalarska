@@ -1,5 +1,0 @@
-215. Jakie oznaczenie na rękojeści narzędzia ma istotne znaczenie przy pracach elektrycznych ?
-a) rodzaj zastosowanej izolacji
-b) nazwa producenta
-c) dopuszczalne napięcie pracy
-

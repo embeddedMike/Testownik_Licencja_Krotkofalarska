@@ -1,5 +1,0 @@
-X001
-Jaka lokalizacja bêdzie bezpieczniejsza (najbardziej w³aœciwa pod k¹tem nara¿enia na dzia³anie pola elektromagnetycznego) dla anteny emituj¹cej moc 1 kW ?
-dach naszego budynku w œrodku miasta
-dach 12-piêtrowego s¹siedniego wie¿owca
-terenowe QTH ze specjalnie wybudowanym polem antenowym

@@ -1,5 +1,0 @@
-266. Czy osoba posiadająca rozrusznik serca może przebywać w pobliżu anten nadawczych dużej mocy ?
-a) może, nie ma żadnego zagrożenia
-b) może, pod pewnymi warunkami
-c) kategorycznie nie powinna
-

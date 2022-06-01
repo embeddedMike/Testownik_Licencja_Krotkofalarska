@@ -1,5 +1,0 @@
-335. Który z poniższych kodów Q oznacza: Mam dla ciebie telegram, wiadomość ?
-a) QRT
-b) QTC
-c) QSV
-

@@ -1,5 +1,0 @@
-329. Który z poniższych kodów Q oznacza: Przejdź na częstotliwość, zmień częstotliwość ?
-a) QSY
-b) QTR
-c) QSA
-

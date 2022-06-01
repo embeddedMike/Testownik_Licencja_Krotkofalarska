@@ -1,5 +1,0 @@
-206. Jakie długości fal zaliczamy do zakresu fal krótkich ?
-a) od 100 m do 10 m
-b) od 80 m do 13 m
-c) od 160 m do 10 m
-

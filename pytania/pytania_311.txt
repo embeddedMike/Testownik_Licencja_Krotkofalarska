@@ -1,5 +1,0 @@
-395. Jaka organizacja reprezentuje służbę amatorską na forum międzynarodowym ?
-a) Międzynarodowy Związek Telekomunikacyjny (ITU)
-b) Międzynarodowy Związek Radioamatorów (IARU)
-c) Europejskie Biuro Radiokomunikacji (ERO)
-

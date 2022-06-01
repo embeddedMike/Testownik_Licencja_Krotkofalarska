@@ -1,5 +1,0 @@
-344. Które z poniższych skrótów slangu radioamatorskiego oznaczają: Zakłócenia w odbiorze telewizji; nielicencjonowany nadawca ?
-a) TRX; LIS
-b) TVI; UNLIS
-c) RBM; ICP
-

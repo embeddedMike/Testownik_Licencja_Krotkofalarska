@@ -1,5 +1,0 @@
-357. Co oznacza w łączności telegraficznej raport 438 ?
-a) dobrze czytelny, bardzo silny sygnał, dobry ton
-b) czytelny z trudnościami, słaby sygnał, bardzo dobry ton
-c) czytelny, słaby sygnał, dobry ton sygnału
-

@@ -1,5 +1,0 @@
-71. Co to jest zasięg horyzontalny na UKF ?
-a) zasięg wyznaczony linią horyzontu przy prostoliniowym rozchodzeniu się fal
-b) zasięg obliczony z mocy promieniowanej e.i.r.p.
-c) zasięg teoretyczny nadajnika
-

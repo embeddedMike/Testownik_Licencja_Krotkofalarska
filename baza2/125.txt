@@ -1,5 +1,0 @@
-X100
-Co to jest strefa martwa na falach krótkich ?
-strefa bez odbioru le¿¹ca pomiêdzy koñcem fali przyziemnej a powrotem fali przestrzennej
-strefa bez odbioru z powodu du¿ych zak³óceñ w mieœcie
-strefa w której brak odbioru z powodu interferencji fal przychodz¹cych z ró¿nych kierunków

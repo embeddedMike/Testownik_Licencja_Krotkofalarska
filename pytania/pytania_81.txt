@@ -1,5 +1,0 @@
-107. Czy można prowadzić powielanie częstotliwości w stopniu mocy nadajnika ?
-a) tak
-b) nie
-c) jest to bez znaczenia
-

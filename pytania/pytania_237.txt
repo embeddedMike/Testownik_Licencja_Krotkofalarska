@@ -1,5 +1,0 @@
-321. Co to jest międzynarodowy kod Q ?
-a) zbiór symboli składających się z 3 liter, zaczynających się zawsze na literę Q, którym przypisane są proste zdanie lub słowa
-b) symbole składające się z litery Q i 2-3 cyfr określających jakość odbieranego sygnału
-c) wykaz zawierający prefiksy znaków wywoławczych wg ITU
-

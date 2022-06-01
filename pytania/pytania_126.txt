@@ -1,5 +1,0 @@
-210. Jakim przyrządem możemy sprawdzić kształt napięcia zmiennego w.cz. i wykryć zniekształcenia sygnału ?
-a) oscyloskopem
-b) miernikiem napięcia
-c) słuchając odbiornikiem
-

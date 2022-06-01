@@ -1,5 +1,0 @@
-200. Jak zmienia się oporność dipola półfalowego przy niskim zawieszeniu nad ziemią ?
-a) nie zmienia się
-b) rośnie
-c) maleje
-

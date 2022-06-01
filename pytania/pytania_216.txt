@@ -1,5 +1,0 @@
-300. Czy prowadzenie dziennika łączności LOG jest obowiązkowe ?
-a) jest to podstawowy obowiązek każdego radioamatora
-b) prowadzenie Logu nie jest obowiązkowe, lecz wskazane
-c) prowadzenie dziennika łączności może być nakazane jako zalecenie pokontrolne inspektorów ochrony środowiska
-

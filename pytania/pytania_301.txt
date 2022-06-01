@@ -1,5 +1,0 @@
-385. Czy Regulamin Radiokomunikacyjny reguluje zasady przyznawania znaków wywoławczych stacjom amatorskim ?
-a) nie, regulują to przepisy krajowe
-b) tak, Regulamin Radiokomunikacyjny określa ściśle zasady przyznawania znaków
-c) nie, znak wywoławczy obiera sobie sam operator stacji
-

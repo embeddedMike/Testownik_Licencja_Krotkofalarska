@@ -1,5 +1,0 @@
-X001
-Oscylator kwarcowy ma wysok¹ stabilnoœæ czêstotliwoœci. Zawdziêcza j¹:
-zasilaniu z stabilizowanego zasilacza
-zastosowaniu specjalnego tranzystora
-zastosowaniu rezonatora kwarcowego

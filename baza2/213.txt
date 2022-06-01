@@ -1,5 +1,0 @@
-X100
-Jak zbudowany jest znak wywo³awczy w pozwoleniach kategorii 1, 3 i 5 ?
-sk³ada siê z prefiksu, cyfry i kombinacji maksymalnie czterech liter i cyfr
-nie ma okreœlonej budowy, sk³ada siê z liter i cyfr
-sk³ada siê z prefiksu i dwóch liter

@@ -1,5 +1,0 @@
-315. Poprawne literowanie w j. polskim litery P i N:
-a) Piotr, Niwa
-b) Przemek, Nina
-c) Paweł, Natalia
-

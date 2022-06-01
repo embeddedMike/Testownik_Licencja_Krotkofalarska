@@ -1,5 +1,0 @@
-301. Co znaczy określenie czas uniwersalny UTC ?
-a) czas odpowiadający południkowi zerowemu (GMT), stosowany przez radioamatorów do odnotowania w Logu godz. łączności
-b) czas w którym nie należy nawiązywać QSO
-c) czas w którym można nawiązywać łączności z krajami europejskimi
-

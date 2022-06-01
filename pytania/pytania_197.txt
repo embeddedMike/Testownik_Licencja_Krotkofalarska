@@ -1,5 +1,0 @@
-281. Co oznacza wg kodu Q symbol QRV ?
-a) o której godzinie rozpoczęliśmy łączność
-b) jestem gotów do pracy, jestem czynny w eterze
-c) proszę powtórzyć ostatnią relację
-

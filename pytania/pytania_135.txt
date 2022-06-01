@@ -1,5 +1,0 @@
-219. Spełnienie jakich warunków konstrukcyjnych ogranicza przedostawanie się energii w.cz. niepożądanymi drogami ?
-a) dobre uziemienie i szczelność ekranowania
-b) filtrowany zasilacz
-c) odpowiedni przekrój kabla sieciowego
-

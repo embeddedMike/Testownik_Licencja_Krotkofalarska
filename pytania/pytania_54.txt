@@ -1,5 +1,0 @@
-80. Jak zwalczamy zakłócenia rozprowadzane siecią energetyczną ?
-a) przez stosowanie grubych przewodów
-b) przez stosowanie filtrów sieciowych i ekranowanie urządzeń, odpowiednią konstrukcję
-c) przez zasilanie bateryjne urządzeń
-

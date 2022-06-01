@@ -1,5 +1,0 @@
-93. Jakie napięcie występuje na oporze 50 om przy dostarczeniu do niego mocy 200 W ?
-a) 100 V
-b) 200 V
-c) 50 V
-

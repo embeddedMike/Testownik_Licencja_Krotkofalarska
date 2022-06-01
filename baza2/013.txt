@@ -1,6 +1,0 @@
-X100
-Czy prêdkoœæ fali elektromagnetycznej zale¿y od oœrodka, w którym siê rozchodzi ?
-tak
-nie zale¿y
-jest zawsze jednakowa
-

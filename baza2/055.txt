@@ -1,5 +1,0 @@
-X001
-Co to jest kompatybilnoœæ elektromagnetyczna (EMC) ?
-zamiennoœæ urz¹dzeñ
-wymogi co do podobnej obs³ugi urz¹dzeñ elektrycznych
-taka konstrukcja sprzêtu, by urz¹dzenia nie wp³ywa³y na siebie i mog³y pracowaæ bez powodowania wzajemnych zak³óceñ

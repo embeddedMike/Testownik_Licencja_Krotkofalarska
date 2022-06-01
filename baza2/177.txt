@@ -1,5 +1,0 @@
-X001
-Kondensator sprzêgaj¹cy obwód anodowy PA z Pi-filtrem powinien:
-posiadaæ du¿¹ pojemnoœæ
-posiadaæ ma³e wymiary
-byæ wytrzyma³y na du¿e napiêcie

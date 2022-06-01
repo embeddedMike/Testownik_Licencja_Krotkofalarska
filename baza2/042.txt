@@ -1,6 +1,0 @@
-X010
-Po³¹czenie niesymetrycznego kabla koncentrycznego 50 om do symetrycznej anteny o opornoœci falowej 50 om wymaga zastosowania:
-transformatora impedancji 1 do 4
-symetryzatora 1 do 1
-baluna o przek³adni 1 do 2
-

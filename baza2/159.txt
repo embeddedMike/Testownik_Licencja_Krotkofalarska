@@ -1,5 +1,0 @@
-X001
-Jaka powinna byæ rezystancja uziemienia radiostacji ?
-50 Omów
-zale¿nie od kabla antenowego: 50 lub 75 Omów
-pomiêdzy 10 a 1 Om, im mniejsza tym lepsza

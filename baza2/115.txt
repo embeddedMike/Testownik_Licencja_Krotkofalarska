@@ -1,5 +1,0 @@
-X010
-Przy jakim stosunku sygna³u do szumu mierzymy czu³oœæ odbiornika ?
-przy 6 dB
-przy 10 dB
-przy 20 dB

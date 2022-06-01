@@ -1,5 +1,0 @@
-126. Mamy obwód rezonansowy o częstotliwości 3,5 MHz. W jego skład wchodzi pojemność C = 400 pF. Jaką pojemność należy dołączyć zamiast C, by przestroić obwód na 7 MHz ?
-a) 200 pF
-b) 100 pF
-c) 57 pF
-

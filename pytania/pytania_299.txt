@@ -1,5 +1,0 @@
-383. Regulamin Radiokomunikacyjny ITU dzieli świat na trzy regiony. W którym regionie radiokomunikacyjnym znajduje się Polska ?
-a) w trzecim
-b) w pierwszym
-c) w drugim
-

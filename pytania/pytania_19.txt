@@ -1,5 +1,0 @@
-20. Przy modulacji częstotliwości FM szerokość kanału radiowego dla nadajników amatorskich UKF wynosi:
-a) 12,5 kHz
-b) 50 kHz
-c) 200 kHz
-

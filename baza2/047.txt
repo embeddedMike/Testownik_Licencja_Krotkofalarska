@@ -1,5 +1,0 @@
-X100
-Skrót EME oznacza ³¹cznoœci na UKF:
-z wykorzystaniem odbicia sygna³u od Ksiê¿yca
-wykorzystaniem do ³¹cznoœci si³y elektromotorycznej SEM
-za pomoc¹ elektromagnetycznej emisji EME na UKF

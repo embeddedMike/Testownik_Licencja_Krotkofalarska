@@ -1,5 +1,0 @@
-416. Jakimi rodzajami emisji radiowych wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 50-52 MHz ?
-a) wyłącznie emisją A1A (telegrafia)
-b) wyłącznie emisją F3E (telefonia z modulacją częstotliwości)
-c) wszystkimi rodzajami emisji z wyjątkiem F3E
-

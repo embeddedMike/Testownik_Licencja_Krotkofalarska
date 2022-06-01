@@ -1,5 +1,0 @@
-95. Jaka jest częstotliwość prądu zmiennego, którego okres wynosi 0,02 sek. ?
-a) 100 Hz
-b) 50 Hz
-c) 60 Hz
-

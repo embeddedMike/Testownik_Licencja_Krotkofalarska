@@ -1,5 +1,0 @@
-33. Kalkulator zawiera jeden układ scalony, wyświetlacz i klawiaturę. Do jakiej grupy zaliczymy układ scalony ?
-a) małej skali integracji
-b) średniej skali integracji
-c) wielkiej skali integracji
-

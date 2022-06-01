@@ -1,5 +1,0 @@
-278. Co oznacza wg kodu Q symbol QRM ?
-a) jestem czynny w eterze od miesiąca
-b) odbieram twoje sygnały bardzo dobrze zmniejsz moc
-c) mam zakłócenia od innych stacji
-

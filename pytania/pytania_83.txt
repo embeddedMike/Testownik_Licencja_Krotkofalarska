@@ -1,5 +1,0 @@
-109. Modulacja cyfrowa FSK oznacza przesyłanie sygnału telegrafii maszynowej RTTY za pomocą:
-a) modulacji amplitudy
-b) modulacji fazy
-c) modulacji z przesuwem częstotliwości
-

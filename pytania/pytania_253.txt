@@ -1,5 +1,0 @@
-337. Który z poniższych kodów Q oznacza: Potwierdzam odbiór, przyślę kartę potwierdzającą łączność ?
-a) QSL
-b) QSA
-c) QRT
-

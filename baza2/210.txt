@@ -1,5 +1,0 @@
-X010
-Czy razem ze œwiadectwem operatora urz¹dzeñ radiowych przydzielany jest znak wywo³awczy dla radiostacji amatorskiej ?
-tak
-nie, znak wywo³awczy przydzielany jest w pozwoleniu radiowym
-tak, je¿eli dana osoba posiada radiostacjê

@@ -1,5 +1,0 @@
-X010
-W jakiej klasie wzmacniacza pracuje lampowy stopieñ mocy nadajnika telegraficznego ?
-w klasie A
-w klasie C
-w klasie AB

@@ -1,5 +1,0 @@
-245. Zwody (połączenia) uziemiające od radiostacji należy poprowadzić następująco:
-a) zasilacz do ziemi, skrzynka antenowa do radia i do zasilacza
-b) skrzynka antenowa jako pierwsza do uziemienia, następnie radiostacja osobnym zwodem do skrzynki i zasilacz osobnym zwodem do tejże skrzynki
-c) sposób prowadzenia połączeń uziemiających nie ma znaczenia
-

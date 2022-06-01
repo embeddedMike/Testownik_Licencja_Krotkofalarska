@@ -1,5 +1,0 @@
-59. Jaka jest horyzontalna charakterystyka promieniowania pionowej anteny ćwierćfalowej ?
-a) dookólna
-b) kierunkowa
-c) w kształcie koniczyny
-

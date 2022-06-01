@@ -1,5 +1,0 @@
-256. Naprawa bezpieczników topikowych jest:
-a) dopuszczalna dla bezpieczników stosowanych przy niskim napięciu
-b) bezwzględnie zabroniona
-c) dopuszczalna przy zastosowaniu drutu topikowego o odpowiedniej grubości
-

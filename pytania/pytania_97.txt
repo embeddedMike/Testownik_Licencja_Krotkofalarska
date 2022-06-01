@@ -1,5 +1,0 @@
-123. Dwie indukcyjności nie sprzężone mają 30 uH i 60 uH. Ile wynosi indukcyjność zastępcza przy połączeniu szeregowym tych indukcyjności ?
-a) 90 uH
-b) 20 uH
-c) 45 uH
-

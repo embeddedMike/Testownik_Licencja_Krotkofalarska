@@ -1,6 +1,0 @@
-X100
-Jaki zakres czêstotliwoœci dŸwiêków wystarcza dla zrozumia³ego nadawania mowy ?
-od 300 Hz do 3,2 kHz
-od 100 Hz do 5 kHz
-od 20 Hz do 15 kHz
-

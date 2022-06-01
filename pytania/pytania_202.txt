@@ -1,5 +1,0 @@
-286. Co oznacza wg kodu Q symbol QSL ?
-a) potwierdzam odbiór, przyślę kartę potwierdzającą łączność
-b) nadawaj szybciej
-c) słucham na częstotliwości
-

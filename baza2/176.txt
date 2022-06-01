@@ -1,5 +1,0 @@
-X010
-Przy wymianie lampy stopnia mocy nadajnika nale¿y:
-wy³¹czyæ zasilanie i natychmiast przyst¹piæ do wymiany
-wy³¹czyæ zasilanie i poczekaæ a¿ roz³aduj¹ siê kondensatory zasilacza
-przy pracuj¹cym wzmacniaczu zdj¹æ os³onê lampy i przyst¹piæ do jej wymiany

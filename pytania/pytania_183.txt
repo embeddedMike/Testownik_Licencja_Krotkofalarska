@@ -1,5 +1,0 @@
-267. Podczas regulacji urządzeń pod napięciem (o ile jest to konieczne) pracę wykonujemy:
-a) dwoma rękoma
-b) jedną ręką
-c) jedną ręką w asyście drugiej osoby, wskazane jest również stosowanie chodnika lub obuwia izolacyjnego
-

@@ -1,5 +1,0 @@
-226. Czy sztuczne obciążenie w postaci opornika bezindukcyjnego powinno być ekranowane ?
-a) nie ma takiej potrzeby
-b) tak, zawsze powinno być ekranowane i uziemione w tym samym punkcie co radiostacja
-c) tylko w przypadku gdy wzmacniacz mocy nie jest właściwie dostrojony
-

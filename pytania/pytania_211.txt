@@ -1,5 +1,0 @@
-295. Co to jest znak wywoławczy ?
-a) jest to symbol określający typ (model) radiostacji amatorskiej
-b) jest to hasło pozwalające wywołać konkretnego rozmówcę
-c) jest to kombinacja liter i cyfr stanowiąca unikalny w skali światowej identyfikator radiostacji amatorskiej
-

@@ -1,5 +1,0 @@
-X100
-Przy pod³¹czeniu zasilacza stacji przekrój sieci i wartoœæ zabezpieczeñ powinny byæ dobrany tak, aby zapewniæ dostarczenie mocy:
-wy¿szej ni¿ moc okreœlona w tabliczce znamionowej urz¹dzenia
-równej mocy okreœlonej w tabliczce znamionowej urz¹dzenia
-ni¿szej ni¿ moc okreœlona w tabliczce znamionowej urz¹dzenia

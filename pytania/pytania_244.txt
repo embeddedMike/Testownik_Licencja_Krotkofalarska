@@ -1,5 +1,0 @@
-328. Który z poniższych kodów Q oznacza: Moja częstotliwość jest ... ?
-a) QRJ
-b) QRG
-c) QRK
-

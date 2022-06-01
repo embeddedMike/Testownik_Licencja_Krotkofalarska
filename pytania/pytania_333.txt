@@ -1,5 +1,0 @@
-417. Jakimi rodzajami emisji radiowych i z jaką mocą wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 135,7-137,8 kHz ?
-a) wyłącznie emisją A1A (telegrafia) z mocą wyjściową 150 watów
-b) wszystkimi rodzajami emisji z mocą wyjściową 250 watów
-c) wyłącznie emisją A1A (telegrafia) z mocą 1 wat e.i.r.p. (równoważna moc promieniowana izotropowo)
-

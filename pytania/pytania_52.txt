@@ -1,5 +1,0 @@
-78. Jak w warunkach amatorskich zmierzyć moc wyjściową nadajnika ?
-a) poprzez pomiar napięcia skutecznego na oporze sztucznej anteny 50 om i obliczenie
-b) poprzez pomiar prądu i napięcia stałego doprowadzonego do stopnia mocy (PA)
-c) poprzez uzyskanie raportu od korespondenta
-

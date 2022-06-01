@@ -1,5 +1,0 @@
-X100
-Czy opór elektryczny przewodu zale¿y od materia³u z którego jest wykonany?
-zale¿y
-nie zale¿y
-zale¿y od izolacji przewodu

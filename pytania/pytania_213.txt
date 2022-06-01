@@ -1,5 +1,0 @@
-297. Jak zbudowany jest znak wywoławczy w pozwoleniach kategorii 1, 3 i 5 ?
-a) składa się z prefiksu, cyfry i kombinacji maksymalnie czterech liter i cyfr
-b) nie ma określonej budowy, składa się z liter i cyfr
-c) składa się z prefiksu i dwóch liter
-

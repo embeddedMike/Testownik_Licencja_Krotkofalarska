@@ -1,5 +1,0 @@
-X010
-Poprawne literowanie wg alfabetu ITU litery B i F:
-Bil, Fox
-Bravo, Foxtrot
-Box, Florida

@@ -1,6 +1,0 @@
-X010
-Dlaczego do detekcji sygna³ów telegrafii CW u¿ywamy produkt detektora i pomocniczego generatora BFO ?
-bo sygna³ CW jest przerywany
-musimy wytworzyæ s³yszalne dudnienia z niemodulowanym sygna³em CW
-bo sygna³ CW jest s³aby
-

@@ -1,5 +1,0 @@
-2. Izolatorami nazywamy materiały które:
-a) nie przewodzą prądu elektrycznego
-b) przewodzą słabo
-c) przewodzą prąd przy wysokim napięciu
-

@@ -1,5 +1,0 @@
-387. Co zgodnie z Regulaminem Radiokomunikacyjnym ITU musi zapewnić operator amatorskiej orbitalnej stacji satelitarnej ?
-a) nadawanie przez amatorską stację satelitarną jej znaku wywoławczego
-b) niezwłoczne zdalne wyłączenie amatorskiej stacji satelitarnej w przypadku powodowania przez nią szkodliwych zakłóceń dla innych służb radiokomunikacyjnych
-c) nadawanie przez amatorską stację satelitarną komunikatów meteorologicznych
-

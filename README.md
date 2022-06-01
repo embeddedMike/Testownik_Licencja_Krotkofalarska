@@ -1,21 +1,12 @@
-# PPS
-Testownik z Podstaw Przetwarzania Sygnałów.
+Testownik przygotowujący do zdania egzaminu na licencję krótkofalarską.
 
-# Pierwsze kolokwium
-Materiał do pierwszego kolokwium znajduję się w gałęzi master.
+- Program jest wykorzystywany przez studentów PWR do różnych testów.
+- Podmieniłem w nim bazę pytań.
+- Aby rozpocząć naukę należy zmienić nazwę folderu baza_obrazki lub baza_pozstała na baza.
+- Aplikacja rozpoznaje pytania z folderu baza, dlatego w folderze z aplikacją powinnien znajdować się
+tylko jeden taki folder.
+- W trakcie nauki pytań z folderu baza_obrazki, obrazki trzeba przełączać we własnym zakresie. Są one ponumerowane
+w nazwie i można w łatwy sposób połączyć je z numerem pytania.
+- Incydentalnie mogą się pojawiać błędy w pytaniach. Nie ma ich raczej zbyt wiele, ponieważ sam zdałem egzamin ucząc
+się z tej bazy pytań.
 
-# Drugie kolokwium
-Materiał do drugiego kolokwium znajduje się w gałęzi [drugie_kolo](https://github.com/TestownikiPWR/PPS/tree/drugie_kolo).
-
-# Uwaga od autora aktualizacji do części drugiej
-
-Testownik NIGDY nie gwarantuje zdobycia minimalnej liczby punktów na teście i powinien być stosowane WYŁĄCZNIE do 
-powtórki materiału, który można znaleźć na slajdach na stronie katedry ZTS. Mimo bardzo dobrych wyników w semestrze
-zimowym 2017/2018, w semestrze 2018/2019 dużo pytań może się zmienić, tym samym testownik może stać się nieaktualny.
-
-Chciałbym podziękować wszystkim, którzy spędzili godziny wieczorami, pomagając mi poprawiać pytania i aktualizować starą
-bazę pytań. MIĘDZY INNYMI są to:
-
-Tomasz, Albert, Aleksandra, Karolina, Piotr, Marcin, Janek, Piotrek, Barto, Krystian, Juliusz, Marta i wiele innych osób..
-
-Bazę aktualizował: Mati :)

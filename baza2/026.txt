@@ -1,6 +1,0 @@
-X010
-Przek³adnia transformatora wynosi 20 do 1. Strona pierwotna w³¹czona jest na napicie sieci 240 V. Jakie napicie bêdzie po stronie wtórnej ?
-24 V
-12 V
-20 V
-

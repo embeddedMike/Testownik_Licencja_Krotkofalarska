@@ -1,5 +1,0 @@
-275. Przed eksplozją kondensatorów elektrolitycznych w zasilaczu chroni nas:
-a) stabilizator napięcia
-b) opornik upływowy tzw. bleder
-c) właściwe uziemienie zasilacza
-

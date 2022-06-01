@@ -1,5 +1,0 @@
-371. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 6 m to:
-a) 50 MHz - 54 MHz
-b) 50 MHz - 52 MHz
-c) 50 MHz - 53,5 MHz
-

@@ -1,5 +1,0 @@
-306. Okręg wywoławczy SP5 to obszar:
-a) województwa mazowieckiego
-b) województw kujawsko-pomorskiego i pomorskiego
-c) województwa zachodnio-pomorskiego
-

@@ -1,5 +1,0 @@
-X001
-Czy wolno wykonywaæ prace antenowe przy w³¹czonym nadajniku ?
-wolno, bez ¿adnych ograniczeñ
-wolno, ale tylko przy ma³ych mocach nadajnika
-kategorycznie nie wolno

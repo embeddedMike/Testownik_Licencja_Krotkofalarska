@@ -1,5 +1,0 @@
-32. Do jakiego typu układów scalonych należy scalony wzmacniacz akustyczny ?
-a) do układów scalonych cyfrowych
-b) do układów scalonych analogowych
-c) do scalonych pamięci
-

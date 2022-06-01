@@ -1,5 +1,0 @@
-331. Który z poniższych kodów Q oznacza: Siła twoich sygnałów waha się ?
-a) QSB
-b) QAZ
-c) QRY
-

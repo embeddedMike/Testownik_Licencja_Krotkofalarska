@@ -1,5 +1,0 @@
-261. Kondensator sprzęgający obwód anodowy PA z Pi-filtrem powinien:
-a) posiadać dużą pojemność
-b) posiadać małe wymiary
-c) być wytrzymały na duże napięcie
-

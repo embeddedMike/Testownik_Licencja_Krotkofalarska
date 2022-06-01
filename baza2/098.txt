@@ -1,5 +1,0 @@
-X010
-Dwa oporniki 1 kom po³¹czone s¹ w szereg i do³¹czone do napiêcia 200 V. Jaki jest spadek napiêcia na ka¿dym z tych oporników ?
-50 V
-100 V
-200 V

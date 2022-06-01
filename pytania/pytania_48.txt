@@ -1,5 +1,0 @@
-74. Jak nazywa się przyrząd do pomiaru napięcia ?
-a) omomierz
-b) woltomierz
-c) amperomierz
-

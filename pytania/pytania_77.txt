@@ -1,5 +1,0 @@
-103. Ekranowanie pól magnetycznych wykonujemy z materiałów:
-a) izolacyjnych
-b) z materiałów o wysokiej przenikalności magnetycznej
-c) z materiałów o małym oporze właściwym
-

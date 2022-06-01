@@ -1,5 +1,0 @@
-399. Jaki organ krajowy reguluje i kontroluje pracę stacji amatorskich, przeprowadza egzaminy na świadectwa operatora urządzeń radiowych i wydaje pozwolenia w służbie amatorskiej ?
-a) Minister właściwy do spraw łączności
-b) Prezes Urzędu Komunikacji Elektronicznej
-c) Minister właściwy do spraw wewnętrznych
-

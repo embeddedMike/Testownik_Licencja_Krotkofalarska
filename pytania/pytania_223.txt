@@ -1,5 +1,0 @@
-307. Okręg wywoławczy SP6 to obszar:
-a) województwa mazowieckiego
-b) województw dolnośląskiego i opolskiego
-c) województwa zachodniopomorskiego
-

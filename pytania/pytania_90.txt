@@ -1,5 +1,0 @@
-116. W obwodzie prądu zmiennego przy tej samej częstotliwości zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyła się zawada Xc ?
-a) 2 razy
-b) 100 razy
-c) 10 razy
-

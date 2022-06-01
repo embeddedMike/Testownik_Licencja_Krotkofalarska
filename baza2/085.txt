@@ -1,5 +1,0 @@
-X010
-Napiêcie na wejœciu odbiornika na opornoœci 50 om wynosi 10 uV. Napiêcie to wzros³o do 100 uV. O ile wzros³o napiêcie wyra¿one w dB ?
-o 10 dB
-o 20 dB
-o 40 dB

@@ -1,5 +1,0 @@
-X010
-O czym mówi podawana w prognozach propagacji czêstotliwoœæ MUF ?
-o zak³óceniach odbioru
-o maksymalnej czêstotliwoœci do ³¹cznoœci na danej trasie
-o zaniku ³¹cznoœci w danym kierunku

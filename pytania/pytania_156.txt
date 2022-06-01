@@ -1,5 +1,0 @@
-240. Po zakończeniu pracy radiostacji należy:
-a) wyłączyć zasilanie
-b) wyłączyć zasilanie i uziemić anteny
-c) wyłączyć zasilanie, uziemić anteny i odłączyć uziemienie od radia
-

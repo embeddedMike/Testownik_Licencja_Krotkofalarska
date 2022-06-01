@@ -1,5 +1,0 @@
-65. W jakim przypadku powstaje w linii przesyłowej w.cz. fala stojąca ?
-a) kiedy kabel nie jest ułożony prosto
-b) kiedy obok kabla koncentrycznego przechodzi inny kabel
-c) kiedy oporność obciążenia nie jest zgodna z opornością falową kabla
-

@@ -1,5 +1,0 @@
-26. Są dwie cewki powietrzne. Przy tej samej średnicy i ilości zwojów, L1 jest nawinięta drutem dwa razy grubszym niż L2. Która z nich ma większą dobroć Q ?
-a) cewka L2
-b) cewka L1
-c) obie mają taką samą dobroć, bo mają tą samą średnicę
-

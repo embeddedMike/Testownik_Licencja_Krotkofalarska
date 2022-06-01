@@ -1,5 +1,0 @@
-369. Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 12 m to:
-a) 24690 kHz - 24990 kHz
-b) 24890 kHz - 24990 kHz
-c) 24680 kHz - 24990 kHz
-

@@ -1,5 +1,0 @@
-104. Fala elektromagnetyczna ma dwie składowe. Zaznacz która kombinacja jest poprawna:
-a) składowa elektryczna i składowa prędkości
-b) składowa elektryczna i magnetyczna
-c) składowa magnetyczna i składowa prędkości
-

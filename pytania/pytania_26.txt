@@ -1,5 +1,0 @@
-27. Przekładnia transformatora wynosi 20 do 1. Strona pierwotna włączona jest na napicie sieci 240 V. Jakie napicie będzie po stronie wtórnej ?
-a) 24 V
-b) 12 V
-c) 20 V
-

@@ -1,5 +1,0 @@
-121. Mamy dwa kondensatory o pojemności jeden 4,7 nF a drugi 300 pF. Jak należy je połączyć by uzyskać pojemność 5000 pF ?
-a) szeregowo
-b) równolegle
-c) nie da się z nich złożyć 5000 pF
-

@@ -1,5 +1,0 @@
-293. Jakie należy spełnić warunki aby uzyskać pozwolenie radiowe na używanie radiostacji amatorskiej ?
-a) należy posiadać świadectwo operatora urządzeń radiowych i odbyć trzymiesięczną praktykę na stacji klubowej
-b) należy posiadać świadectwo operatora urządzeń radiowych i co najmniej średnie wykształcenie
-c) należy posiadać świadectwo operatora urządzeń radiowych
-

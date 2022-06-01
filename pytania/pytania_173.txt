@@ -1,5 +1,0 @@
-257. Jakie oznaczenia ochronne należy umieścić na maszcie anteny nadawczej ?
-a) promieniowanie elektromagnetyczne
-b) uwaga antena nadawcza
-c) zakaz dotykania masztu
-

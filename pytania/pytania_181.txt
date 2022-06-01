@@ -1,5 +1,0 @@
-265. Czy nasza radiostacja może wywołać zakłócenia poza granicami kraju ?
-a) nie może
-b) może, ale tylko podczas strojenia
-c) może
-

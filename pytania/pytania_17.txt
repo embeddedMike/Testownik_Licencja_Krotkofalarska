@@ -1,5 +1,0 @@
-18. Modulacja telegraficzna CW polega na:
-a) przerywaniu fali nośnej
-b) zmianie jej częstotliwości
-c) zmianie jej amplitudy
-

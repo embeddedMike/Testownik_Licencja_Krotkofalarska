@@ -1,5 +1,0 @@
-125. Obwód rezonansowy równoległy LC, w punkcie rezonansu przedstawia oporność:
-a) rzeczywistą omową
-b) reaktancję pojemnościową
-c) reaktancję indukcyjną
-

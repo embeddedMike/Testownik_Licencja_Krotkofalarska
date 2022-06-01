@@ -1,5 +1,0 @@
-22. Amatorska telewizja z powolnym analizowaniem SSTV może być stosowana do łączności prowadzonych:
-a) na duże odległości na falach krótkich
-b) tylko na UKF
-c) tylko w internecie
-

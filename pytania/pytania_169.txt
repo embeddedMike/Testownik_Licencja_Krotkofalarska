@@ -1,5 +1,0 @@
-253. Przy podłączeniu zasilacza stacji przekrój sieci i wartość zabezpieczeń powinny być dobrany tak, aby zapewnić dostarczenie mocy:
-a) wyższej niż moc określona w tabliczce znamionowej urządzenia
-b) równej mocy określonej w tabliczce znamionowej urządzenia
-c) niższej niż moc określona w tabliczce znamionowej urządzenia
-

@@ -1,5 +1,0 @@
-89. W obwodach elektrycznych przyjmujemy, że kierunek przepływu prądu odbywa się od:
-a) od wyższego potencjału (+) do niższego (-)
-b) w prawo zgodnie z wskazówkami zegara
-c) przeciwnie do wskazówek zegara
-

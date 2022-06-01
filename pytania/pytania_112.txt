@@ -1,5 +1,0 @@
-141. Oscylator kwarcowy ma wysoką stabilność częstotliwości. Zawdzięcza ją:
-a) zasilaniu z stabilizowanego zasilacza
-b) zastosowaniu specjalnego tranzystora
-c) zastosowaniu rezonatora kwarcowego
-

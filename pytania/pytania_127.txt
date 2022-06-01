@@ -1,5 +1,0 @@
-211. Jakie dodatkowe zabezpieczenie, oprócz umieszczenia jej na bezpiecznej wysokości, są zalecane dla anteny na terenowym QTH ?
-a) nie są potrzebne żadne dodatkowe zabezpieczenia
-b) wykonanie anteny z drutu miedzianego w igielicie
-c) zakaz przebywania pod anten podczas nadawania
-

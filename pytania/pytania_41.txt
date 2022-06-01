@@ -1,5 +1,0 @@
-67. Reflektometr wskazuje, że fala padająca jest równa fali odbitej. WFS równy jest nieskończoności. Co może być przyczyną takiego stanu ?
-a) zwarcie lub przerwa w kablu
-b) niewielka zmiana oporności falowej anteny
-c) zamoczenie izolacji w kablu
-

@@ -1,5 +1,0 @@
-205. Kabel koncentryczny wprowadza straty sygnału. Kabel przy częstotliwości 150 MHz ma straty 12 dB na 100 m. Długość kabla między anteną a odbiornikiem wynosi 50 m. Ile razy napięcie na wejściu odbiornika będzie mniejsze niż w antenie?
-a) 4 razy
-b) 6 razy
-c) 2 razy
-

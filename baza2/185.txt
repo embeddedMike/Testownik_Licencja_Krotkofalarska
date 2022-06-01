@@ -1,5 +1,0 @@
-X001
-Czy podczas naprawy oscyloskopu mo¿na go w³¹czyæ bez za³o¿onego na lampê cylindra ochronnego ?
-mo¿na bez ¿adnego ryzyka
-mo¿na, ale nale¿y uwa¿aæ na wysokie napiêcie
-kategorycznie nie wolno

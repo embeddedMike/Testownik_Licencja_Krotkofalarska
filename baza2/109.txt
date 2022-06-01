@@ -1,5 +1,0 @@
-X010
-Aby czytelnie odebraæ sygna³ SSB, to przy odbiorze dolnej wstêgi (LSB) sygna³ odtwarzaj¹cy falê noœn¹ powinien byæ:
-poni¿ej wstêgi LSB
-powy¿ej wstêgi LSB
-w œrodku LSB

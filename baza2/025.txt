@@ -1,6 +1,0 @@
-X010
-S¹ dwie cewki powietrzne. Przy tej samej œrednicy i iloœci zwojów, L1 jest nawiniêta drutem dwa razy grubszym ni¿ L2. Która z nich ma wiêksz¹ dobroæ Q ?
-cewka L2
-cewka L1
-obie maj¹ tak¹ sam¹ dobroæ, bo maj¹ t¹ sam¹ œrednicê
-

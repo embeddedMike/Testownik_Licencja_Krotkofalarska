@@ -1,5 +1,0 @@
-X010
-Naprawa bezpieczników topikowych jest:
-dopuszczalna dla bezpieczników stosowanych przy niskim napiêciu
-bezwzglêdnie zabroniona
-dopuszczalna przy zastosowaniu drutu topikowego o odpowiedniej gruboœci

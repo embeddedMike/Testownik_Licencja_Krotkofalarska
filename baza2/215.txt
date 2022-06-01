@@ -1,5 +1,0 @@
-X100
-Co to jest dziennik ³¹cznoœci LOG ?
-jest to dokument radiostacji amatorskiej zawieraj¹cy informacje o korespondencji z innymi radiostacjami amatorskimi, zawieraj¹cy znak stacji, imiê operatora, datê, godzinê, pasmo w jakim przeprowadzono QSO
-jest to informacja o procedurach obowi¹zuj¹cych podczas ³¹cznoœci z innymi stacjami
-jest to informacja o kontroli radiostacji przez inspektorów UKE

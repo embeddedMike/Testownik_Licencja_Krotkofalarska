@@ -1,5 +1,0 @@
-296. Czy można radioamatorski znak wywoławczy używać podczas pracy w zakresach częstotliwości nieprzeznaczonych dla służby amatorskiej ?
-a) można, po uzyskaniu specjalnej zgody UKE
-b) absolutnie nie, znak radioamatorski można używać tylko w zakresach częstotliwości przeznaczonych dla radioamatorów
-c) nie jest to zabronione i zależy od decyzji radioamatora
-

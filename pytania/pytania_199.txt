@@ -1,5 +1,0 @@
-283. Co oznacza wg kodu Q symbol QRP ?
-a) nadawaj powoli
-b) zmniejsz moc, zmniejszam moc
-c) powtórz swój znak wywoławczy
-

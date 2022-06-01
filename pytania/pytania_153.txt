@@ -1,5 +1,0 @@
-237. Na terenowym QTH uziemienie można wykonać:
-a) wbijając uziom do ziemi jako osobne uziemienie dla swojej stacji
-b) podłączając się do uziomu roboczego na słupie kratowym
-c) podłączając się do uziomu w energetycznej szafie rozdzielczej
-

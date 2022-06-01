@@ -1,5 +1,0 @@
-118. Tranzystor krzemowy ma wzmocnienie prądowe B = 100. Napięcie zasilania wynosi 5 V. Przez kolektor tego tranzystora płynie prąd 100 mA. Jaki jest prąd bazy tego tranzystora ?
-a) 1 mA
-b) 5 mA
-c) 20 mA
-

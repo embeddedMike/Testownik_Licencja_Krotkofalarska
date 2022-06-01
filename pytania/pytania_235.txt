@@ -1,5 +1,0 @@
-319. Poprawne literowanie wg alfabetu ITU litery R i V:
-a) Ren, Viktor
-b) Romeo, Viktor
-c) Radio, Viola
-

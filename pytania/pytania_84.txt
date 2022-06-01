@@ -1,5 +1,0 @@
-110. Moc wyjściową nadajnika FM podano w dBW i wynosi ona 13 dBW. Ile to jest w watach? (dla ułatwienia podajemy, że 10 dBW odpowiada 10 W
-a) 5 W
-b) 130 W
-c) 20 W
-

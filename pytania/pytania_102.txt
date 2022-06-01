@@ -1,5 +1,0 @@
-128. Jakie pasmo musi posiadać filtr pasmowy dla poprawnego odbioru stacji radiofonicznej AM ?
-a) 9 kHz
-b) 20 kHz
-c) 3.5 kHz
-

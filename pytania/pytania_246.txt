@@ -1,5 +1,0 @@
-330. Który z poniższych kodów Q oznacza: Mam zakłócenia od innych stacji ?
-a) QWO
-b) QQQ
-c) QRM
-

@@ -1,5 +1,0 @@
-305. Okręg wywoławczy SP4 to obszar:
-a) województwa mazowieckiego
-b) województw lubuskiego i wielkopolskiego
-c) województw podlaskiego i warmińsko-mazurskiego
-

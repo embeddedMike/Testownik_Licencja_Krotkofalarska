@@ -1,5 +1,0 @@
-84. Jeżeli nadajnik promieniuje energię w.cz. poprzez sieć zasilającą to stosujemy:
-a) filtr w.cz. na wyjściu antenowym nadajnika
-b) uziemiamy obudowę
-c) uziemiamy obudowę i włączamy filtr sieciowy w zasilanie
-
